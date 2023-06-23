@@ -569,7 +569,20 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110620&extension
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110621&extension=ts&play_token=zulkarnain@.ts
 
+----Sony Sports Ten 1----
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="4. SEPAK BOLA", Sony Sports Ten 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/16622
 
+----Sony Sports Ten 2----
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="4. SEPAK BOLA", Sony Sports Ten 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/16621
+
+----Sony Sports Ten 3----
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/aeb289d5fd8b53e456a0f84e884a97ed.jpg" group-title="4. SEPAK BOLA", Sony Sports Ten 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/56191
 
 
 
@@ -705,6 +718,12 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="" group-title="6. ISLAMI", Tawaf TV
 https://anevia114.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+----Muslim TV----
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="MuslimTV.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOKVi9w4GShzFxC-ISRwtAYzvNI3KyZyfw6Q&usqp=CAU" group-title="6. ISLAMI", Muslim TV
+https://anevia114.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 ----Makkah TV----
 #EXTINF:-1 tvg-logo="" group-title="6. ISLAMI", Makkah TV
