@@ -238,6 +238,11 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/166399
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png" group-title="2. BERITA", MNC News
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165058
 
+----IDX----
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="IDXChannel.Id" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png" group-title="2. BERITA", IDX
+https://anevia114.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 
 
