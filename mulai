@@ -182,10 +182,10 @@ http://103.152.118.53:80/streams/daerah/nusantaratv.m3u8
 
 
 ----DAAI TV----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Lokal/DAAI%20TV.png" group-title="1. INDONESIA", DAAI TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Lokal/DAAI%20TV.png" group-title="1. INDONESIA", DAAI TV
 https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Lokal/DAAI%20TV.png" group-title="1. INDONESIA", DAAI TV (*)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Lokal/DAAI%20TV.png" group-title="1. INDONESIA", DAAI TV (*)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=daaiteve
 http://103.152.118.53:80/streams/daaiteve/index.m3u8
@@ -260,11 +260,11 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298514
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 ----beIN Sports 1----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/beIN%20SPORTS1.png" group-title="3. OLAHRAGA", beIN Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS1.png" group-title="3. OLAHRAGA", beIN Sports 1
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165105
 
 ----beIN Sports 3----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/beIN%20SPORTS3.png" group-title="3. OLAHRAGA", beIN Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS3.png" group-title="3. OLAHRAGA", beIN Sports 3
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298506
 
 ----Fight Sport----
@@ -272,15 +272,15 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298506
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298531
 
 ----MNC Sports----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/MNC%20Sports.png" group-title="3. OLAHRAGA", MNC Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/MNC%20Sports.png" group-title="3. OLAHRAGA", MNC Sports
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157589
 
 ----MNC Sports 2----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/MNC%20Sports2.png" group-title="3. OLAHRAGA", MNC Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/MNC%20Sports2.png" group-title="3. OLAHRAGA", MNC Sports 2
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298548
 
 ----MNC Sports 3----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/MNC%20Sports3.png" group-title="3. OLAHRAGA", MNC Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/MNC%20Sports3.png" group-title="3. OLAHRAGA", MNC Sports 3
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298549
 
 ----Soccer Channel----
@@ -298,15 +298,15 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298570
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298571
 
 ----Usee Sport 1----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/Usee%20Sports.png" group-title="3. OLAHRAGA", Usee Sport 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Usee%20Sports.png" group-title="3. OLAHRAGA", Usee Sport 1
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298577
 
 ----Usee Sport 2----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/Usee%20Sports2.png" group-title="3. OLAHRAGA", Usee Sport 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Usee%20Sports2.png" group-title="3. OLAHRAGA", Usee Sport 2
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298578
 
 ----Golf----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/CNBC%20GOLF.png" group-title="3. OLAHRAGA", Golf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/CNBC%20GOLF.png" group-title="3. OLAHRAGA", Golf
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298534
 
 ----NBA TV----
@@ -447,11 +447,11 @@ http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/60766.ts
 ##https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.2.ro.m3u8
 
 ----BEIN SPORTS PREMIUM 1 AR----
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/beIN%20SPORTS%20PREMIUM1.png" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 1 AR
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS%20PREMIUM1.png" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 1 AR
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32008.ts
 
 ----BEIN SPORTS PREMIUM 2 AR----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/beIN%20SPORTS%20PREMIUM2.png" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 2 AR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS%20PREMIUM2.png" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 2 AR
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32007.ts
 
 ----CANAL+ Sport----
@@ -474,15 +474,15 @@ http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32007.ts
 #EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", TyC Sports US
 
 ----beIN Sports 1----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/beIN%20SPORTS1.png" group-title="4. SEPAK BOLA", beIN Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS1.png" group-title="4. SEPAK BOLA", beIN Sports 1
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/15204.ts
 
 ----beIN Sports 2----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/beIN%20SPORTS2.png" group-title="4. SEPAK BOLA", beIN Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS2.png" group-title="4. SEPAK BOLA", beIN Sports 2
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/15203.ts
 
 ----beIN Sports 3----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/beIN%20SPORTS3.png" group-title="4. SEPAK BOLA", beIN Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS3.png" group-title="4. SEPAK BOLA", beIN Sports 3
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/83080.ts
 
 
