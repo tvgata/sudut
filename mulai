@@ -529,6 +529,41 @@ http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/83080.ts
 #EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports Liga US [!]
 
 
+----Now Sports 1----
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/631-wbg-c.png" group-title="4. SEPAK BOLA", Now Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110615&extension=ts&play_token=zulkarnain@.ts
+
+----Now Sports 2----
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/632-wbg-c.png" group-title="4. SEPAK BOLA", Now Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110616&extension=ts&play_token=zulkarnain@.ts
+
+----Now Sports 3----
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/633-wbg-c.png" group-title="4. SEPAK BOLA", Now Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110617&extension=ts&play_token=zulkarnain@.ts
+
+----Now Sports 4----
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/634-wbg-c.png" group-title="4. SEPAK BOLA", Now Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110618&extension=ts&play_token=zulkarnain@.ts
+
+----Now Sports 5----
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/635-wbg-c.png" group-title="4. SEPAK BOLA", Now Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110619&extension=ts&play_token=zulkarnain@.ts
+
+----Now Sports 6----
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/636-wbg-c.png" group-title="4. SEPAK BOLA", Now Sports 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110620&extension=ts&play_token=zulkarnain@.ts
+
+----Now Sports 7----
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/637-wbg-c.png" group-title="4. SEPAK BOLA", Now Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110621&extension=ts&play_token=zulkarnain@.ts
+
 
 
 
