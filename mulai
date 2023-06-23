@@ -1,0 +1,699 @@
+#EXTM3U
+#EXTM3U x-tvg-url="http://103.152.118.53:80/main/epg.xml.zip" tvg-shift=0 m3uautoload=1 refresh="3600"
+
+------------------------------------
+            1. INDONESIA 
+------------------------------------
+
+----RCTI----
+#EXTINF:-1 tvg-id="rcti.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png", RCTI
+http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png", RCTI (*)
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
+
+
+----GTV----
+#EXTINF:-1 tvg-id="gtv.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png", GTV
+http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+
+#EXTINF:-1 tvg-id="gtv.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png", GTV (*)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=geteve
+http://103.152.118.53:80/streams/visyen/dash/GTV-HD/master.mpd
+
+
+----MNCTV----
+#EXTINF:-1 tvg-id="mnctv.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png", MNC TV
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+
+#EXTINF:-1 tvg-id="mnctv.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png", MNC TV (*)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=emenceteve
+http://103.152.118.53:80/streams/visyen/dash/MNCTV-HD/master.mpd
+
+
+----iNews----
+#EXTINF:-1 tvg-id="inews.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png", INews
+http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+
+#EXTINF:-1 tvg-id="inews.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png", INews (*)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=ainyus
+http://103.152.118.53:80/streams/visyen/dash/iNewsTV-HDD/master.mpd
+
+
+----ANTV----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", ANTV
+http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", ANTV (*)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=anteve
+http://103.152.118.53:80/streams/visyen/dash/ANTV/master.mpd
+
+
+----Trans TV----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png", Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png", Trans TV (*)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=transteve
+http://103.152.118.53:80/streams/transteve/index.m3u8
+
+
+----Trans 7----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png", Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png", Trans 7 (*)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=transpitu
+http://103.152.118.53:80/streams/transpitu/index.m3u8
+
+
+----NET----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png", Net
+http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png", Net (*)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=netdot
+http://103.152.118.53:80/streams/visyen/dash/NetTV-HD/master.mpd
+
+
+----SCTV----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png", SCTV
+http://103.152.118.53:80/streams/esceteve_2/index.m3u8
+##http://103.152.118.53:80/streams/esceteve/index.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png", SCTV (*)
+http://103.152.118.53:80/streams/efemeks/esceteve/index.m3u8
+
+
+----Indosiar----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png", Indosiar
+http://103.152.118.53:80/streams/indosiar_2/index.m3u8
+##http://103.152.118.53:80/streams/indosiar/index.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png", Indosiar (*)
+http://103.152.118.53:80/streams/efemeks/indosiar/index.m3u8
+
+
+----TVOne----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586678066-.png", TV One
+http://210.210.155.37/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586678066-.png", TV One (*)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=tiviwan
+http://103.152.118.53:80/streams/visyen/dash/TVOne-2/master.mpd
+
+
+----Metro TV----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png", Metro TV
+http://103.152.118.53:80/streams/metroteve/index.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png", Metro TV (*)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=metroteve
+http://103.152.118.53:80/streams/metroteve/index.m3u8
+
+
+----Kompas TV----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png", Kompas TV
+http://103.152.118.53:80/streams/kompasteve/index.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png", Kompas TV (*)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=kompasteve
+http://103.152.118.53:80/streams/kompasteve/index.m3u8
+
+
+----Rajawali TV----
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="1. INDONESIA", Rajawali TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/196457
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="1. INDONESIA", Rajawali TV (*)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=rajawaliteve
+http://103.152.118.53:80/streams/visyen/dash/RTV/master.mpd
+
+
+----JTV----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="1. INDONESIA", JTV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165091
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="1. INDONESIA", JTV (*)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=jeteve
+http://103.152.118.53:80/streams/visyen/dash/JTV/master.mpd
+
+
+----Mentari TV----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="1. INDONESIA", Mentari TV
+http://103.152.118.53:80/streams/mentariteve/index.m3u8
+
+----Moji----
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLjKzrFb/moji.png" group-title="1. INDONESIA", Moji
+http://103.152.118.53:80/streams/moji/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLjKzrFb/moji.png" group-title="1. INDONESIA", Moji (*)
+http://103.152.118.53:80/streams/efemeks/moji/index.m3u8
+
+
+----TVRI----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="1. INDONESIA", TVRI
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162504
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="1. INDONESIA", TVRI (*)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=teveeri
+http://103.152.118.53:80/streams/visyen/dash/PemersatuBangsa/master.mpd
+
+
+----Nusantara TV----
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nusantara_tv_id.png" group-title="1. INDONESIA", Nusantara TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/166410
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nusantara_tv_id.png" group-title="1. INDONESIA", Nusantara TV (*)
+http://103.152.118.53:80/streams/daerah/nusantaratv.m3u8
+
+
+----DAAI TV----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Lokal/DAAI%20TV.png" group-title="1. INDONESIA", DAAI TV
+https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Lokal/DAAI%20TV.png" group-title="1. INDONESIA", DAAI TV (*)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=daaiteve
+http://103.152.118.53:80/streams/daaiteve/index.m3u8
+
+
+----OK TV----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png" group-title="1. INDONESIA", OK TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/221956
+
+
+----Garuda TV----
+#EXTINF:0 tvg-logo="https://i.ibb.co/XsZhqDD/image.png" group-title="1. INDONESIA",Garuda TV
+https://stream.garuda.tv/live/garudatv/live.m3u8
+
+
+
+
+
+
+
+------------------------------------
+             2. BERITA 
+------------------------------------
+
+----CNBC Indonesia----
+#EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650" group-title="2. BERITA", CNBC Indonesia
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165062
+
+----CNN Indonesia----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/640px-Logo_of_CNN_Indonesia.svg.png" group-title="2. BERITA", CNN Indonesia
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162137
+
+----Berita Satu----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png" group-title="2. BERITA", Berita Satu
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162513
+
+----Berita Satu news----
+#EXTINF:-1 tvg-logo="https://dev.firstmedia.com:8443/files/images/d/new-logo/channels/11-NEWS/Berita%20Satu%20SD-FirstMedia-Chl-1.jpg" group-title="2. BERITA", Berita Satu news
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/287421
+
+----Berita Satu World----
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3wBsPmSp34BKSo9RXB-1xoPZlp5B81mCTaMQYPwUPI6KO-YHQZBGRgOfb1xepXRlvdFc&usqp=CAU" group-title="2. BERITA", Berita Satu World
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162136
+
+----Jakarta Globe News----
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004" group-title="2. BERITA", Jakarta Globe News
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/166399
+
+----MNC News----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png" group-title="2. BERITA", MNC News
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165058
+
+
+
+
+########### 3. OLAHRAGA ##############
+
+----Champions TV 1----
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="3. OLAHRAGA",Champions TV 1
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298512
+
+----Champions TV 2----
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="3. OLAHRAGA",Champions TV 2
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298513
+
+----Champions TV 3----
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="3. OLAHRAGA",Champions TV 3
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298514
+
+----TVRI Sports----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="3. OLAHRAGA",TVRI_SPORTS
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+----beIN Sports 1----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/beIN%20SPORTS1.png" group-title="3. OLAHRAGA", beIN Sports 1
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165105
+
+----beIN Sports 3----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/beIN%20SPORTS3.png" group-title="3. OLAHRAGA", beIN Sports 3
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298506
+
+----Fight Sport----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="3. OLAHRAGA", Fight Sport
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298531
+
+----MNC Sports----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/MNC%20Sports.png" group-title="3. OLAHRAGA", MNC Sports
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157589
+
+----MNC Sports 2----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/MNC%20Sports2.png" group-title="3. OLAHRAGA", MNC Sports 2
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298548
+
+----MNC Sports 3----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/MNC%20Sports3.png" group-title="3. OLAHRAGA", MNC Sports 3
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298549
+
+----Soccer Channel----
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="3. OLAHRAGA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png", Soccer Channel
+https://nxanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+----SpoTV----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="3. OLAHRAGA", SpoTV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298570
+
+----SpoTV 2----
+#EXTINF:-1 tvg-id="spotv2.kr" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="3. OLAHRAGA", SpoTV 2
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298571
+
+----Usee Sport 1----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/Usee%20Sports.png" group-title="3. OLAHRAGA", Usee Sport 1
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298577
+
+----Usee Sport 2----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/Usee%20Sports2.png" group-title="3. OLAHRAGA", Usee Sport 2
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298578
+
+----Golf----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/CNBC%20GOLF.png" group-title="3. OLAHRAGA", Golf
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298534
+
+----NBA TV----
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="3. OLAHRAGA", NBA TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298558
+
+----Tennis Channel----
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmbNbKLfkfTPalocMLlNrX--kHkLkahnrm82wm8JqNcu2Uopz4tivJXXPd1QJZFNjkII&usqp=CAU" group-title="3. OLAHRAGA", Tennis Channel
+#https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+----FOX SPORTS 1----
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2bjPO01zTLjgtAouG72ezrqsZtoL5VT8eQ&usqp=CAU" group-title="3. OLAHRAGA", FOX SPORTS 1
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+
+----FOX SPORTS 2----
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2bjPO01zTLjgtAouG72ezrqsZtoL5VT8eQ&usqp=CAU" group-title="3. OLAHRAGA", FOX SPORTS 2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+
+----FOX SPORTS 3----
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2bjPO01zTLjgtAouG72ezrqsZtoL5VT8eQ&usqp=CAU" group-title="3. OLAHRAGA", FOX SPORTS 3
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
+----SPEED TV----
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060b2307340bd/086909c32b7a426eae75792a891c9d8f.jpg" group-title="3. OLAHRAGA", SPEED TV
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.m3u8
+
+----MOTORVISION TV----
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/70517bbb44cfd85432253e855bec7bb9.png" group-title="3. OLAHRAGA", MOTORVISION TV
+http://210.210.155.35:80/uq2663/h/h09/01.m3u8
+
+----Horizon Sports----
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857f48ecd2017f5ea03c5313e9/7a84b24e750f43d49799c533c6b9c709.png" group-title="3. OLAHRAGA",Horizon Sports
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856b6088c3016b87d55f480b52/manifest.mpd
+
+----REDBULL TV----
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="3. OLAHRAGA", RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+----Canal Motor----
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6vsp8QswZlEhlG5xE8itPPF_kg0451lbOUXDyVVQqWe0m9z74FoZ9E5BnmmGGGiKEFYs=w240-h480-rw" group-title="3. OLAHRAGA", Canal Motor
+https://digicom.hls.iptvdc.com/motorstv/index.m3u8
+##http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
+
+----Historycal Sports----
+#EXTINF:-1 tvg-logo="" group-title="3. OLAHRAGA", Historycal Sports
+##https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68578b331d80178b5acf1fd0a55/manifest.mpd
+
+
+
+
+
+
+########### 4. SEPAK BOLA ##############
+
+----ABU DHABI SPORT 1----
+#EXTINF:-1 tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="4. SEPAK BOLA", ABU DHABI SPORT 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+
+----ABU DHABI SPORT 2----
+#EXTINF:-1 tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="4. SEPAK BOLA", ABU DHABI SPORT 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+
+----ABU DHABI SPORT 3----
+#EXTINF:-1 tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="4. SEPAK BOLA", ABU DHABI SPORT 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+
+----Now Premier Sports 1----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 1
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69854
+
+----Now Premier Sports 2----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 2
+##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69855
+
+----Now Premier Sports 3----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 3
+##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69856
+
+----Now Premier Sports 4----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 4
+##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69857
+
+----Now Premier Sports 5----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 5
+##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69858
+
+----Now Premier Sports 6----  
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 6
+##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69859
+
+----Now Premier Sports 7----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 7
+##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69860
+
+----Now Premier Sports 8----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 8
+##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69861
+
+----BT SPORT----
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="4. SEPAK BOLA", BT SPORT
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/270.ts
+
+----BT SPORT 2----
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="4. SEPAK BOLA", BT SPORT 2 
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/273.ts
+
+----BT SPORT 3----
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="4. SEPAK BOLA", BT SPORT 3
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/271.ts
+
+----Astro Supersport 1----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="4. SEPAK BOLA", Astro Supersport 1
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/146068
+
+----Astro Supersport 2----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="4. SEPAK BOLA", Astro Supersport 2
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157556
+
+----Astro Supersport 3----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="4. SEPAK BOLA", Astro Supersport 3
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157557
+
+----Astro Supersport 4----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="4. SEPAK BOLA", Astro Supersport 4
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558
+
+----Eurosport 1----
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/eurosport-20018632.logowik.com.webp" group-title="4. SEPAK BOLA", Eurosport 1
+http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/60766.ts
+
+----Eurosport 2----
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eurosport 2
+##https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.2.ro.m3u8
+
+----BEIN SPORTS PREMIUM 1 AR----
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/beIN%20SPORTS%20PREMIUM1.png" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 1 AR
+http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32008.ts
+
+----BEIN SPORTS PREMIUM 2 AR----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/beIN%20SPORTS%20PREMIUM2.png" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 2 AR
+http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32007.ts
+
+----CANAL+ Sport----
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", CANAL+ Sport
+
+
+----CANAL+ Sport 2----
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", CANAL+ Sport 2
+
+
+---Eleven Sports 1----
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eleven Sports 1
+
+
+----Eleven Sports 2----
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eleven Sports 2
+
+
+----TyC Sports----
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", TyC Sports US
+
+----beIN Sports 1----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/beIN%20SPORTS1.png" group-title="4. SEPAK BOLA", beIN Sports 1
+http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/15204.ts
+
+----beIN Sports 2----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/beIN%20SPORTS2.png" group-title="4. SEPAK BOLA", beIN Sports 2
+http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/15203.ts
+
+----beIN Sports 3----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/beIN%20SPORTS3.png" group-title="4. SEPAK BOLA", beIN Sports 3
+http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/83080.ts
+
+
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 3 AU
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 4 US
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 5 US
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 6 US [!]
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 7 US [!]
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 8 US [!]
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports Liga US [!]
+
+
+
+
+
+
+
+########### 5. FILM ##############
+
+----Celestial Movies----
+#EXTINF:-1 group-title="5. FILM", Celestial Movies
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165065
+
+----Etv Bioskop----
+#EXTINF:-1 group-title="5. FILM", Etv Bioskop
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298526
+
+----Etv Bioskop 02----
+#EXTINF:-1 group-title="5. FILM", Etv Bioskop 02
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298527
+
+----Etv Bioskop 03----
+#EXTINF:-1 group-title="5. FILM", Etv Bioskop 03
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298528
+
+----Etv Bioskop 04----
+#EXTINF:-1 group-title="5. FILM", Etv Bioskop 04
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298529
+
+----Bioskop Indonesia----
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="5. FILM", Bioskop Indonesia
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264801
+
+----TVN----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png" group-title="5. FILM", TVN
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197965
+
+----TVN Movies----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png" group-title="5. FILM", TVN Movies
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157596
+
+----HBO----
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo-home-box-office9772.jpg" group-title="5. FILM", HBO
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197972
+
+----HBO Family----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png" group-title="5. FILM", HBO Family
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197055
+
+----HBO Hits----
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBV8EcYwRYQaVXIBoqInQAYRIj_DgfboUswMLC_GoYgpf9uep5mcSDSGagw7Fl0qZgoQA&usqp=CAU" group-title="5. FILM", HBO Hits
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/196480
+
+----HBO Signature----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="5. FILM", HBO Signature
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/221948
+
+----FLIK----
+#EXTINF:-1 tvg-logo="" group-title="5. FILM", FLIK
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165095
+
+----FMN----
+#EXTINF:-1 tvg-logo="" group-title="5. FILM", FMN
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165057
+
+----Fox Crime----
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef0e5e0250f0cc3e2bac80acdf3f841d.png" group-title="5. FILM", Fox Crime
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165076
+
+---- Galaxy----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" group-title="5. FILM", Galaxy
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264773
+
+----Galaxy Premium----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="5. FILM", Galaxy Premium
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264774
+
+----GEM----
+#EXTINF:-1 tvg-logo="" group-title="5. FILM", GEM
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298533
+
+----K+----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QYR53ti.png" group-title="5. FILM", K+
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197969
+
+----Sony One----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_164.png" group-title="5. FILM", Sony One
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165077
+
+----Zee Bioskop----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png" group-title="5. FILM", Zee Bioskop
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157584
+
+----Thrill----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="5. FILM", Thrill
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157580
+
+----KIX----
+#EXTINF:-1 tvg-logo="" group-title="5. FILM", KIX
+https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+----AXN----
+#EXTINF:-1 tvg-logo="" group-title="5. FILM", AXN
+https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+
+
+
+########### 6. ISLAMI ##############
+
+----Rodja TV----
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JWbm5qy/logo-rodjatv.png" group-title="6. ISLAMI", Rodja TV
+https://rodjatv.com/rodjatv/live.m3u8
+
+----TV Mu----
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png" group-title="6. ISLAMI", TV Mu
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/196459
+
+----TV 9 Nusantara----
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="6. ISLAMI", TV 9 Nusantara
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162509
+
+----MADINAH TV----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png" group-title="6. ISLAMI", MADINAH TV
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+
+----MTA TV----
+#EXTINF: -1 group-title="7. RELIGION"  tvg-logo="https://hamariweb.com/pakistan-tv-channels/images/ChannelsHome/133.jpg", Madina Live
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13" group-title="6. ISLAMI", MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+
+----Tawaf TV----
+#EXTINF:-1 tvg-logo="" group-title="6. ISLAMI", Tawaf TV
+https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+----Makkah TV----
+#EXTINF:-1 tvg-logo="" group-title="6. ISLAMI", Makkah TV
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+
+----MEDS TV Aceh----
+#EXTINF:-1 tvg-logo="" group-title="6. ISLAMI", MEDS TV Aceh
+https://h1.intechmedia.net/intech/ch23.m3u8
+
+----Hijrah TV----
+#EXTINF:-1 tvg-logo="" group-title="6. ISLAMI", Hijrah TV
+https://h1.intechmedia.net/intech/ch8.m3u8
+
+
+
+
+
+########### 7. PENGETAHUAN ##############
+
+----Nat Geo Wild----
+#EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", Nat Geo Wild
+##https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+----Discovery Asia HD----
+#EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", Discovery Asia HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch302)/index.m3u8
+
+----National Geographic----
+#EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", National Geographic
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+----Discovery Channel HD----
+#EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", Discovery Channel HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
+
+----Animal Planet----
+#EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", Animal Planet
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
+
+----BBC Earth----
+#EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN" tvg-id="BBCEarthAsia.uk" tvg-name="BBC Earth", BBC Earth
+https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+
+
+-----------------------------
+-----------8. VOD 2023----------
+-----------------------------
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Peter_Pan_%26_Wendy_poster.png" group-title="8. VOD 2023",Peterpan & Wendy (2023)
+https://www.dropbox.com/s/mg94zxkcfjoedvq/D21.FUN-Peter-Pan-Wendy-2023-1682681957.mp4?dl=1
