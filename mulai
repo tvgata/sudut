@@ -456,19 +456,35 @@ http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32007.ts
 
 ----CANAL+ Sport----
 #EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", CANAL+ Sport
-
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880461&extension=ts&play_token=zulkarnain@.ts
 
 ----CANAL+ Sport 2----
 #EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", CANAL+ Sport 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880460&extension=ts&play_token=zulkarnain@.ts
 
+----CANAL+ Sport 3----
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", CANAL+ Sport 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880459&extension=ts&play_token=zulkarnain@.ts
+
+----CANAL+ Sport 4----
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", CANAL+ Sport 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880458&extension=ts&play_token=zulkarnain@.ts
 
 ---Eleven Sports 1----
 #EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eleven Sports 1
-
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880457&extension=ts&play_token=zulkarnain@.ts
 
 ----Eleven Sports 2----
 #EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eleven Sports 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880456&extension=ts&play_token=zulkarnain@.ts
 
+----Eleven Sports 3----
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eleven Sports 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880455&extension=ts&play_token=zulkarnain@.ts
+
+----Eleven Sports 4----
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eleven Sports 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880454&extension=ts&play_token=zulkarnain@.ts
 
 ----TyC Sports----
 #EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", TyC Sports US
