@@ -688,14 +688,16 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162509
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png" group-title="6. ISLAMI", MADINAH TV
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
-----MTA TV----
+----Madina Live----
 #EXTINF: -1 group-title="7. RELIGION"  tvg-logo="https://hamariweb.com/pakistan-tv-channels/images/ChannelsHome/133.jpg", Madina Live
+
+----MTA TV----
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13" group-title="6. ISLAMI", MTA TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
 
 ----Tawaf TV----
 #EXTINF:-1 tvg-logo="" group-title="6. ISLAMI", Tawaf TV
-https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+https://anevia114.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 ----Makkah TV----
 #EXTINF:-1 tvg-logo="" group-title="6. ISLAMI", Makkah TV
