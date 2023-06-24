@@ -250,15 +250,23 @@ https://anevia114.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 ----Champions TV 1----
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="3. OLAHRAGA",Champions TV 1
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298512
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298512
 
 ----Champions TV 2----
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="3. OLAHRAGA",Champions TV 2
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298513
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298513
 
 ----Champions TV 3----
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="3. OLAHRAGA",Champions TV 3
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298514
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298514
+
+----Champions TV 5----
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="3. OLAHRAGA",Champions TV 5
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298491
+
+----Champions TV 6----
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="3. OLAHRAGA",Champions TV 6
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298492
 
 ----TVRI Sports----
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="3. OLAHRAGA",TVRI_SPORTS
