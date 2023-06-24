@@ -296,11 +296,13 @@ https://nxanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 
 ----SpoTV----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="3. OLAHRAGA", SpoTV
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298570
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941564&play_token=zulkarnain@.ts
 
 ----SpoTV 2----
 #EXTINF:-1 tvg-id="spotv2.kr" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="3. OLAHRAGA", SpoTV 2
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298571
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941563&play_token=zulkarnain@.ts
 
 ----Usee Sport 1----
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Usee%20Sports.png" group-title="3. OLAHRAGA", Usee Sport 1
