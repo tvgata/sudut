@@ -5,16 +5,21 @@
 ============#1.LIVE MOTOGP===================
 
 
-#EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/C5gD7th/file-7408e006-5492-4b54-aa54-581581b2d87b-modified.png" group-title="#1.LIVE MOTOGP",SPOTV 1
+#EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/C5gD7th/file-7408e006-5492-4b54-aa54-581581b2d87b-modified.png" group-title="#1.LIVE MOTOGP",SPOTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
+#EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/C5gD7th/file-7408e006-5492-4b54-aa54-581581b2d87b-modified.png" group-title="#1.LIVE MOTOGP",SPOTV (True)
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186480&extension=ts&play_token=ZgqRTef08z
 
 #EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/N7LpgDN/channel-428-modified.png" group-title="#1.LIVE MOTOGP",SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/N7LpgDN/channel-428-modified.png" group-title="#1.LIVE MOTOGP",SPOTV 2 (True)
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186481&extension=ts&play_token=ZgqRTef08z
 
 
 #EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-logo="https://i.ibb.co/64tqpW0/unnamed-3-modified-1.png" group-title="#1.LIVE MOTOGP",Supersport Motorsport
@@ -29,9 +34,15 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.ibb.co/Tk4gX8z/unnamed-24-modified.png" group-title="#1.LIVE MOTOGP",BT Sport 2
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/273.ts
 
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.ibb.co/Tk4gX8z/unnamed-24-modified.png" group-title="#1.LIVE MOTOGP",BT Sport 2 (*)
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/53709.ts
+
 #EXTINF:-1 group-title="#1.LIVE MOTOGP" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png",TRANS 7
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vuytwx1470409983.png" group-title="#1.LIVE MOTOGP",Sport.TV 4
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167745.ts
 
 
 
