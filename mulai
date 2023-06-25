@@ -501,19 +501,19 @@ http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32008.ts
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32007.ts
 
 ----CANAL+ Sport----
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", CANAL+ Sport
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Canal%2B%20Sport.png" group-title="4. SEPAK BOLA", CANAL+ Sport
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880461&extension=ts&play_token=zulkarnain@.ts
 
 ----CANAL+ Sport 2----
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", CANAL+ Sport 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Canal%2B%20Sport2.png" group-title="4. SEPAK BOLA", CANAL+ Sport 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880460&extension=ts&play_token=zulkarnain@.ts
 
 ----CANAL+ Sport 3----
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", CANAL+ Sport 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Canal%2B%20Sport3.png" group-title="4. SEPAK BOLA", CANAL+ Sport 3
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880459&extension=ts&play_token=zulkarnain@.ts
 
 ----CANAL+ Sport 4----
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", CANAL+ Sport 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Canal%2B%20Sport4.png" group-title="4. SEPAK BOLA", CANAL+ Sport 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880458&extension=ts&play_token=zulkarnain@.ts
 
 ---Eleven Sports 1----
