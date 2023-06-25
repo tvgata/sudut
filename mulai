@@ -198,7 +198,7 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/221956
 
 ----Garuda TV----
 #EXTINF:0 tvg-logo="https://i.ibb.co/XsZhqDD/image.png" group-title="1. INDONESIA",Garuda TV
-https://stream.garuda.tv/live/garudatv/live.m3u8
+https://streamweb.garuda.tv/live/garudatv/playlist.m3u8
 
 
 
@@ -547,6 +547,24 @@ http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/15203.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS3.png" group-title="4. SEPAK BOLA", beIN Sports 3
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/83080.ts
 
+----DAZN beIN Sports 1----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS1.png" group-title="4. SEPAK BOLA", DAZN beIN Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
+
+----DAZN beIN Sports 2----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS2.png" group-title="4. SEPAK BOLA", DAZN beIN Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
+
+----DAZN beIN Sports 3----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS3.png" group-title="4. SEPAK BOLA", DAZN beIN Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
+
 
 #EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 3 AU
 
@@ -741,18 +759,19 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/196459
 
 ----TV 9 Nusantara----
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="6. ISLAMI", TV 9 Nusantara
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162509
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 ----MADINAH TV----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png" group-title="6. ISLAMI", MADINAH TV
-http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+https://edge.taghtia.com/sa/6.m3u8
 
 ----Madina Live----
 #EXTINF: -1 group-title="7. RELIGION"  tvg-logo="https://hamariweb.com/pakistan-tv-channels/images/ChannelsHome/133.jpg", Madina Live
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 ----MTA TV----
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13" group-title="6. ISLAMI", MTA TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+https://ythls.onrender.com/channel/UCIrj7gqiu8uUfgMitYFzkNg.m3u8
 
 ----Tawaf TV----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -768,7 +787,8 @@ https://anevia114.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 ----Makkah TV----
 #EXTINF:-1 tvg-logo="" group-title="6. ISLAMI", Makkah TV
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+https://edge.taghtia.com/sa/7.m3u8
+##http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 
 ----MEDS TV Aceh----
 #EXTINF:-1 tvg-logo="" group-title="6. ISLAMI", MEDS TV Aceh
@@ -778,6 +798,19 @@ https://h1.intechmedia.net/intech/ch23.m3u8
 #EXTINF:-1 tvg-logo="" group-title="6. ISLAMI", Hijrah TV
 https://h1.intechmedia.net/intech/ch8.m3u8
 
+----Khazanah----
+#EXTINF:-1 tvg-logo="" group-title="6. ISLAMI", Khazanah
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="6. ISLAMI" ,Wesal TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+
+----MQTV----
+#EXTINF:-1 tvg-logo="" group-title="6. ISLAMI", MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 
 
@@ -810,6 +843,75 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 
 
 
+###########################
+######### 8. RADIO ########
+###########################
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/pramborsfm.png" group-title="8. RADIO", Prambors FM
+https://23743.live.streamtheworld.com/PRAMBORS_FM.mp3
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/radiogentara.png" group-title="8. RADIO", Radio Gentara
+https://s1.gntr.net/radio/8080/gentara128
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/dmi.png" group-title="8. RADIO", DMI
+https://radione.top:8000/dmi
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/radiosolopos.png" group-title="8. RADIO",Radio Solopos
+https://radio.solopos.com:8002/stream
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mtafm.png" group-title="8. RADIO",MTA FM
+http://103.129.223.201:1079/;
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/persadafm.png" group-title="8. RADIO",Persada FM
+http://103.129.223.201:1079/;
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/nasionalfm.png" group-title="8. RADIO",Nasional FM
+https://d2kziuzkf9oizb.cloudfront.net/rd005/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/pilihanfm.png" group-title="8. RADIO",Pilihan FM
+https://d2kziuzkf9oizb.cloudfront.net/rd003/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/pelangifm.png" group-title="8. RADIO",Pelangi FM
+https://d2kziuzkf9oizb.cloudfront.net/rd001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/harmonifm.png" group-title="8. RADIO",Harmoni FM
+https://d2kziuzkf9oizb.cloudfront.net/rd002/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/nurislamfm.png" group-title="8. RADIO",Nur Islam FM
+https://d2kziuzkf9oizb.cloudfront.net/rd004/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/musica.png" group-title="8. RADIO",Musica Studios
+https://ythls.onrender.com/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/aquarius.png" group-title="8. RADIO",Aquarius Musikindo
+https://ythls.onrender.com/channel/UCpJRmMTfdv0iPbnjo6qBw_g.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/buletinfm.png" group-title="8. RADIO",Buletin FM
+https://ythls.onrender.com/channel/UCIAAIRr8ASmDvwOk6Agfvmw.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/flyfm.png" group-title="8. RADIO",Fly FM
+https://ythls.onrender.com/channel/UCEpTWSFqICafylnJ0tdQpeA.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/suriafm.png" group-title="8. RADIO",Suria FM
+https://ythls.onrender.com/channel/UCjDM2C3nXPGD_cGDyrrBT6w.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/hotfm.png" group-title="8. RADIO",Hot FM
+https://ythls.onrender.com/channel/UCFV_yPFxPbbmrYJ9J6zJglA.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/eramuzik.png" group-title="8. RADIO",ERA Muzik
+https://ythls.onrender.com/channel/UCNq5APn4lVabRaYCnTxiNIg.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/8fm.png" group-title="8. RADIO",8FM
+https://ythls.onrender.com/channel/UCXKqVoc7khb8cg3ugfrih4g.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/molekfm.png" group-title="8. RADIO",Molek FM
+https://ythls.onrender.com/channel/UCkmwGg4oN_Ik4QBx8SqCYJA.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/sinarfm.png" group-title="8. RADIO",Sinar FM
+https://ythls.onrender.com/channel/UCt4ZHf2zhAzkq3iI5tG0yFg.m3u8
+
+
+
 -----------------------------
------------8. VOD 2023----------
+-----------9. VOD 2023----------
 -----------------------------
