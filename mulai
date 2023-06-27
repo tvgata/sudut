@@ -1082,8 +1082,10 @@ https://www.googleapis.com/drive/v3/files/1VdUWrSCQFBpKQUsHmtyAOi1f-Nhthm15?alt=
 https://www.googleapis.com/drive/v3/files/1dal7ijTxXEtR2ZTu30moznxL2mY-lFS6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2023",Ant-Man and the Wasp: Quantumania
 https://www.googleapis.com/drive/v3/files/1sZJPzPWp0sDFqG9LlcN2TnyaLnb_NaQo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",Assassin Club
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://cms.cinepolis.co.id/Gallery/MOV/Movie/Thumbnail/f2b3b0b1a4964155bbe69dd7a22b8038.jpg", Assassin Club
 https://www.googleapis.com/drive/v3/files/1Q61fh2PVa1Zsm0mtZD6yUsVLctbukX4r?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",Asterix & Obelix: The Middle Kingdom
 https://www.googleapis.com/drive/v3/files/1_Z3pDzzDOVfR1aFB6PXU1vYDh2-sucZU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2023",At Midnight
