@@ -1052,14 +1052,18 @@ https://ythls.onrender.com/channel/UCt4ZHf2zhAzkq3iI5tG0yFg.m3u8
 -----------9. VOD 2023----------
 -----------------------------
 
-#EXTINF:-1 group-title="VOD 2023",10 Days of a Good Man
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0ifGKGdHFeMKVJcJ1qyi1UgTZjQVsRYBC8amLWY1e-jxVa4ct",10 Days of a Good Man
 https://www.googleapis.com/drive/v3/files/15HajAAaBRY_Q2qGzHsbaFAdLiMbrydyE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",18 Pages
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="",18 Pages
 https://www.googleapis.com/drive/v3/files/1FEve2edXbkYKsDNn-4047j-y3LvcUuuK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",65
 https://www.googleapis.com/drive/v3/files/1YQhkdVEWPlOpy-bHWxDkMbMavOPQN_u8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",97 Minutes
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAoZrDL8xtN2AgPG-EzU22SkU0dguj3GXNCIiDBFd9tIoofcIz", 97 Minutes
 https://www.googleapis.com/drive/v3/files/1uwm_F9gO7YGVsvjxR1EYMlYpdztRWy-2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",About Joan
 https://www.googleapis.com/drive/v3/files/1ZjEolbJJTHltVnNKEAQGtoidFVkoVaM-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2023",AFAM
