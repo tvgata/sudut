@@ -437,21 +437,21 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298506
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298531
 
 ----MNC Sports----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/MNC%20Sports.png" group-title="3. OLAHRAGA", MNC Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars.png" group-title="3. OLAHRAGA", MNC Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd?token_zulkarnaien66
 
 ----MNC Sports 2----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/MNC%20Sports2.png" group-title="3. OLAHRAGA", MNC Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars2.png" group-title="3. OLAHRAGA", MNC Sports 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd?token_zulkarnaien66
 
 ----MNC Sports 3----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/MNC%20Sports3.png" group-title="3. OLAHRAGA", MNC Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars3.png" group-title="3. OLAHRAGA", MNC Sports 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
@@ -507,7 +507,7 @@ https://webudit.cdnhks.lol/lb/premium758/index.m3u8|referer=https://widevine.lic
 
 ----FOX SPORTS 3----
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2bjPO01zTLjgtAouG72ezrqsZtoL5VT8eQ&usqp=CAU" group-title="3. OLAHRAGA", FOX SPORTS 3
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/10921
 
 ----SPEED TV----
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060b2307340bd/086909c32b7a426eae75792a891c9d8f.jpg" group-title="3. OLAHRAGA", SPEED TV
@@ -539,6 +539,9 @@ https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="3. OLAHRAGA", Historycal Sports
 ##https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68578b331d80178b5acf1fd0a55/manifest.mpd
 
+----Billiard TV----
+#EXTINF:-1 tvg-logo="https://images.prismic.io/atmosphere-marketing/372f3f16-2a2d-401b-ba32-08e6f8e01693_Billiards+-+Channel+Logo.png" group-title="3. OLAHRAGA", Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
 
 
@@ -777,6 +780,32 @@ http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/16621
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/aeb289d5fd8b53e456a0f84e884a97ed.jpg" group-title="4. SEPAK BOLA", Sony Sports Ten 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/56191
+
+----SPORT TV 1----
+#EXTINF:0 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="4. SEPAK BOLA", SPORT TV 1
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/1483
+
+----SPORT TV 2----
+#EXTINF:0 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="4. SEPAK BOLA", SPORT TV 2
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/1486
+
+----SPORT TV 3----
+#EXTINF:0 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="4. SEPAK BOLA", SPORT TV 3
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/1489
+
+----SPORT TV 4----
+#EXTINF:0 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="4. SEPAK BOLA", SPORT TV 4
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/1492
+
+----SPORT TV 5----
+#EXTINF:0 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="4. SEPAK BOLA", SPORT TV 5
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/1495
+
+----SPORT TV 6----
+#EXTINF:0 tvg-id="sporttv6.pt" tvg-name="SPORT TV 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="4. SEPAK BOLA", SPORT TV 6
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/281487
+
+
 
 
 
