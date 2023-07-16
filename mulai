@@ -137,6 +137,9 @@ http://45.129.133.15:8080/3f6d5b2f/4b60123137/162138
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd?token_zulkarnaien66
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars3.png" group-title="#4. LIGA BRI", SportStars 4
+http://nyanv-live-cdn.mncnow.id:80/live/eds/(namachannelyangadadivision+)/sa_dash_vmx/(namachannelyangadadivision+).mpd
+
 
 
 
