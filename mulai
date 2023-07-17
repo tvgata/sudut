@@ -1103,55 +1103,72 @@ https://ythls.onrender.com/channel/UCt4ZHf2zhAzkq3iI5tG0yFg.m3u8
 #EXTINF:-1 group-title="VOD 2023" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0ifGKGdHFeMKVJcJ1qyi1UgTZjQVsRYBC8amLWY1e-jxVa4ct",10 Days of a Good Man
 https://www.googleapis.com/drive/v3/files/15HajAAaBRY_Q2qGzHsbaFAdLiMbrydyE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="VOD 2023" tvg-logo="",18 Pages
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2yFr_sp6IyEt3zk9s7txgS_BQYY6nnJ-FMv-Nth68Hf44t2YD",18 Pages
 https://www.googleapis.com/drive/v3/files/1FEve2edXbkYKsDNn-4047j-y3LvcUuuK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="VOD 2023",65
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://www.layar.id/wp-content/uploads/2023/03/MV5BMmU4ODBhNmYtNDgxNy00Mjc1LWJmNWItZWJhM2M5MjA1MWE4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",65
 https://www.googleapis.com/drive/v3/files/1YQhkdVEWPlOpy-bHWxDkMbMavOPQN_u8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD 2023" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAoZrDL8xtN2AgPG-EzU22SkU0dguj3GXNCIiDBFd9tIoofcIz", 97 Minutes
 https://www.googleapis.com/drive/v3/files/1uwm_F9gO7YGVsvjxR1EYMlYpdztRWy-2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="VOD 2023",About Joan
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk1MmVmZTItOTUzMi00ZjIzLTlhYmQtMjcxODI0MmMzMTVhXkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_.jpg",About Joan
 https://www.googleapis.com/drive/v3/files/1ZjEolbJJTHltVnNKEAQGtoidFVkoVaM-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",AFAM
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZkYmM0NTEtMzQxMi00OGE1LWE3M2QtN2Q0MTEzMzUzN2VjXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",AFAM
 https://www.googleapis.com/drive/v3/files/1GrAZtjAoUZ-Coy1XZ70C55Q-J2ae6XXk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",Alice, Darling
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQwYWUzOTItY2FmOS00NjE4LWIzNGQtZjI4MmJkMmFiNjJiXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",Alice, Darling
 https://www.googleapis.com/drive/v3/files/1-mJ9_Q4yX_REMocPxaQt_R1F4eYbcFv8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",Alkhallat+
 https://www.googleapis.com/drive/v3/files/1bgwaRs9SI9GJPSXOcCjW0lVSt88RHXaH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",All the Places
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ5NWMwNTItYWQ5Ny00YWZmLWFmZjUtYjVjZWQyOTJjM2Q2XkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_.jpg",All the Places
 https://www.googleapis.com/drive/v3/files/1hfLIv-E_oq_0yBtcpt0Awa5w5uq2KzOO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",Alone at Night
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc1M2M4MzctODA1ZS00YzZlLTk0ZmItMzcxZmU2ODQxOWE5XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",Alone at Night
 https://www.googleapis.com/drive/v3/files/1pQJyP1nnEDhZdWvU5qpZYjVeg9qTwKth?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",Ambush
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjkxZTE0ZGYtYzE1OS00YTliLWE0YTItZmZjZWI0MDVhM2UzXkEyXkFqcGdeQXVyMzEzMTA2MjA@._V1_FMjpg_UX1000_.jpg",Ambush
 https://www.googleapis.com/drive/v3/files/1VdUWrSCQFBpKQUsHmtyAOi1f-Nhthm15?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",Amor Emanuelle
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGFkZDFmNzEtYjEyOC00YzM5LThjMjUtOTZhZTc4NWZmYmE5XkEyXkFqcGdeQXVyMjM2OTAxNg@@._V1_.jpg",Amor Emanuelle
 https://www.googleapis.com/drive/v3/files/1dal7ijTxXEtR2ZTu30moznxL2mY-lFS6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",Ant-Man and the Wasp: Quantumania
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BODZhNzlmOGItMWUyYS00Y2Q5LWFlNzMtM2I2NDFkM2ZkYmE1XkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_FMjpg_UX1000_.jpg",Ant-Man and the Wasp: Quantumania
 https://www.googleapis.com/drive/v3/files/1sZJPzPWp0sDFqG9LlcN2TnyaLnb_NaQo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="VOD 2023" tvg-logo="https://cms.cinepolis.co.id/Gallery/MOV/Movie/Thumbnail/f2b3b0b1a4964155bbe69dd7a22b8038.jpg", Assassin Club
 https://www.googleapis.com/drive/v3/files/1Q61fh2PVa1Zsm0mtZD6yUsVLctbukX4r?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="VOD 2023",Asterix & Obelix: The Middle Kingdom
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://static.toiimg.com/photo/100168656.cms?imgsize=11400",Asterix & Obelix: The Middle Kingdom
 https://www.googleapis.com/drive/v3/files/1_Z3pDzzDOVfR1aFB6PXU1vYDh2-sucZU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",At Midnight
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BODgwMGVmYzktZTk2ZS00NTdhLTliMDQtZWQzNTU0ZjIwMzgzXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_.jpg",At Midnight
 https://www.googleapis.com/drive/v3/files/1e0tiSsUOn1WvDMDhmBgyTNkQP6ZA5bUV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",Balik Taya
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY5MmYzMDUtYzNiYi00ZTIzLTkwZDAtODBiMmQ1ZDY5ZThkXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_FMjpg_UX1000_.jpg",Balik Taya
 https://www.googleapis.com/drive/v3/files/1aOZMYbGvbivRiV4yCxcMnMONUNscLWfI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",Battlebox
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzI4NmE0NTctYTNjNi00ZDhhLTk3ZWMtNDBkMWViNDQyOGFjXkEyXkFqcGdeQXVyNjQ0MDEyMjg@._V1_.jpg",Battlebox
 https://www.googleapis.com/drive/v3/files/1hbl-947lw7ChoZKnoFqwI0e9lvp2ZqW5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",Bela Luna
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDJiZmVhMzEtMTA0ZS00NGE0LWIzNDctYzI4OGJkYTBhODk2XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",Bela Luna
 https://www.googleapis.com/drive/v3/files/1kNRif0ytzG-sEy-dzYt6jrlOdVgi9p2h?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",Beneath the Green
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmM5ZmUwNDktZTlhZC00MDE1LWFkYjktOTZhMDY2MTMzZmI5XkEyXkFqcGdeQXVyNzkxMzkxNA@@._V1_FMjpg_UX1000_.jpg",Beneath the Green
 https://www.googleapis.com/drive/v3/files/11akJgIAtF7_wMC8V2uFRZJn63oJ6BoK0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",Black Warrant
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM2Y2E1ZGMtZjJlOS00ZmY3LTlkMjAtOGNlNWUxZDg1ZTkzXkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_.jpg",Black Warrant
 https://www.googleapis.com/drive/v3/files/1q_LM9E8p-WgSYC5A09JxC_54AWvLazwC?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",BlackBerry
 https://www.googleapis.com/drive/v3/files/1FxUh0Y9_hE7ER5Cv79fDw_qy0sTENeBI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",BlackBerry
 https://www.googleapis.com/drive/v3/files/17rspJNqFTJD5L0eM8dRbh1_BWrGMsA4V?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",Blood
 https://www.googleapis.com/drive/v3/files/1ygR1g9m7CJeWG94iOJeM5bLvMIPetf0O?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2023",Blood Harvest
@@ -1306,8 +1323,10 @@ https://www.googleapis.com/drive/v3/files/15EP7KShwBAskNOqD9Z5MpF9oScZOHHOd?alt=
 https://www.googleapis.com/drive/v3/files/19bb8pwWPZJDLXYzLOkqqWI7Xrvzz_43t?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2023",Operation Fortune: Ruse de Guerre
 https://www.googleapis.com/drive/v3/files/1fyz1heLF83fPU4nAECvR0LM9mUpOg8Jl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",Pamela, A Love Story
 https://www.googleapis.com/drive/v3/files/124RG5R_lahh6yHuGJf1DIVnsWkffC2ty?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",Panibugho
 https://www.googleapis.com/drive/v3/files/1icxFilZWgVp6MF5SndLs2zAht2zewn6s?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2023",Pathaan
@@ -1316,10 +1335,13 @@ https://www.googleapis.com/drive/v3/files/1XsTtKwwYgX8wq-Ig5Keb84vk6glBQXSk?alt=
 https://www.googleapis.com/drive/v3/files/1k5GejlXPKBp1bCLQ25h93JS1QSg4YaPT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2023",Peter Pan & Wendy
 https://www.googleapis.com/drive/v3/files/1eBrY7i5rkpmw1mRdqeXbXzEm0BObmE69?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",Phantom
 https://www.googleapis.com/drive/v3/files/19WSumfTGwtOoDXPOiowrUh0Hg_lQqI2n?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",Plane
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://media.gv.com.sg/imagesresize/img4356.jpg",Plane
 https://www.googleapis.com/drive/v3/files/1VHROSnL9VHSdYDDPZyNHVIGC01-GDWdX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",Reality
 https://www.googleapis.com/drive/v3/files/1GpqhxMW0Bk9KIushNie0GFbyghvnR1Xk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2023",Reality
@@ -1336,30 +1358,42 @@ https://www.googleapis.com/drive/v3/files/1Ppk__0Shbn8dH-ysW5ZHzuKmo3_KUwYp?alt=
 https://www.googleapis.com/drive/v3/files/1k8klXCyfu3cx3_XJuFACiH4CpDsAAbDG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2023",Scream VI
 https://www.googleapis.com/drive/v3/files/1pZvZCQUrjWXshyEbfHFMTeLSZsVbFvlF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",Sex Games
 https://www.googleapis.com/drive/v3/files/1GYxT62jXuQeZ27qEgRpQVn8ud8xf6PB9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",Sharper
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2JlN2Q2ZmYtYmU4OS00ZjNlLWE2OTEtOTc2ZDY5NjEwMTM4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",Sharper
 https://www.googleapis.com/drive/v3/files/1SItCc0PhXwnQsSDsV2OoEl4QmPN8avgT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",Shazam! Fury of the Gods
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzJlM2NmZTItOGQyYS00MmE2LTkwZGUtNDFkNmJmZjRjZjcxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",Shazam! Fury of the Gods
 https://www.googleapis.com/drive/v3/files/1Hf3Au2OWwjkoFvUUpSBq7Fyz4isRFMEq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",Simulant
 https://www.googleapis.com/drive/v3/files/17ox8zQAvynYMQqdNX3wUQejYVUbs_vCf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2023",Sisu
 https://www.googleapis.com/drive/v3/files/1gZkXtltnpMYgBfNaWILDTJkBN5VSuRLq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",Sniper: Vengeance
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzFmZDBiZDgtOGM4Yy00YzRiLWE0ZDktYzg2MDRlNDEwYWY2XkEyXkFqcGdeQXVyNzI3NjQ3ODM@._V1_.jpg",Sniper: Vengeance
 https://www.googleapis.com/drive/v3/files/1dkdhYvbTgk4ISQ4lgtRWzYlXglDQxLiw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",Snow Falls
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBjMWNjOWYtM2ExYy00MzliLTkzZjMtMzZiNmE1ODdhZjBhXkEyXkFqcGdeQXVyNTM1NTEyMzU@._V1_.jpg",Snow Falls
 https://www.googleapis.com/drive/v3/files/17TI8uQZF0GydPEgRmX8pn4YhRG3CJXh0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",Somebody I Used to Know
 https://www.googleapis.com/drive/v3/files/1bBilr-SmGfzTCIci5xD_lyYo97vMe_t5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",Suki
 https://www.googleapis.com/drive/v3/files/1oKs1hLVIS8r-T34Ff6xzeDtlJMXcbT6N?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",Summer Frost
 https://www.googleapis.com/drive/v3/files/1ZBTYfk_9GI1ZtpRfAvMfZoBq6-9KIQvD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",Supercell
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWI5ZGUzNDAtOGY0Yy00NzU0LWE0NmYtNGNlOGI0YjVlZTk4XkEyXkFqcGdeQXVyODQ0NjU1OTE@._V1_.jpg",Supercell
 https://www.googleapis.com/drive/v3/files/19SysipxAXo9dWVOjlp42nXsStCNwtCAo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",Switch
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzI0MjQ4ODE4Nl5BMl5BanBnXkFtZTcwOTIxNTU2OQ@@._V1_.jpg",Switch
 https://www.googleapis.com/drive/v3/files/1BIOKHKPfzQK8HWKfgDdO5z3BP67bWsK3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",Tag-init
 https://www.googleapis.com/drive/v3/files/1b6sWfEl_6yFBYtI2nZjsRoRSycWH2S8t?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2023",Teen Wolf: The Movie
@@ -1382,20 +1416,27 @@ https://www.googleapis.com/drive/v3/files/1BAuDDlBbUvSwhsRTiJoQCmt7kxrJJSjg?alt=
 https://www.googleapis.com/drive/v3/files/1ETP_SgPYVZB43QpBSfh8XOYlrs-pPeUf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2023",The Locksmith
 https://www.googleapis.com/drive/v3/files/11YYT4uc1vcZCMiaFwyjBHsuHcRBr0NLo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",The Mother
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BODlmZThjZGItOGRmMC00ODVjLWIzYWMtODBhYzQyZjE4NWE5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",The Mother
 https://www.googleapis.com/drive/v3/files/1B05RVEaISLhxw8z5AyPOWnEKF8fC98-H?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",The Nomad
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ0Y2M0MWQtYmI0NS00ZGQwLWFjOGQtZmNmM2RiOGNjMDUxXkEyXkFqcGdeQXVyMjQwNzg1NjM@._V1_.jpg",The Nomad
 https://www.googleapis.com/drive/v3/files/1jzYgnA6Ff1JwRHVahDsHJBaeLeE0OvjX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",The Offering
 https://www.googleapis.com/drive/v3/files/1I04YVgdep94Djiv1RmgxkN4Wjl8aCRP5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",The Old Way
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY4MGM4NDUtYjFiZi00M2Q3LThkYzgtOTM2NmIzYTUzZWE5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",The Old Way
 https://www.googleapis.com/drive/v3/files/1R2vpDN5keWMd7R5zPKS4RohsqgCm9DJk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",The Outwaters
 https://www.googleapis.com/drive/v3/files/1tT75bgPXAT3PnnhFCd34Ww4dxkD6u4Mk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2023",The Park
 https://www.googleapis.com/drive/v3/files/1MhcAmdeltZ33X6yREVntFgN2u1q6XJVz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD 2023",The Point Men
+
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3NGY3MDYtM2Y3OS00MjQ3LWJjYzgtMGJiZDgwYWJlZGU1XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",The Point Men
 https://www.googleapis.com/drive/v3/files/1erlXe1UyvORdZyUfMxWwpLshbqI1Pufd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",The Pope’s Exorcist
 https://www.googleapis.com/drive/v3/files/1Vdfd_-cvYdsJC0GAzuZ2q2gT6wqb0IDd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2023",The Portable Door
