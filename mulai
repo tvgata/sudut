@@ -141,7 +141,7 @@ http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd?token_zulkarnaien66
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars3.png" group-title="#4. LIGA BRI", SportStars 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars4.png" group-title="#4. LIGA BRI", SportStars 4
 http://103.152.118.53:80/play/visyen/dash/Sportstar4/master.mpd
 
 
@@ -1437,8 +1437,9 @@ https://www.googleapis.com/drive/v3/files/1MhcAmdeltZ33X6yREVntFgN2u1q6XJVz?alt=
 #EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3NGY3MDYtM2Y3OS00MjQ3LWJjYzgtMGJiZDgwYWJlZGU1XkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",The Point Men
 https://www.googleapis.com/drive/v3/files/1erlXe1UyvORdZyUfMxWwpLshbqI1Pufd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="VOD 2023",The Pope’s Exorcist
+#EXTINF:-1 group-title="VOD 2023" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDNiYWM0ODgtYWQ4MC00YzJmLWE3OWItOTJmMTQ4MzNkNzM4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",The Pope’s Exorcist
 https://www.googleapis.com/drive/v3/files/1Vdfd_-cvYdsJC0GAzuZ2q2gT6wqb0IDd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD 2023",The Portable Door
 https://www.googleapis.com/drive/v3/files/1kgYcsB44Qccle5Z88Tw5Urudh9knRkd7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD 2023",The Price We Pay
