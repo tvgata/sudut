@@ -141,7 +141,7 @@ http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd?token_zulkarnaien66
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars4.png" group-title="#4. LIGA BRI", SportStars 4
+#EXTINF:-1 tvg-id="mncsports4.id" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars4.png" group-title="#4. LIGA BRI", SportStars 4
 http://103.152.118.53:80/play/visyen/dash/Sportstar4/master.mpd
 
 
