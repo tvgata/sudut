@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://stavol.masuk.web.id/epg.xml,http://epg.kampung.xyz,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml,https://iptv-org.github.io/epg/guides/sr/tvarenasport.com.xml,https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml,https://iptv-org.github.io/epg/guides/en/bt.com.xml,https://iptv-org.github.io/epg/guides/en/sky.com.xml,https://iptv-org.github.io/epg/guides/en/ontvtonight.com.xml,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/it/superguidatv.it.xml,https://iptv-org.github.io/epg/guides/en/tvguide.com.xml,https://iptv-org.github.io/epg/guides/ko/wavve.com.xml,https://iptv-org.github.io/epg/guides/sv/allente.se.xml,https://iptv-org.github.io/epg/guides/en/rev.bs.xml,https://iptv-org.github.io/epg/guides/en/startimestv.com.xml,https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.xml,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml,https://iptv-org.github.io/epg/guides/en/virginmedia.com.xml,https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml,https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/ar/beinsports.com.xml,https://iptv-org.github.io/epg/guides/en/beinsports.com.xml,https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.xml,https://iptv-org.github.io/epg/guides/fr/beinsports.com.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml,https://iptv-org.github.io/epg/guides/fr/canalplus.com.xml,https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml,https://iptv-org.github.io/epg/guides/nl/tvgids.nl.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml,https://iptv-org.github.io/epg/guides/en/dstv.com.xml,https://iptv-org.github.io/epg/guides/ro/programetv.ro.xml,https://iptv-org.github.io/epg/guides/fr/programme-tv.net.xml,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.xml,https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml,https://iptv-org.github.io/epg/guides/en/dishtv.in.xml,https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml,https://aqfadtv.xyz/epg,https://iptv-org.github.io/epg/guides/de/sky.de.xml"tvg-shift=0 m3uautoload=1 refresh="3600"
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
 
 ============#1.LIVE MOTOGP===================
 
@@ -136,10 +138,9 @@ http://45.129.133.15:8080/3f6d5b2f/4b60123137/162138
 http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars3.png" group-title="#4. LIGA BRI", SportStars 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd?token_zulkarnaien66
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #EXTINF:-1 tvg-id="mncsports4.id" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars4.png" group-title="#4. LIGA BRI", SportStars 4
 http://103.152.118.53:80/play/visyen/dash/Sportstar4/master.mpd
@@ -180,7 +181,10 @@ http://103.152.118.53:80/play/visyen/dash/MNCTV-HD/master.mpd
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #EXTINF:-1 tvg-id="inews.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png", INews (*)
-http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_2499968=7.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+https://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 
 ----ANTV----
@@ -188,7 +192,10 @@ http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_2499968
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", ANTV (*)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+https://nxanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 
 ----Trans TV----
@@ -212,7 +219,8 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png", Net (*)
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/80292
 
 ----SCTV----
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png", SCTV
@@ -235,7 +243,8 @@ http://210.210.155.37/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586678066-.png", TV One (*)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 https://nxanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 
@@ -264,7 +273,10 @@ https://nxanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/196457
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="1. INDONESIA", Rajawali TV (*)
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+https://anevia114.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 ----JTV----
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="1. INDONESIA", JTV
@@ -305,7 +317,9 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/166410
 
 ----DAAI TV----
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Lokal/DAAI%20TV.png" group-title="1. INDONESIA", DAAI TV
-##https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://av-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Lokal/DAAI%20TV.png" group-title="1. INDONESIA", DAAI TV (*)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -325,7 +339,10 @@ https://akm611a-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 https://streamweb.garuda.tv/live/garudatv/playlist.m3u8
 
 
-
+----DUNIA LAIN----
+#EXTINF:0 tvg-id="dunialainid" group-title="1. INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCNclAm1SEerWRjS-m65s_fw6WRMl1TyPAA&usqp=CAU", DUNIA LAIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/298524
 
 
 
@@ -370,7 +387,9 @@ https://anevia114.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 
 
-########### 3. OLAHRAGA ##############
+------------------------------------
+			3. OLAHRAGA 
+------------------------------------
 
 ----Champions TV 1----
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="3. OLAHRAGA",Champions TV 1
@@ -538,8 +557,9 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
 
 
-
-########### 4. SEPAK BOLA ##############
+------------------------------------
+			4. SEPAK BOLA 
+------------------------------------
 
 ----ABU DHABI SPORT 1----
 #EXTINF:-1 tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="4. SEPAK BOLA", ABU DHABI SPORT 1
@@ -620,15 +640,21 @@ http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/60766.ts
 
 ----Eurosport 2----
 #EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eurosport 2
-http://103.152.118.53:80/play/deddilive/premium525/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/1518
 
 ----BEIN SPORTS PREMIUM 1 AR----
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS%20PREMIUM1.png" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 1 AR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS%20PREMIUM1.png" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 1 AR
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32008.ts
 
 ----BEIN SPORTS PREMIUM 2 AR----
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS%20PREMIUM2.png" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 2 AR
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32007.ts
+
+----BEIN SPORTS PREMIUM 3 AR----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS%20PREMIUM2.png" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 3 AR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/280249
 
 ----CANAL+ Sport----
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Canal%2B%20Sport.png" group-title="4. SEPAK BOLA", CANAL+ Sport
@@ -760,18 +786,18 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110621&extension
 
 ----Sony Sports Ten 1----
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="4. SEPAK BOLA", Sony Sports Ten 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/16622
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/16622
 
 ----Sony Sports Ten 2----
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="4. SEPAK BOLA", Sony Sports Ten 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/16621
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/16621
 
 ----Sony Sports Ten 3----
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/aeb289d5fd8b53e456a0f84e884a97ed.jpg" group-title="4. SEPAK BOLA", Sony Sports Ten 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/56191
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/56191
 
 ----SPORT TV 1----
 #EXTINF:0 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="4. SEPAK BOLA", SPORT TV 1
@@ -819,8 +845,9 @@ https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
 
 
-
-########### 5. FILM ##############
+------------------------------------
+			5. FILM
+------------------------------------
 
 ----Celestial Movies----
 #EXTINF:-1 group-title="5. FILM", Celestial Movies
@@ -920,8 +947,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 
 
-
-########### 6. ISLAMI ##############
+------------------------------------
+			6. ISLAMI 
+------------------------------------
 
 ----Rodja TV----
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JWbm5qy/logo-rodjatv.png" group-title="6. ISLAMI", Rodja TV
@@ -988,8 +1016,9 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 
 
-
-########### 7. PENGETAHUAN ##############
+------------------------------------
+			7. PENGETAHUAN
+------------------------------------
 
 ----Nat Geo Wild----
 #EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", Nat Geo Wild
@@ -1017,9 +1046,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 
 
 
-###########################
-######### 8. RADIO ########
-###########################
+------------------------------------
+			8. RADIO 
+------------------------------------
 
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/pramborsfm.png" group-title="8. RADIO", Prambors FM
 https://23743.live.streamtheworld.com/PRAMBORS_FM.mp3
