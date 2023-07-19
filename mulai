@@ -212,7 +212,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png", Net (*)
-http://103.152.118.53:80/play/visyen/dash/NetTV-HD/master.mpd
 
 
 ----SCTV----
@@ -265,7 +264,6 @@ https://nxanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/196457
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="1. INDONESIA", Rajawali TV (*)
-http://103.152.118.53:80/play/visyen/dash/RTV/master.mpd
 
 
 ----JTV----
@@ -273,7 +271,6 @@ http://103.152.118.53:80/play/visyen/dash/RTV/master.mpd
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165091
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="1. INDONESIA", JTV (*)
-http://103.152.118.53:80/play/visyen/dash/JTV/master.mpd
 
 
 ----Mentari TV----
@@ -304,12 +301,11 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162504
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/166410
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nusantara_tv_id.png" group-title="1. INDONESIA", Nusantara TV (*)
-##http://103.152.118.53:80/streams/daerah/nusantaratv.m3u8
 
 
 ----DAAI TV----
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Lokal/DAAI%20TV.png" group-title="1. INDONESIA", DAAI TV
-https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+##https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Lokal/DAAI%20TV.png" group-title="1. INDONESIA", DAAI TV (*)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
