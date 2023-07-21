@@ -145,7 +145,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:-1 tvg-id="mncsports4.id" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars4.png" group-title="#4. BRI LIGA 1", SportStars 4
 http://103.152.118.53:80/play/visyen/dash/Sportstar4/master.mpd
 
-#EXTINF:0 tvg-id="mncsportid" tvg-logo="https://i.ibb.co/Ry2WGHd/channel-102-modified.png" group-title="#4. BRI LIGA 1", SportStars
+#EXTINF:0 tvg-id="mncsportid" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars3.png" group-title="#4. BRI LIGA 1", SportStars 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/298549
 
