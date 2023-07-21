@@ -6,20 +6,20 @@
 ============#1.LIVE MOTOGP===================
 
 
-#EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/C5gD7th/file-7408e006-5492-4b54-aa54-581581b2d87b-modified.png" group-title="#1.LIVE MOTOGP",SPOTV 
+#EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/C5gD7th/file-7408e006-5492-4b54-aa54-581581b2d87b-modified.png" group-title="#1.LIVE MOTOGP",SpoTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/C5gD7th/file-7408e006-5492-4b54-aa54-581581b2d87b-modified.png" group-title="#1.LIVE MOTOGP",SPOTV (True)
+#EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/C5gD7th/file-7408e006-5492-4b54-aa54-581581b2d87b-modified.png" group-title="#1.LIVE MOTOGP",SpoTV (True)
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186480&extension=ts&play_token=ZgqRTef08z
 
-#EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/N7LpgDN/channel-428-modified.png" group-title="#1.LIVE MOTOGP",SPOTV 2
+#EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/N7LpgDN/channel-428-modified.png" group-title="#1.LIVE MOTOGP",SpoTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/N7LpgDN/channel-428-modified.png" group-title="#1.LIVE MOTOGP",SPOTV 2 (True)
+#EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/N7LpgDN/channel-428-modified.png" group-title="#1.LIVE MOTOGP",SpoTV 2 (True)
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186481&extension=ts&play_token=ZgqRTef08z
 
 
@@ -38,7 +38,7 @@ http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/273.ts
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.ibb.co/Tk4gX8z/unnamed-24-modified.png" group-title="#1.LIVE MOTOGP",BT Sport 2 (*)
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/53709.ts
 
-#EXTINF:-1 group-title="#1.LIVE MOTOGP" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png",TRANS 7
+#EXTINF:-1 group-title="#1.LIVE MOTOGP" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png",Trans 7
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
@@ -113,13 +113,13 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 
-#EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/C5gD7th/file-7408e006-5492-4b54-aa54-581581b2d87b-modified.png" group-title="#3. LIVE BADMINTON", SPOTV 1
+#EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/C5gD7th/file-7408e006-5492-4b54-aa54-581581b2d87b-modified.png" group-title="#3. LIVE BADMINTON", SpoTV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 
-#EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/N7LpgDN/channel-428-modified.png" group-title="#3. LIVE BADMINTON", SPOTV 2
+#EXTINF:0 tvg-id="" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/N7LpgDN/channel-428-modified.png" group-title="#3. LIVE BADMINTON", SpoTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
@@ -127,23 +127,41 @@ https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
 
-==============#4. LIGA BRI==============
+==============#4. BRI LIGA 1==============
 
-#EXTINF:-1 group-title="#4. LIGA BRI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png", Indosiar
+#EXTINF:-1 group-title="#4. BRI LIGA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png", Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/162138
 
-#EXTINF:0 tvg-id="IndosiarInD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="#4. LIGA BRI",INDOSIAR 2
+#EXTINF:0 tvg-id="IndosiarInD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="#4. BRI LIGA 1",Indosiar 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars3.png" group-title="#4. LIGA BRI", SportStars 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars3.png" group-title="#4. BRI LIGA 1", SportStars 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
 https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:-1 tvg-id="mncsports4.id" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars4.png" group-title="#4. LIGA BRI", SportStars 4
+#EXTINF:-1 tvg-id="mncsports4.id" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars4.png" group-title="#4. BRI LIGA 1", SportStars 4
 http://103.152.118.53:80/play/visyen/dash/Sportstar4/master.mpd
+
+#EXTINF:0 tvg-id="mncsportid" tvg-logo="https://i.ibb.co/Ry2WGHd/channel-102-modified.png" group-title="#4. BRI LIGA 1", SportStars
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/298549
+
+#EXTINF:0 tvg-id="IndosiarID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="#4. BRI LIGA 1",INDOSIAR 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/162138
+
+#EXTINF:0 tvg-id="IndosiarInD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="#4. BRI LIGA 1",INDOSIAR 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
+
+#EXTINF:0 tvg-id="IndosiarIDFHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="#4. BRI LIGA 1",INDOSIAR 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/162138
+
+
 
 
 
@@ -153,26 +171,26 @@ http://103.152.118.53:80/play/visyen/dash/Sportstar4/master.mpd
 ------------------------------------
 
 ----RCTI----
-#EXTINF:-1 tvg-id="rcti.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png", RCTI
+#EXTINF:-1 tvg-id="rcti.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png", Rcti
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png", RCTI (*)
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png", Rcti (*)
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
 
 ----GTV----
-#EXTINF:-1 tvg-id="gtv.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png", GTV
+#EXTINF:-1 tvg-id="gtv.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png", Gtv
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
-#EXTINF:-1 tvg-id="gtv.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png", GTV (*)
+#EXTINF:-1 tvg-id="gtv.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png", Gtv (*)
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
 
 ----MNCTV----
-#EXTINF:-1 tvg-id="mnctv.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png", MNC TV
+#EXTINF:-1 tvg-id="mnctv.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png", Mnc TV
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
-#EXTINF:-1 tvg-id="mnctv.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png", MNC TV (*)
+#EXTINF:-1 tvg-id="mnctv.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png", Mnc TV (*)
 http://103.152.118.53:80/play/visyen/dash/MNCTV-HD/master.mpd
 
 
@@ -188,10 +206,10 @@ https://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 
 ----ANTV----
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", ANTV
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", Antv
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", ANTV (*)
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", Antv (*)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
@@ -223,10 +241,10 @@ http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/80292
 
 ----SCTV----
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png", SCTV
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png", Sctv
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png", SCTV (*)
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png", Sctv (*)
 http://103.152.118.53:80/play/esceteve/index.m3u8
 
 ----Indosiar----
@@ -279,10 +297,10 @@ https://nxanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 ----JTV----
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="1. INDONESIA", JTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="1. INDONESIA", Jtv
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165091
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="1. INDONESIA", JTV (*)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="1. INDONESIA", Jtv (*)
 
 
 ----Mentari TV----
@@ -299,10 +317,10 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 
 ----TVRI----
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="1. INDONESIA", TVRI
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="1. INDONESIA", Tvri
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162504
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="1. INDONESIA", TVRI (*)
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="1. INDONESIA", Tvri (*)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=teveeri
 ##http://103.152.118.53:80/streams/visyen/dash/PemersatuBangsa/master.mpd
@@ -318,10 +336,10 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 ----DAAI TV----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Lokal/DAAI%20TV.png" group-title="1. INDONESIA", DAAI TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Lokal/DAAI%20TV.png" group-title="1. INDONESIA", Daai TV
 https://av-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Lokal/DAAI%20TV.png" group-title="1. INDONESIA", DAAI TV (*)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Lokal/DAAI%20TV.png" group-title="1. INDONESIA", Daai TV (*)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=daaiteve
 ##http://103.152.118.53:80/streams/daaiteve/index.m3u8
@@ -340,7 +358,7 @@ https://streamweb.garuda.tv/live/garudatv/playlist.m3u8
 
 
 ----DUNIA LAIN----
-#EXTINF:0 tvg-id="dunialainid" group-title="1. INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCNclAm1SEerWRjS-m65s_fw6WRMl1TyPAA&usqp=CAU", DUNIA LAIN
+#EXTINF:0 tvg-id="dunialainid" group-title="1. INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCNclAm1SEerWRjS-m65s_fw6WRMl1TyPAA&usqp=CAU", Dunia Lain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/298524
 
