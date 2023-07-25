@@ -508,8 +508,7 @@ http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/60766.ts
 
 ----Eurosport 2----
 #EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eurosport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/1518
+http://eu.majes-line.co/play/live.php?mac=00:1A:79:6F:D5:39&stream=577962&extension=ts&play_token=ic7wEJbsvj
 
 ----BEIN SPORTS PREMIUM 1 AR----
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS%20PREMIUM1.png" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 1 AR
@@ -653,19 +652,20 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110620&extension
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110621&extension=ts&play_token=zulkarnain@.ts
 
 ----Sony Sports Ten 1----
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="4. SEPAK BOLA", Sony Sports Ten 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/16622
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 1" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SONY%20SportsTen1%20HD.png" group-title="4. SEPAK BOLA", Sony Sports Ten 1
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=156017&extension=ts&play_token=1R0IiyGd6h
 
 ----Sony Sports Ten 2----
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="4. SEPAK BOLA", Sony Sports Ten 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/16621
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 2" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SONY%20SportsTen2%20HD.png" group-title="4. SEPAK BOLA", Sony Sports Ten 2
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=156010&extension=ts&play_token=JF4iBmMrpl
 
 ----Sony Sports Ten 3----
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/aeb289d5fd8b53e456a0f84e884a97ed.jpg" group-title="4. SEPAK BOLA", Sony Sports Ten 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/56191
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 3" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SONY%20SportsTen3%20HD.png" group-title="4. SEPAK BOLA", Sony Sports Ten 3
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=156024&extension=ts&play_token=fmZmC2ijLp
+
+----Sony Sports Ten 4----
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 3" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SONY%20SportsTen4%20HD.png" group-title="4. SEPAK BOLA", Sony Sports Ten 4
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1114579&extension=ts&play_token=8g2eklNoRz
 
 ----SPORT TV 1----
 #EXTINF:0 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="4. SEPAK BOLA", SPORT TV 1
