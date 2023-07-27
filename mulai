@@ -11,10 +11,8 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Friendly%20Match.png" group-title="[ LIVE EVENT ]", Chelsea vs Newcastle United [07.15] - 27/07/23 - Friendly Match
 https://ddy1.cdndac.lol/ddy1/premium125/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhqwplay.xyz/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Friendly%20Match.png" group-title="[ LIVE EVENT ]", Real Madrid vs Manchester United [07.30] - 27/07/23 - Friendly Match
-https://ddy1.cdndac.lol/ddy1/premium124/tracks-v1a1/mono.m3u8
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157556
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bhqwplay.xyz/
