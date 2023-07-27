@@ -398,17 +398,12 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298558
 
 ----FOX SPORTS 1----
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2bjPO01zTLjgtAouG72ezrqsZtoL5VT8eQ&usqp=CAU" group-title="3. OLAHRAGA", FOX SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium39/index.m3u8|referer=https://widevine.licenses4.me/
 
 ----FOX SPORTS 2----
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2bjPO01zTLjgtAouG72ezrqsZtoL5VT8eQ&usqp=CAU" group-title="3. OLAHRAGA", FOX SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium758/index.m3u8|referer=https://widevine.licenses4.me/
 
 ----FOX SPORTS 3----
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2bjPO01zTLjgtAouG72ezrqsZtoL5VT8eQ&usqp=CAU" group-title="3. OLAHRAGA", FOX SPORTS 3
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/10921
 
 ----SPEED TV----
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060b2307340bd/086909c32b7a426eae75792a891c9d8f.jpg" group-title="3. OLAHRAGA", SPEED TV
@@ -469,35 +464,27 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 
 ----Now Premier Sports 1----
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 1
-http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69854
 
 ----Now Premier Sports 2----
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 2
-##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69855
 
 ----Now Premier Sports 3----
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 3
-##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69856
 
 ----Now Premier Sports 4----
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 4
-##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69857
 
 ----Now Premier Sports 5----
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 5
-##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69858
 
 ----Now Premier Sports 6----  
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 6
-##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69859
 
 ----Now Premier Sports 7----
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 7
-##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69860
 
 ----Now Premier Sports 8----
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 8
-##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69861
 
 ----BT SPORT----
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="4. SEPAK BOLA", BT SPORT
@@ -695,27 +682,27 @@ http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1114579&
 
 ----SPORT TV 1----
 #EXTINF:0 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="4. SEPAK BOLA", SPORT TV 1
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/1483
+
 
 ----SPORT TV 2----
 #EXTINF:0 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="4. SEPAK BOLA", SPORT TV 2
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/1486
+
 
 ----SPORT TV 3----
 #EXTINF:0 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="4. SEPAK BOLA", SPORT TV 3
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/1489
+
 
 ----SPORT TV 4----
 #EXTINF:0 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="4. SEPAK BOLA", SPORT TV 4
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/1492
+
 
 ----SPORT TV 5----
 #EXTINF:0 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="4. SEPAK BOLA", SPORT TV 5
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/1495
+
 
 ----SPORT TV 6----
 #EXTINF:0 tvg-id="sporttv6.pt" tvg-name="SPORT TV 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="4. SEPAK BOLA", SPORT TV 6
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/281487
+
 
 ----True Premier 1----
 #EXTINF:-1 tvg-id="truepremierfootball1.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" group-title="4. SEPAK BOLA",True Premier 1
@@ -750,9 +737,9 @@ http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1110666&
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1110665&extension=ts&play_token=EweK9cqCFa
 
 ----Real Madrid TV----
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3QfWd9h/rmtv.png" group-title="4. SEPAK BOLA", Real Madrid TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bhqwplay.xyz/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3QfWd9h/rmtv.png" group-title="4. SEPAK BOLA", Real Madrid TV
 #http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=107538&extension=ts&play_token=IJBiv0qiH2
 https://ddy4.cdndac.lol/ddy4/premium523/tracks-v1a1/mono.m3u8
 
