@@ -725,15 +725,15 @@ https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
 ----HUB Sports 1----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/HUB%20Sports%201.png" group-title="4. SEPAK BOLA", HUB Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/HUB%20Sports1.png" group-title="4. SEPAK BOLA", HUB Sports 1
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1110667&extension=ts&play_token=0duhKfW95f
 
 ----HUB Sports 2----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/HUB%20Sports%202.png" group-title="4. SEPAK BOLA", HUB Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/HUB%20Sports2.png" group-title="4. SEPAK BOLA", HUB Sports 2
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1110666&extension=ts&play_token=giWRao7Fwn
 
 ----HUB Sports 3----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/HUB%20Sports%203.png" group-title="4. SEPAK BOLA", HUB Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/HUB%20Sports3.png" group-title="4. SEPAK BOLA", HUB Sports 3
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1110665&extension=ts&play_token=EweK9cqCFa
 
 ----Real Madrid TV----
