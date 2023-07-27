@@ -444,7 +444,7 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 ----Poker TV----
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tArvcvj.png" tvg-name="Poker TV" group-title="3. OLAHRAGA", Poker TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Poker%20TV.png" tvg-name="Poker TV" group-title="3. OLAHRAGA", Poker TV
 https://hls.pokertvfa.live/hls/stream.m3u8
 
 
@@ -518,11 +518,11 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157557
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558
 
 ----Eurosport 1----
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/eurosport-20018632.logowik.com.webp" group-title="4. SEPAK BOLA", Eurosport 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Eurosport1.png" group-title="4. SEPAK BOLA", Eurosport 1
 http://eu.majes-line.co/play/live.php?mac=00:1A:79:6F:D5:39&stream=577963&extension=ts&play_token=qQl23u6Sjg
 
 ----Eurosport 2----
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eurosport 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Eurosport2.png" group-title="4. SEPAK BOLA", Eurosport 2
 http://eu.majes-line.co/play/live.php?mac=00:1A:79:6F:D5:39&stream=577962&extension=ts&play_token=ic7wEJbsvj
 
 ----BEIN SPORTS PREMIUM 1 AR----
