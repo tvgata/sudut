@@ -6,52 +6,52 @@
 
 --------------- [ LIVE EVENT ] ----------------
 
-#EXTINF:-1 tvg-logo="" group-title="[ LIVE EVENT ]", Chelsea vs Newcastle United [07.15] - 27/07/23 - Friendly Match
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bhqwplay.xyz/
+#EXTINF:-1 tvg-logo="" group-title="[ LIVE EVENT ]", Chelsea vs Newcastle United [07.15] - 27/07/23 - Friendly Match
 https://ddy1.cdndac.lol/ddy1/premium125/playlist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bhqwplay.xyz/
 #EXTINF:-1 tvg-logo="" group-title="[ LIVE EVENT ]", Real Madrid vs Manchester United [07.30] - 27/07/23 - Friendly Match
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhqwplay.xyz/
 https://ddy1.cdndac.lol/ddy1/premium124/tracks-v1a1/mono.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bhqwplay.xyz/
 #EXTINF:-1 tvg-logo="" group-title="[ LIVE EVENT ]", Arsenal vs Barcelona [09.30] - 27/07/23 - Friendly Match
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhqwplay.xyz/
 https://ddy1.cdndac.lol/ddy1/premium124/tracks-v1a1/mono.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bhqwplay.xyz/
 #EXTINF:-1 tvg-logo="" group-title="[ LIVE EVENT ]", Portugal vs Vietnam [14.30] - 27/07/23 - FIFA Women's World Cup 2023
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhqwplay.xyz/
 #batas#https://ddy1.cdndac.lol/ddy1/premium39/playlist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bhqwplay.xyz/
 #EXTINF:-1 tvg-logo="" group-title="[ LIVE EVENT ]", Australia vs Nigeria [17.00] - 27/07/23 - FIFA Women's World Cup 2023
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhqwplay.xyz/
 #batas#https://ddy1.cdndac.lol/ddy1/premium39/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="[ LIVE EVENT ]",[17.15] Inter Milan vs Al Nassr - 27/07/23 - Friendly Match
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="" group-title="[ LIVE EVENT ]", Inter Milan vs Al Nassr [17.15] - 27/07/23 - Friendly Match
 #batas#https://newanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 
 ------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="" group-title="[ LIVE EVENT ]", Argentina vs South Africa [07.00] - 28/07/23 - FIFA Women's World Cup 2023
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bhqwplay.xyz/
+#EXTINF:-1 tvg-logo="" group-title="[ LIVE EVENT ]", Argentina vs South Africa [07.00] - 28/07/23 - FIFA Women's World Cup 2023
 #batas#https://ddy1.cdndac.lol/ddy1/premium39/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="[ LIVE EVENT ]", Juventus vs Milan [09.30] - 28/07/23 - Friendly Match
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bhqwplay.xyz/
+#EXTINF:-1 tvg-logo="" group-title="[ LIVE EVENT ]", Juventus vs Milan [09.30] - 28/07/23 - Friendly Match
 #batas#https://ddy1.cdndac.lol/ddy1/premium124/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="[ LIVE EVENT ]", San Diego Loyal vs Borussia Dortmund [09.30] - 28/07/23 - Friendly Match
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bhqwplay.xyz/
+#EXTINF:-1 tvg-logo="" group-title="[ LIVE EVENT ]", San Diego Loyal vs Borussia Dortmund [09.30] - 28/07/23 - Friendly Match
 #batas#https://ddh2.cdndac.lol/ddh2/premium558/tracks-v1a1/mono.m3u8
 
 
@@ -355,6 +355,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars3.png" group-title="3. OLAHRAGA", SportStars 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd?token_zulkarnaien66
+
+----SportStars 4----
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars4.png" group-title="3. OLAHRAGA", SportStars 4
+http://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 ----Soccer Channel----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
