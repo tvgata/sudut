@@ -133,7 +133,7 @@ http://103.152.118.53:80/play/esceteve/index.m3u8
 
 ----Indosiar----
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png", Indosiar
-http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+http://103.166.27.2:800/play/a016
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png", Indosiar (*)
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
