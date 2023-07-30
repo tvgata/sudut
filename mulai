@@ -83,7 +83,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", Antv (*)
-http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/02.m3u8
+http://103.166.27.2:800/play/a01g
 
 
 ----Trans TV----
@@ -227,7 +227,7 @@ https://akm611a-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 ----Garuda TV----
 #EXTINF:0 tvg-logo="https://i.ibb.co/XsZhqDD/image.png" group-title="1. INDONESIA",Garuda TV
-https://streamweb.garuda.tv/live/garudatv/playlist.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup1/cg002production/ch45/02.m3u8
 
 
 ----DUNIA LAIN----
@@ -268,7 +268,7 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 ----Jakarta Globe News----
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004" group-title="2. BERITA", Jakarta Globe News
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/166399
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/166399
 
 ----MNC News----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png" group-title="2. BERITA", MNC News
@@ -455,44 +455,6 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 #EXTINF:-1 tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="4. SEPAK BOLA", ABU DHABI SPORT 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 
-----Now Premier Sports 1----
-#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 1
-##
-----Now Premier Sports 2----
-#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 2
-##
-----Now Premier Sports 3----
-#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 3
-##
-----Now Premier Sports 4----
-#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 4
-##
-----Now Premier Sports 5----
-#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 5
-##
-----Now Premier Sports 6----  
-#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 6
-##
-----Now Premier Sports 7----
-#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 7
-##
-----Now Premier Sports 8----
-#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 8
-##
-
-----BT SPORT----
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="4. SEPAK BOLA", BT SPORT
-http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/270.ts
-
-----BT SPORT 2----
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="4. SEPAK BOLA", BT SPORT 2
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/276958.m3u8 
-##http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/273.ts
-
-----BT SPORT 3----
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="4. SEPAK BOLA", BT SPORT 3
-http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/271.ts
-
 ----Astro Supersport 1----
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="4. SEPAK BOLA", Astro Supersport 1
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/146068
@@ -509,13 +471,17 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157557
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="4. SEPAK BOLA", Astro Supersport 4
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558
 
-----Eurosport 1----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Eurosport1.png" group-title="4. SEPAK BOLA", Eurosport 1
-http://eu.majes-line.co/play/live.php?mac=00:1A:79:6F:D5:39&stream=577963&extension=ts&play_token=qQl23u6Sjg
+----beIN Sports 1----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS1.png" group-title="4. SEPAK BOLA", beIN Sports 1
+http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/15204.ts
 
-----Eurosport 2----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Eurosport2.png" group-title="4. SEPAK BOLA", Eurosport 2
-http://eu.majes-line.co/play/live.php?mac=00:1A:79:6F:D5:39&stream=577962&extension=ts&play_token=ic7wEJbsvj
+----beIN Sports 2----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS2.png" group-title="4. SEPAK BOLA", beIN Sports 2
+http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/15203.ts
+
+----beIN Sports 3----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS3.png" group-title="4. SEPAK BOLA", beIN Sports 3
+http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/83080.ts
 
 ----BEIN SPORTS PREMIUM 1 AR----
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS%20PREMIUM1.png" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 1 AR
@@ -529,6 +495,19 @@ http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32007.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS%20PREMIUM2.png" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 3 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/280249
+
+----BT SPORT----
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="4. SEPAK BOLA", BT SPORT
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/270.ts
+
+----BT SPORT 2----
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="4. SEPAK BOLA", BT SPORT 2
+http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/276958.m3u8 
+##http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/273.ts
+
+----BT SPORT 3----
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="4. SEPAK BOLA", BT SPORT 3
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/271.ts
 
 ----CANAL+ Sport----
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Canal%2B%20Sport.png" group-title="4. SEPAK BOLA", CANAL+ Sport
@@ -546,6 +525,14 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880459&extension=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Canal%2B%20Sport4.png" group-title="4. SEPAK BOLA", CANAL+ Sport 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880458&extension=ts&play_token=zulkarnain@.ts
 
+----Eurosport 1----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Eurosport1.png" group-title="4. SEPAK BOLA", Eurosport 1
+http://eu.majes-line.co/play/live.php?mac=00:1A:79:6F:D5:39&stream=577963&extension=ts&play_token=qQl23u6Sjg
+
+----Eurosport 2----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Eurosport2.png" group-title="4. SEPAK BOLA", Eurosport 2
+http://eu.majes-line.co/play/live.php?mac=00:1A:79:6F:D5:39&stream=577962&extension=ts&play_token=ic7wEJbsvj
+
 ---Eleven Sports 1----
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Eleven%20Sports1.png" group-title="4. SEPAK BOLA", Eleven Sports 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880457&extension=ts&play_token=zulkarnain@.ts
@@ -562,20 +549,41 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880455&extension=
 #EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eleven Sports 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880454&extension=ts&play_token=zulkarnain@.ts
 
+----Now Premier Sports 1----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 1
+#batas#
+
+----Now Premier Sports 2----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 2
+#batas#
+
+----Now Premier Sports 3----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 3
+#batas#
+
+----Now Premier Sports 4----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 4
+#batas#
+
+----Now Premier Sports 5----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 5
+#batas#
+
+----Now Premier Sports 6----  
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 6
+#batas#
+
+----Now Premier Sports 7----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 7
+#batas#
+
+----Now Premier Sports 8----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 8
+#batas#
+
 ----TyC Sports----
 #EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", TyC Sports US
-
-----beIN Sports 1----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS1.png" group-title="4. SEPAK BOLA", beIN Sports 1
-http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/15204.ts
-
-----beIN Sports 2----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS2.png" group-title="4. SEPAK BOLA", beIN Sports 2
-http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/15203.ts
-
-----beIN Sports 3----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS3.png" group-title="4. SEPAK BOLA", beIN Sports 3
-http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/83080.ts
+#batas#
 
 ----DAZN beIN Sports 1----
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -594,34 +602,6 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS3.png" group-title="4. SEPAK BOLA", DAZN beIN Sports 3
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
-
-
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 3 AU
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 4 US
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 5 US
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 6 US [!]
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 7 US [!]
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 8 US [!]
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports Liga US [!]
-
 
 ----Now Sports 1----
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/631-wbg-c.png" group-title="4. SEPAK BOLA", Now Sports 1
@@ -675,39 +655,39 @@ http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=156024&e
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1114579&extension=ts&play_token=8g2eklNoRz
 
 ----SPORT TV 1----
-#EXTINF:0 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="4. SEPAK BOLA", SPORT TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTINF:0 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="4. SEPAK BOLA", SPORT TV 1
 https://webudit.cdnhks.lol/lb/premium49/index.m3u8
 
 ----SPORT TV 2----
-#EXTINF:0 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="4. SEPAK BOLA", SPORT TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTINF:0 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="4. SEPAK BOLA", SPORT TV 2
 https://webudit.cdnhks.lol/lb/premium74/index.m3u8
 
 ----SPORT TV 3----
-#EXTINF:0 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="4. SEPAK BOLA", SPORT TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTINF:0 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="4. SEPAK BOLA", SPORT TV 3
 https://webudit.cdnhks.lol/lb/premium454/index.m3u8
 
 ----SPORT TV 4----
-#EXTINF:0 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="4. SEPAK BOLA", SPORT TV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTINF:0 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="4. SEPAK BOLA", SPORT TV 4
 https://webudit.cdnhks.lol/lb/premium289/index.m3u8
 
 ----SPORT TV 5----
-#EXTINF:0 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="4. SEPAK BOLA", SPORT TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTINF:0 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="4. SEPAK BOLA", SPORT TV 5
 https://webudit.cdnhks.lol/lb/premium290/index.m3u8
 
 ----SPORT TV 6----
-#EXTINF:0 tvg-id="sporttv6.pt" tvg-name="SPORT TV 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="4. SEPAK BOLA", SPORT TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTINF:0 tvg-id="sporttv6.pt" tvg-name="SPORT TV 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="4. SEPAK BOLA", SPORT TV 6
 https://webudit.cdnhks.lol/lb/premium291/index.m3u8
 
 ----True Premier 1----
@@ -921,11 +901,11 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264801
 
 ----TVN----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png" group-title="5. FILM", TVN
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197965
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197965
 
 ----TVN Movies----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png" group-title="5. FILM", TVN Movies
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157596
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/157596
 
 ----HBO----
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo-home-box-office9772.jpg" group-title="5. FILM", HBO
@@ -1003,7 +983,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45
 
 ----TV Mu----
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png" group-title="6. ISLAMI", TV Mu
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/196459
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/196459
 
 ----TV 9 Nusantara----
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="6. ISLAMI", TV 9 Nusantara
@@ -1072,7 +1052,7 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 ----Discovery Asia HD----
 #EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", Discovery Asia HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch302)/index.m3u8
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197968
 
 ----National Geographic----
 #EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", National Geographic
@@ -1084,7 +1064,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
 
 ----Animal Planet----
 #EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", Animal Planet
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/157532
 
 ----BBC Earth----
 #EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", BBC Earth
