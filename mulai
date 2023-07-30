@@ -127,7 +127,8 @@ http://103.152.118.53:80/play/esceteve/index.m3u8
 http://103.166.27.2:800/play/a016
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png", Indosiar (*)
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+http://103.166.27.2:800/play/a015
+#batas#http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
 
 ----TVOne----
@@ -456,27 +457,28 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 
 ----Now Premier Sports 1----
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 1
-
+##
 ----Now Premier Sports 2----
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 2
-
+##
 ----Now Premier Sports 3----
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 3
-
+##
 ----Now Premier Sports 4----
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 4
-
+##
 ----Now Premier Sports 5----
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 5
-
+##
 ----Now Premier Sports 6----  
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 6
-
+##
 ----Now Premier Sports 7----
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 7
-
+##
 ----Now Premier Sports 8----
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 8
+##
 
 ----BT SPORT----
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="4. SEPAK BOLA", BT SPORT
