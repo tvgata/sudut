@@ -9,6 +9,11 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Friendly%20Match.png" group-title="[ LIVE EVENT ]", Monastir vs Al Nassr [02.00] - 01/08/23 - Arab Club Champions Cup
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1002796&extension=ts&play_token=jeb4ojj84Z
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Friendly%20Match.png" group-title="[ LIVE EVENT ]", Monastir vs Al Nassr [02.00] - 01/08/23 - Arab Club Champions Cup
+https://webudit.cdnhks.lol/lb/premium614/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Friendly%20Match.png" group-title="[ LIVE EVENT ]", PSG vs Inter Milan [17.00] - 01/08/23 - Friendly Match
 http://45.12.1.14:80/7JvIck488/meAqNw5218/15001
 #batas#http://103.180.119.90:9911/stream/channelid/666061261?profile=pass
@@ -17,6 +22,7 @@ http://45.12.1.14:80/7JvIck488/meAqNw5218/15001
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Friendly%20Match.png" group-title="[ LIVE EVENT ]", PSG vs Inter Milan [17.00] - 01/08/23 - Friendly Match
 https://webudit.cdnhks.lol/lb/premium291/index.m3u8
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -188,6 +194,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165091
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="1. INDONESIA", Jtv (*)
+http://103.166.27.2:800/play/a01s
 
 
 ----Mentari TV----
@@ -218,6 +225,7 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nusantara_tv_id.png" group-title="1. INDONESIA", Nusantara TV (*)
 http://37.49.230.161:8080/3f6d5b2f/4b60123137/166410
+
 
 ----DAAI TV----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -258,10 +266,8 @@ http://37.49.230.161:8080/3f6d5b2f/4b60123137/298524
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165062
 
 ----CNN Indonesia----
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/640px-Logo_of_CNN_Indonesia.svg.png" group-title="2. BERITA", CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+http://103.166.27.2:800/play/a01d
 
 ----Berita Satu----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
