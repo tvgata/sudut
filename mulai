@@ -66,13 +66,13 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/116138
 ----SPORT TV2----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTINF:0 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="BOLA SEPAK", SPORT TV2
+#EXTINF:0 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Sport%20TV2.png" group-title="BOLA SEPAK", SPORT TV2
 https://webudit.cdnhks.lol/lb/premium74/index.m3u8
 
 ----SPORT TV6----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTINF:0 tvg-id="sporttv6.pt" tvg-name="SPORT TV 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="BOLA SEPAK", SPORT TV6
+#EXTINF:0 tvg-id="sporttv6.pt" tvg-name="SPORT TV 6" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Sport%20TV6.png" group-title="BOLA SEPAK", SPORT TV6
 https://webudit.cdnhks.lol/lb/premium291/index.m3u8
 
 
@@ -699,37 +699,37 @@ http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1114579&
 ----SPORT TV1----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTINF:0 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="SEPAK BOLA", SPORT TV1
+#EXTINF:0 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Sport%20TV1.png" group-title="SEPAK BOLA", SPORT TV1
 https://webudit.cdnhks.lol/lb/premium49/index.m3u8
 
 ----SPORT TV2----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTINF:0 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="SEPAK BOLA", SPORT TV2
+#EXTINF:0 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Sport%20TV2.png" group-title="SEPAK BOLA", SPORT TV2
 https://webudit.cdnhks.lol/lb/premium74/index.m3u8
 
 ----SPORT TV3----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTINF:0 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="SEPAK BOLA", SPORT TV3
+#EXTINF:0 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Sport%20TV3.png" group-title="SEPAK BOLA", SPORT TV3
 https://webudit.cdnhks.lol/lb/premium454/index.m3u8
 
 ----SPORT TV4----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTINF:0 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="SEPAK BOLA", SPORT TV4
+#EXTINF:0 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Sport%20TV4.png" group-title="SEPAK BOLA", SPORT TV4
 https://webudit.cdnhks.lol/lb/premium289/index.m3u8
 
 ----SPORT TV5----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTINF:0 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="SEPAK BOLA", SPORT TV5
+#EXTINF:0 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Sport%20TV5.png" group-title="SEPAK BOLA", SPORT TV5
 https://webudit.cdnhks.lol/lb/premium290/index.m3u8
 
 ----SPORT TV6----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTINF:0 tvg-id="sporttv6.pt" tvg-name="SPORT TV 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="SEPAK BOLA", SPORT TV6
+#EXTINF:0 tvg-id="sporttv6.pt" tvg-name="SPORT TV 6" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Sport%20TV6.png" group-title="SEPAK BOLA", SPORT TV6
 https://webudit.cdnhks.lol/lb/premium291/index.m3u8
 
 ----True Premier 1----
