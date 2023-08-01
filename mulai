@@ -884,34 +884,24 @@ https://webudit.cdnhks.lol/lb/premium556/index.m3u8
 https://webudit.cdnhks.lol/lb/premium558/index.m3u8
 
 ----SSC 1----
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTINF:-1 group-title="SEPAK BOLA" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SSC.png",SSC 1
-https://webudit.cdnhks.lol/lb/premium614/index.m3u8
+http://new-pro.tv:8080/99622282/etbVXafU6f/178360
 
 ----SSC 2----
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTINF:-1 group-title="SEPAK BOLA" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SSC.png",SSC 2
-https://webudit.cdnhks.lol/lb/premium615/index.m3u8
+http://new-pro.tv:8080/99622282/etbVXafU6f/178386
 
 ----SSC 3----
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTINF:-1 group-title="SEPAK BOLA" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SSC.png",SSC 3
-https://webudit.cdnhks.lol/lb/premium616/index.m3u8
+http://new-pro.tv:8080/99622282/etbVXafU6f/178387
 
 ----SSC 4----
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTINF:-1 group-title="SEPAK BOLA" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SSC.png",SSC 4
-https://webudit.cdnhks.lol/lb/premium617/index.m3u8
+http://new-pro.tv:8080/99622282/etbVXafU6f/178388
 
 ----SSC 5----
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTINF:-1 group-title="SEPAK BOLA" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SSC.png",SSC 5
-https://webudit.cdnhks.lol/lb/premium618/index.m3u8
+http://new-pro.tv:8080/99622282/etbVXafU6f/178389
 
 
 
