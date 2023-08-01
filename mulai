@@ -53,64 +53,64 @@ https://webudit.cdnhks.lol/lb/premium291/index.m3u8
 
 
 ------------------------------------
-            1. INDONESIA 
+            INDONESIA 
 ------------------------------------
 
 ----RCTI----
-#EXTINF:-1 tvg-id="rcti.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png", Rcti
+#EXTINF:-1 tvg-id="rcti.id" group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png", Rcti
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png", Rcti (*)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png", Rcti (*)
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
 
 ----GTV----
-#EXTINF:-1 tvg-id="gtv.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png", Gtv
+#EXTINF:-1 tvg-id="gtv.id" group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png", Gtv
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
-#EXTINF:-1 tvg-id="gtv.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png", Gtv (*)
+#EXTINF:-1 tvg-id="gtv.id" group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png", Gtv (*)
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
 
 ----MNCTV----
-#EXTINF:-1 tvg-id="mnctv.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png", Mnc TV
+#EXTINF:-1 tvg-id="mnctv.id" group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png", Mnc TV
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
-#EXTINF:-1 tvg-id="mnctv.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png", Mnc TV (*)
+#EXTINF:-1 tvg-id="mnctv.id" group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png", Mnc TV (*)
 http://103.152.118.53:80/play/visyen/dash/MNCTV-HD/master.mpd
 
 
 ----iNews----
-#EXTINF:-1 tvg-id="inews.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png", INews
+#EXTINF:-1 tvg-id="inews.id" group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png", INews
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
-#EXTINF:-1 tvg-id="inews.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png", INews (*)
+#EXTINF:-1 tvg-id="inews.id" group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png", INews (*)
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 
 ----ANTV----
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", Antv
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", Antv
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", Antv (*)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", Antv (*)
 http://103.166.27.2:800/play/a01g
 
 
 ----Trans TV----
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png", Trans TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png", Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png", Trans TV (*)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png", Trans TV (*)
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
 
 ----Trans 7----
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png", Trans 7
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png", Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png", Trans 7 (*)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png", Trans 7 (*)
 http://103.166.27.2:800/play/a01c
 ##https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
@@ -118,139 +118,139 @@ http://103.166.27.2:800/play/a01c
 ----NET----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png", Net
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png", Net
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png", Net (*)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png", Net (*)
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png", Net (**)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png", Net (**)
 http://103.180.119.90:9911/stream/channelid/666061261?profile=pass
 
 
 ----SCTV----
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png", Sctv
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png", Sctv
 http://103.166.27.2:800/play/a015
 #batas#http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png", Sctv (*)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png", Sctv (*)
 http://103.152.118.53:80/play/esceteve/index.m3u8
 
 
 ----Indosiar----
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png", Indosiar
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png", Indosiar
 http://103.166.27.2:800/play/a016
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png", Indosiar (*)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png", Indosiar (*)
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
 
 ----TVOne----
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586678066-.png", TV One
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586678066-.png", TV One
 http://210.210.155.37/qwr9ew/s/s105/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586678066-.png", TV One (*)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586678066-.png", TV One (*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 https://nxanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 
 ----Metro TV----
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png", Metro TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png", Metro TV
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png", Metro TV (*)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png", Metro TV (*)
 https://nxanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 
 ----Kompas TV----
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png", Kompas TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png", Kompas TV
 http://210.210.155.37/qwr9ew/s/s104/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png", Kompas TV (*)
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png", Kompas TV (*)
 https://nxanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 
 ----Rajawali TV----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="1. INDONESIA", Rajawali TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="INDONESIA", Rajawali TV
 https://nxanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="1. INDONESIA", Rajawali TV (*)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="INDONESIA", Rajawali TV (*)
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 
 ----JTV----
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="1. INDONESIA", Jtv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="INDONESIA", Jtv
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165091
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="1. INDONESIA", Jtv (*)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="INDONESIA", Jtv (*)
 http://103.166.27.2:800/play/a01s
 
 
 ----Mentari TV----
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="1. INDONESIA", Mentari TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="INDONESIA", Mentari TV
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880796
 
 
 ----Moji----
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLjKzrFb/moji.png" group-title="1. INDONESIA", Moji
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLjKzrFb/moji.png" group-title="INDONESIA", Moji
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLjKzrFb/moji.png" group-title="1. INDONESIA", Moji (*)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLjKzrFb/moji.png" group-title="INDONESIA", Moji (*)
 http://103.166.27.2:800/play/a017
 #batas#http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 
 ----TVRI----
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="1. INDONESIA", Tvri
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="INDONESIA", Tvri
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162504
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="1. INDONESIA", Tvri (*)
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="INDONESIA", Tvri (*)
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 
 ----Nusantara TV----
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nusantara_tv_id.png" group-title="1. INDONESIA", Nusantara TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nusantara_tv_id.png" group-title="INDONESIA", Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nusantara_tv_id.png" group-title="1. INDONESIA", Nusantara TV (*)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nusantara_tv_id.png" group-title="INDONESIA", Nusantara TV (*)
 http://37.49.230.161:8080/3f6d5b2f/4b60123137/166410
 
 
 ----DAAI TV----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Lokal/DAAI%20TV.png" group-title="1. INDONESIA", Daai TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Lokal/DAAI%20TV.png" group-title="INDONESIA", Daai TV
 https://av-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Lokal/DAAI%20TV.png" group-title="1. INDONESIA", Daai TV (*)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Lokal/DAAI%20TV.png" group-title="INDONESIA", Daai TV (*)
 http://37.49.230.161:8080/3f6d5b2f/4b60123137/165061
 
 
 ----OK TV----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png" group-title="1. INDONESIA", OK TV
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png" group-title="INDONESIA", OK TV
 https://akm611a-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 
 ----Garuda TV----
-#EXTINF:0 tvg-logo="https://i.ibb.co/XsZhqDD/image.png" group-title="1. INDONESIA",Garuda TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/XsZhqDD/image.png" group-title="INDONESIA",Garuda TV
 http://edge.linknetott.swiftserve.com/channelgroup1/cg002production/ch45/02.m3u8
 
 
 ----DUNIA LAIN----
-#EXTINF:0 tvg-id="dunialainid" group-title="1. INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCNclAm1SEerWRjS-m65s_fw6WRMl1TyPAA&usqp=CAU", Dunia Lain
+#EXTINF:0 tvg-id="dunialainid" group-title="INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCNclAm1SEerWRjS-m65s_fw6WRMl1TyPAA&usqp=CAU", Dunia Lain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
 http://37.49.230.161:8080/3f6d5b2f/4b60123137/298524
 
@@ -258,167 +258,167 @@ http://37.49.230.161:8080/3f6d5b2f/4b60123137/298524
 
 
 ------------------------------------
-             2. BERITA 
+             BERITA 
 ------------------------------------
 
 ----CNBC Indonesia----
-#EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650" group-title="2. BERITA", CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650" group-title="BERITA", CNBC Indonesia
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165062
 
 ----CNN Indonesia----
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/640px-Logo_of_CNN_Indonesia.svg.png" group-title="2. BERITA", CNN Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/640px-Logo_of_CNN_Indonesia.svg.png" group-title="BERITA", CNN Indonesia
 http://103.166.27.2:800/play/a01d
 
 ----Berita Satu----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png" group-title="2. BERITA", Berita Satu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png" group-title="BERITA", Berita Satu
 https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 ----Berita Satu news----
-#EXTINF:-1 tvg-logo="https://dev.firstmedia.com:8443/files/images/d/new-logo/channels/11-NEWS/Berita%20Satu%20SD-FirstMedia-Chl-1.jpg" group-title="2. BERITA", Berita Satu news
+#EXTINF:-1 tvg-logo="https://dev.firstmedia.com:8443/files/images/d/new-logo/channels/11-NEWS/Berita%20Satu%20SD-FirstMedia-Chl-1.jpg" group-title="BERITA", Berita Satu news
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/287421
 
 ----Berita Satu World----
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3wBsPmSp34BKSo9RXB-1xoPZlp5B81mCTaMQYPwUPI6KO-YHQZBGRgOfb1xepXRlvdFc&usqp=CAU" group-title="2. BERITA", Berita Satu World
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3wBsPmSp34BKSo9RXB-1xoPZlp5B81mCTaMQYPwUPI6KO-YHQZBGRgOfb1xepXRlvdFc&usqp=CAU" group-title="BERITA", Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 ----Jakarta Globe News----
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004" group-title="2. BERITA", Jakarta Globe News
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004" group-title="BERITA", Jakarta Globe News
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/166399
 
 ----MNC News----
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png" group-title="2. BERITA", MNC News
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png" group-title="BERITA", MNC News
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165058
 
 ----IDX----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="IDXChannel.Id" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png" group-title="2. BERITA", IDX
+#EXTINF:0 tvg-id="IDXChannel.Id" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png" group-title="BERITA", IDX
 https://anevia114.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 
 
 ------------------------------------
-			3. OLAHRAGA 
+			OLAHRAGA 
 ------------------------------------
 
 ----Champions TV 1----
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="3. OLAHRAGA",Champions TV 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="OLAHRAGA",Champions TV 1
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298512
 
 ----Champions TV 2----
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="3. OLAHRAGA",Champions TV 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="OLAHRAGA",Champions TV 2
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298513
 
 ----Champions TV 3----
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="3. OLAHRAGA",Champions TV 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="OLAHRAGA",Champions TV 3
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298514
 
 ----Champions TV 5----
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="3. OLAHRAGA",Champions TV 5
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="OLAHRAGA",Champions TV 5
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298491
 
 ----Champions TV 6----
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="3. OLAHRAGA",Champions TV 6
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="OLAHRAGA",Champions TV 6
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298492
 
 ----TVRI Sports----
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="3. OLAHRAGA",TVRI_SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="OLAHRAGA",TVRI_SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 ----beIN Sports 1----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS1.png" group-title="3. OLAHRAGA", beIN Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS1.png" group-title="OLAHRAGA", beIN Sports 1
 http://37.49.230.161:8080/3f6d5b2f/4b60123137/165105
 
 ----beIN Sports 3----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS3.png" group-title="3. OLAHRAGA", beIN Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS3.png" group-title="OLAHRAGA", beIN Sports 3
 http://37.49.230.161:8080/3f6d5b2f/4b60123137/298506
 
 ----Fight Sport----
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="3. OLAHRAGA", Fight Sport
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="OLAHRAGA", Fight Sport
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298531
 
 ----SportStars----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars.png" group-title="3. OLAHRAGA", SportStars
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars.png" group-title="OLAHRAGA", SportStars
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd?token_zulkarnaien66
 
 ----SportStars 2----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars2.png" group-title="3. OLAHRAGA", SportStars 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars2.png" group-title="OLAHRAGA", SportStars 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd?token_zulkarnaien66
 
 ----SportStars 3----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars3.png" group-title="3. OLAHRAGA", SportStars 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars3.png" group-title="OLAHRAGA", SportStars 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd?token_zulkarnaien66
 
 ----SportStars 4----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars4.png" group-title="3. OLAHRAGA", SportStars 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars4.png" group-title="OLAHRAGA", SportStars 4
 http://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 ----Soccer Channel----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="3. OLAHRAGA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png", Soccer Channel
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png", Soccer Channel
 https://nxanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 ----SpoTV----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="3. OLAHRAGA", SpoTV
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="OLAHRAGA", SpoTV
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd?token_zulkarnaien66
 
 ----SpoTV 2----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-id="spotv2.kr" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="3. OLAHRAGA", SpoTV 2
+#EXTINF:-1 tvg-id="spotv2.kr" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="OLAHRAGA", SpoTV 2
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd?token_zulkarnaien66
 
 ----Usee Sport 1----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Usee%20Sports.png" group-title="3. OLAHRAGA", Usee Sport 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Usee%20Sports.png" group-title="OLAHRAGA", Usee Sport 1
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298577
 
 ----Usee Sport 2----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Usee%20Sports2.png" group-title="3. OLAHRAGA", Usee Sport 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Usee%20Sports2.png" group-title="OLAHRAGA", Usee Sport 2
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298578
 
 ----Golf----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/CNBC%20GOLF.png" group-title="3. OLAHRAGA", Golf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/CNBC%20GOLF.png" group-title="OLAHRAGA", Golf
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298534
 
 ----NBA TV----
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="3. OLAHRAGA", NBA TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="OLAHRAGA", NBA TV
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298558
 
 ----Tennis Channel----
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmbNbKLfkfTPalocMLlNrX--kHkLkahnrm82wm8JqNcu2Uopz4tivJXXPd1QJZFNjkII&usqp=CAU" group-title="3. OLAHRAGA", Tennis Channel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmbNbKLfkfTPalocMLlNrX--kHkLkahnrm82wm8JqNcu2Uopz4tivJXXPd1QJZFNjkII&usqp=CAU" group-title="OLAHRAGA", Tennis Channel
 #https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 ----FOX SPORTS 1----
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2bjPO01zTLjgtAouG72ezrqsZtoL5VT8eQ&usqp=CAU" group-title="3. OLAHRAGA", FOX SPORTS 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2bjPO01zTLjgtAouG72ezrqsZtoL5VT8eQ&usqp=CAU" group-title="OLAHRAGA", FOX SPORTS 1
 
 ----FOX SPORTS 2----
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2bjPO01zTLjgtAouG72ezrqsZtoL5VT8eQ&usqp=CAU" group-title="3. OLAHRAGA", FOX SPORTS 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2bjPO01zTLjgtAouG72ezrqsZtoL5VT8eQ&usqp=CAU" group-title="OLAHRAGA", FOX SPORTS 2
 
 ----FOX SPORTS 3----
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2bjPO01zTLjgtAouG72ezrqsZtoL5VT8eQ&usqp=CAU" group-title="3. OLAHRAGA", FOX SPORTS 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2bjPO01zTLjgtAouG72ezrqsZtoL5VT8eQ&usqp=CAU" group-title="OLAHRAGA", FOX SPORTS 3
 
 ----SPEED TV----
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060b2307340bd/086909c32b7a426eae75792a891c9d8f.jpg" group-title="3. OLAHRAGA", SPEED TV
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060b2307340bd/086909c32b7a426eae75792a891c9d8f.jpg" group-title="OLAHRAGA", SPEED TV
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.m3u8
 
 ----MOTORVISION TV----
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/70517bbb44cfd85432253e855bec7bb9.png" group-title="3. OLAHRAGA", MOTORVISION TV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/70517bbb44cfd85432253e855bec7bb9.png" group-title="OLAHRAGA", MOTORVISION TV
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 
 ----Horizon Sports----
@@ -427,490 +427,490 @@ http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857f48ecd2017f5ea03c5313e9/7a84b24e750f43d49799c533c6b9c709.png" group-title="3. OLAHRAGA",Horizon Sports
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857f48ecd2017f5ea03c5313e9/7a84b24e750f43d49799c533c6b9c709.png" group-title="OLAHRAGA",Horizon Sports
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856b6088c3016b87d55f480b52/manifest.mpd
 
 ----REDBULL TV----
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="3. OLAHRAGA", RedBull TV
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="OLAHRAGA", RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 ----Canal Motor----
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6vsp8QswZlEhlG5xE8itPPF_kg0451lbOUXDyVVQqWe0m9z74FoZ9E5BnmmGGGiKEFYs=w240-h480-rw" group-title="3. OLAHRAGA", Canal Motor
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6vsp8QswZlEhlG5xE8itPPF_kg0451lbOUXDyVVQqWe0m9z74FoZ9E5BnmmGGGiKEFYs=w240-h480-rw" group-title="OLAHRAGA", Canal Motor
 https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 ##http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
 
 ----Historycal Sports----
-#EXTINF:-1 tvg-logo="" group-title="3. OLAHRAGA", Historycal Sports
+#EXTINF:-1 tvg-logo="" group-title="OLAHRAGA", Historycal Sports
 ##https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68578b331d80178b5acf1fd0a55/manifest.mpd
 
 ----Billiard TV----
-#EXTINF:-1 tvg-logo="https://images.prismic.io/atmosphere-marketing/372f3f16-2a2d-401b-ba32-08e6f8e01693_Billiards+-+Channel+Logo.png" group-title="3. OLAHRAGA", Billiard TV
+#EXTINF:-1 tvg-logo="https://images.prismic.io/atmosphere-marketing/372f3f16-2a2d-401b-ba32-08e6f8e01693_Billiards+-+Channel+Logo.png" group-title="OLAHRAGA", Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
 ----World Poker Tour----
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AF1ON8u.png" group-title="3. OLAHRAGA", World Poker Tour
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AF1ON8u.png" group-title="OLAHRAGA", World Poker Tour
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 ----Poker TV----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Poker%20TV.png" tvg-name="Poker TV" group-title="3. OLAHRAGA", Poker TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Poker%20TV.png" tvg-name="Poker TV" group-title="OLAHRAGA", Poker TV
 https://hls.pokertvfa.live/hls/stream.m3u8
 
 
 
 
 ------------------------------------
-			4. SEPAK BOLA 
+			SEPAK BOLA 
 ------------------------------------
 
 ----ABU DHABI SPORT 1----
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/Sepakbola.jpg" tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="4. SEPAK BOLA", ABU DHABI SPORT 1
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/Sepakbola.jpg" tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="SEPAK BOLA", ABU DHABI SPORT 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
 ----ABU DHABI SPORT 2----
-#EXTINF:-1 tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="4. SEPAK BOLA", ABU DHABI SPORT 2
+#EXTINF:-1 tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="SEPAK BOLA", ABU DHABI SPORT 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
 ----ABU DHABI SPORT 3----
-#EXTINF:-1 tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="4. SEPAK BOLA", ABU DHABI SPORT 3
+#EXTINF:-1 tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="SEPAK BOLA", ABU DHABI SPORT 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 
 ----Astro Supersport 1----
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="4. SEPAK BOLA", Astro Supersport 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SEPAK BOLA", Astro Supersport 1
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/146068
 
 ----Astro Supersport 2----
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="4. SEPAK BOLA", Astro Supersport 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SEPAK BOLA", Astro Supersport 2
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157556
 
 ----Astro Supersport 3----
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="4. SEPAK BOLA", Astro Supersport 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SEPAK BOLA", Astro Supersport 3
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157557
 
 ----Astro Supersport 4----
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="4. SEPAK BOLA", Astro Supersport 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SEPAK BOLA", Astro Supersport 4
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558
 
 ----beIN Sports 1----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS1.png" group-title="4. SEPAK BOLA", beIN Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS1.png" group-title="SEPAK BOLA", beIN Sports 1
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/15204.ts
 
 ----beIN Sports 2----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS2.png" group-title="4. SEPAK BOLA", beIN Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS2.png" group-title="SEPAK BOLA", beIN Sports 2
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/15203.ts
 
 ----beIN Sports 3----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS3.png" group-title="4. SEPAK BOLA", beIN Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS3.png" group-title="SEPAK BOLA", beIN Sports 3
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/83080.ts
 
 ----BEIN SPORTS PREMIUM 1 AR----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS%20PREMIUM1.png" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 1 AR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS%20PREMIUM1.png" group-title="SEPAK BOLA", BEIN SPORTS PREMIUM 1 AR
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32008.ts
 
 ----BEIN SPORTS PREMIUM 2 AR----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS%20PREMIUM2.png" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 2 AR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS%20PREMIUM2.png" group-title="SEPAK BOLA", BEIN SPORTS PREMIUM 2 AR
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32007.ts
 
 ----BEIN SPORTS PREMIUM 3 AR----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS%20PREMIUM2.png" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 3 AR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS%20PREMIUM2.png" group-title="SEPAK BOLA", BEIN SPORTS PREMIUM 3 AR
 http://zeintv.xyz:8080/45124544/64555855/203305
 
 ----BT SPORT----
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="4. SEPAK BOLA", BT SPORT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="SEPAK BOLA", BT SPORT
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/270.ts
 
 ----BT SPORT 2----
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="4. SEPAK BOLA", BT SPORT 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="SEPAK BOLA", BT SPORT 2
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/276958.m3u8 
 ##http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/273.ts
 
 ----BT SPORT 3----
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="4. SEPAK BOLA", BT SPORT 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="SEPAK BOLA", BT SPORT 3
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/271.ts
 
 ----CANAL+ Sport----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Canal%2B%20Sport.png" group-title="4. SEPAK BOLA", CANAL+ Sport
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Canal%2B%20Sport.png" group-title="SEPAK BOLA", CANAL+ Sport
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880461&extension=ts&play_token=zulkarnain@.ts
 
 ----CANAL+ Sport 2----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Canal%2B%20Sport2.png" group-title="4. SEPAK BOLA", CANAL+ Sport 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Canal%2B%20Sport2.png" group-title="SEPAK BOLA", CANAL+ Sport 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880460&extension=ts&play_token=zulkarnain@.ts
 
 ----CANAL+ Sport 3----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Canal%2B%20Sport3.png" group-title="4. SEPAK BOLA", CANAL+ Sport 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Canal%2B%20Sport3.png" group-title="SEPAK BOLA", CANAL+ Sport 3
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880459&extension=ts&play_token=zulkarnain@.ts
 
 ----CANAL+ Sport 4----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Canal%2B%20Sport4.png" group-title="4. SEPAK BOLA", CANAL+ Sport 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Canal%2B%20Sport4.png" group-title="SEPAK BOLA", CANAL+ Sport 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880458&extension=ts&play_token=zulkarnain@.ts
 
 ----Eurosport 1----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Eurosport1.png" group-title="4. SEPAK BOLA", Eurosport 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Eurosport1.png" group-title="SEPAK BOLA", Eurosport 1
 http://eu.majes-line.co/play/live.php?mac=00:1A:79:6F:D5:39&stream=577963&extension=ts&play_token=qQl23u6Sjg
 
 ----Eurosport 2----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Eurosport2.png" group-title="4. SEPAK BOLA", Eurosport 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Eurosport2.png" group-title="SEPAK BOLA", Eurosport 2
 http://eu.majes-line.co/play/live.php?mac=00:1A:79:6F:D5:39&stream=577962&extension=ts&play_token=ic7wEJbsvj
 
 ---Eleven Sports 1----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Eleven%20Sports1.png" group-title="4. SEPAK BOLA", Eleven Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Eleven%20Sports1.png" group-title="SEPAK BOLA", Eleven Sports 1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880457&extension=ts&play_token=zulkarnain@.ts
 
 ----Eleven Sports 2----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Eleven%20Sports2.png" group-title="4. SEPAK BOLA", Eleven Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Eleven%20Sports2.png" group-title="SEPAK BOLA", Eleven Sports 2
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880456&extension=ts&play_token=zulkarnain@.ts
 
 ----Eleven Sports 3----
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eleven Sports 3
+#EXTINF:-1 tvg-logo="" group-title="SEPAK BOLA", Eleven Sports 3
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880455&extension=ts&play_token=zulkarnain@.ts
 
 ----Eleven Sports 4----
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eleven Sports 4
+#EXTINF:-1 tvg-logo="" group-title="SEPAK BOLA", Eleven Sports 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=880454&extension=ts&play_token=zulkarnain@.ts
 
 ----Now Premier Sports 1----
-#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 1
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SEPAK BOLA", Now Premier Sports 1
 #batas#
 
 ----Now Premier Sports 2----
-#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 2
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SEPAK BOLA", Now Premier Sports 2
 #batas#
 
 ----Now Premier Sports 3----
-#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 3
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SEPAK BOLA", Now Premier Sports 3
 #batas#
 
 ----Now Premier Sports 4----
-#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 4
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SEPAK BOLA", Now Premier Sports 4
 #batas#
 
 ----Now Premier Sports 5----
-#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 5
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SEPAK BOLA", Now Premier Sports 5
 #batas#
 
 ----Now Premier Sports 6----  
-#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 6
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SEPAK BOLA", Now Premier Sports 6
 #batas#
 
 ----Now Premier Sports 7----
-#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 7
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SEPAK BOLA", Now Premier Sports 7
 #batas#
 
 ----Now Premier Sports 8----
-#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 8
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SEPAK BOLA", Now Premier Sports 8
 #batas#
 
 ----TyC Sports----
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", TyC Sports US
+#EXTINF:-1 tvg-logo="" group-title="SEPAK BOLA", TyC Sports US
 #batas#
 
 ----DAZN beIN Sports 1----
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS1.png" group-title="4. SEPAK BOLA", DAZN beIN Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS1.png" group-title="SEPAK BOLA", DAZN beIN Sports 1
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
 
 ----DAZN beIN Sports 2----
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS2.png" group-title="4. SEPAK BOLA", DAZN beIN Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS2.png" group-title="SEPAK BOLA", DAZN beIN Sports 2
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 
 ----DAZN beIN Sports 3----
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS3.png" group-title="4. SEPAK BOLA", DAZN beIN Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS3.png" group-title="SEPAK BOLA", DAZN beIN Sports 3
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 
 ----Now Sports 1----
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/631-wbg-c.png" group-title="4. SEPAK BOLA", Now Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/631-wbg-c.png" group-title="SEPAK BOLA", Now Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110615&extension=ts&play_token=zulkarnain@.ts
 
 ----Now Sports 2----
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/632-wbg-c.png" group-title="4. SEPAK BOLA", Now Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/632-wbg-c.png" group-title="SEPAK BOLA", Now Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110616&extension=ts&play_token=zulkarnain@.ts
 
 ----Now Sports 3----
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/633-wbg-c.png" group-title="4. SEPAK BOLA", Now Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/633-wbg-c.png" group-title="SEPAK BOLA", Now Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110617&extension=ts&play_token=zulkarnain@.ts
 
 ----Now Sports 4----
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/634-wbg-c.png" group-title="4. SEPAK BOLA", Now Sports 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/634-wbg-c.png" group-title="SEPAK BOLA", Now Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110618&extension=ts&play_token=zulkarnain@.ts
 
 ----Now Sports 5----
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/635-wbg-c.png" group-title="4. SEPAK BOLA", Now Sports 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/635-wbg-c.png" group-title="SEPAK BOLA", Now Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110619&extension=ts&play_token=zulkarnain@.ts
 
 ----Now Sports 6----
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/636-wbg-c.png" group-title="4. SEPAK BOLA", Now Sports 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/636-wbg-c.png" group-title="SEPAK BOLA", Now Sports 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110620&extension=ts&play_token=zulkarnain@.ts
 
 ----Now Sports 7----
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/637-wbg-c.png" group-title="4. SEPAK BOLA", Now Sports 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/637-wbg-c.png" group-title="SEPAK BOLA", Now Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1110621&extension=ts&play_token=zulkarnain@.ts
 
 ----Sony Sports Ten 1----
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 1" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SONY%20SportsTen1%20HD.png" group-title="4. SEPAK BOLA", Sony Sports Ten 1
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 1" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SONY%20SportsTen1%20HD.png" group-title="SEPAK BOLA", Sony Sports Ten 1
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=156017&extension=ts&play_token=1R0IiyGd6h
 
 ----Sony Sports Ten 2----
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 2" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SONY%20SportsTen2%20HD.png" group-title="4. SEPAK BOLA", Sony Sports Ten 2
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 2" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SONY%20SportsTen2%20HD.png" group-title="SEPAK BOLA", Sony Sports Ten 2
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=156010&extension=ts&play_token=JF4iBmMrpl
 
 ----Sony Sports Ten 3----
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 3" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SONY%20SportsTen3%20HD.png" group-title="4. SEPAK BOLA", Sony Sports Ten 3
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 3" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SONY%20SportsTen3%20HD.png" group-title="SEPAK BOLA", Sony Sports Ten 3
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=156024&extension=ts&play_token=fmZmC2ijLp
 
 ----Sony Sports Ten 4----
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 3" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SONY%20SportsTen4%20HD.png" group-title="4. SEPAK BOLA", Sony Sports Ten 4
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 3" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SONY%20SportsTen4%20HD.png" group-title="SEPAK BOLA", Sony Sports Ten 4
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1114579&extension=ts&play_token=8g2eklNoRz
 
 ----SPORT TV1----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTINF:0 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="4. SEPAK BOLA", SPORT TV1
+#EXTINF:0 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="SEPAK BOLA", SPORT TV1
 https://webudit.cdnhks.lol/lb/premium49/index.m3u8
 
 ----SPORT TV2----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTINF:0 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="4. SEPAK BOLA", SPORT TV2
+#EXTINF:0 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="SEPAK BOLA", SPORT TV2
 https://webudit.cdnhks.lol/lb/premium74/index.m3u8
 
 ----SPORT TV3----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTINF:0 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="4. SEPAK BOLA", SPORT TV3
+#EXTINF:0 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="SEPAK BOLA", SPORT TV3
 https://webudit.cdnhks.lol/lb/premium454/index.m3u8
 
 ----SPORT TV4----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTINF:0 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="4. SEPAK BOLA", SPORT TV4
+#EXTINF:0 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="SEPAK BOLA", SPORT TV4
 https://webudit.cdnhks.lol/lb/premium289/index.m3u8
 
 ----SPORT TV5----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTINF:0 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="4. SEPAK BOLA", SPORT TV5
+#EXTINF:0 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="SEPAK BOLA", SPORT TV5
 https://webudit.cdnhks.lol/lb/premium290/index.m3u8
 
 ----SPORT TV6----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTINF:0 tvg-id="sporttv6.pt" tvg-name="SPORT TV 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="4. SEPAK BOLA", SPORT TV6
+#EXTINF:0 tvg-id="sporttv6.pt" tvg-name="SPORT TV 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="SEPAK BOLA", SPORT TV6
 https://webudit.cdnhks.lol/lb/premium291/index.m3u8
 
 ----True Premier 1----
-#EXTINF:-1 tvg-id="truepremierfootball1.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" group-title="4. SEPAK BOLA",True Premier 1
+#EXTINF:-1 tvg-id="truepremierfootball1.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" group-title="SEPAK BOLA",True Premier 1
 https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 
 ----True Premier 2----
-#EXTINF:-1 tvg-id="truepremierfootball2.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png" group-title="4. SEPAK BOLA",True Premier 2
+#EXTINF:-1 tvg-id="truepremierfootball2.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png" group-title="SEPAK BOLA",True Premier 2
 https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
 ----True Premier 3----
-#EXTINF:-1 tvg-id="truepremierfootball3.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" group-title="4. SEPAK BOLA",True Premier 3
+#EXTINF:-1 tvg-id="truepremierfootball3.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" group-title="SEPAK BOLA",True Premier 3
 https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
 ----True Premier 4----
-#EXTINF:-1 tvg-id="truepremierfootball4.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="4. SEPAK BOLA",True Premier 4
+#EXTINF:-1 tvg-id="truepremierfootball4.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="SEPAK BOLA",True Premier 4
 https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 
 ----True Premier 5----
-#EXTINF:-1 tvg-id="truepremierfootball5.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png" group-title="4. SEPAK BOLA",True Premier 5
+#EXTINF:-1 tvg-id="truepremierfootball5.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png" group-title="SEPAK BOLA",True Premier 5
 https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
 ----HUB Sports 1----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/HUB%20Sports1.png" group-title="4. SEPAK BOLA", HUB Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/HUB%20Sports1.png" group-title="SEPAK BOLA", HUB Sports 1
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1110667&extension=ts&play_token=0duhKfW95f
 
 ----HUB Sports 2----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/HUB%20Sports2.png" group-title="4. SEPAK BOLA", HUB Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/HUB%20Sports2.png" group-title="SEPAK BOLA", HUB Sports 2
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1110666&extension=ts&play_token=giWRao7Fwn
 
 ----HUB Sports 3----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/HUB%20Sports3.png" group-title="4. SEPAK BOLA", HUB Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/HUB%20Sports3.png" group-title="SEPAK BOLA", HUB Sports 3
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1110665&extension=ts&play_token=EweK9cqCFa
 
 ----Real Madrid TV----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bhqwplay.xyz/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3QfWd9h/rmtv.png" group-title="4. SEPAK BOLA", Real Madrid TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3QfWd9h/rmtv.png" group-title="SEPAK BOLA", Real Madrid TV
 #http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=107538&extension=ts&play_token=IJBiv0qiH2
 https://ddy4.cdndac.lol/ddy4/premium523/tracks-v1a1/mono.m3u8
 
 ----Milan TV----
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf4Z8NZ9/milantv.png" group-title="4. SEPAK BOLA", Milan TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zf4Z8NZ9/milantv.png" group-title="SEPAK BOLA", Milan TV
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=691540&extension=ts&play_token=xEv5VCfF0e
 
 ----Sky Sport Select----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySportSelect.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbBfUgRPrYjGbXcFIlXpkRK3XHOhbtZ5ZELQ&usqp=CAU"  group-title="4. SEPAK BOLA", Sky Sport Select
+#EXTINF:-1 tvg-id="SkySportSelect.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbBfUgRPrYjGbXcFIlXpkRK3XHOhbtZ5ZELQ&usqp=CAU"  group-title="SEPAK BOLA", Sky Sport Select
 https://webudit.cdnhks.lol/lb/premium587/index.m3u8
 
 ----Sky Sport 1----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySport1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sky_Sport_1_HD_-_Logo_2015.svg/2560px-Sky_Sport_1_HD_-_Logo_2015.svg.png"  group-title="4. SEPAK BOLA", Sky Sport 1
+#EXTINF:-1 tvg-id="SkySport1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sky_Sport_1_HD_-_Logo_2015.svg/2560px-Sky_Sport_1_HD_-_Logo_2015.svg.png"  group-title="SEPAK BOLA", Sky Sport 1
 https://webudit.cdnhks.lol/lb/premium588/index.m3u8
 
 ----Sky Sport 2----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySport2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sky_Sport_2_-_Logo_2015.svg/1280px-Sky_Sport_2_-_Logo_2015.svg.png"  group-title="4. SEPAK BOLA", Sky Sport 2
+#EXTINF:-1 tvg-id="SkySport2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sky_Sport_2_-_Logo_2015.svg/1280px-Sky_Sport_2_-_Logo_2015.svg.png"  group-title="SEPAK BOLA", Sky Sport 2
 https://webudit.cdnhks.lol/lb/premium589/index.m3u8
 
 ----Sky Sport 3----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySport3.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sky_Sport_3_-_Logo_2015.svg/2560px-Sky_Sport_3_-_Logo_2015.svg.png"  group-title="4. SEPAK BOLA", Sky Sport 3
+#EXTINF:-1 tvg-id="SkySport3.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sky_Sport_3_-_Logo_2015.svg/2560px-Sky_Sport_3_-_Logo_2015.svg.png"  group-title="SEPAK BOLA", Sky Sport 3
 https://webudit.cdnhks.lol/lb/premium590/index.m3u8
 
 ----Sky Sport 4----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySport4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sky_Sport_4_-_Logo_2016.svg/2560px-Sky_Sport_4_-_Logo_2016.svg.png"  group-title="4. SEPAK BOLA", Sky Sport 4
+#EXTINF:-1 tvg-id="SkySport4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sky_Sport_4_-_Logo_2016.svg/2560px-Sky_Sport_4_-_Logo_2016.svg.png"  group-title="SEPAK BOLA", Sky Sport 4
 https://webudit.cdnhks.lol/lb/premium591/index.m3u8
 
 ----Sky Sport 5----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySport5.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Sky_Sport_Bundesliga_5_Logo_2016.png"  group-title="4. SEPAK BOLA", Sky Sport 5
+#EXTINF:-1 tvg-id="SkySport5.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Sky_Sport_Bundesliga_5_Logo_2016.png"  group-title="SEPAK BOLA", Sky Sport 5
 https://webudit.cdnhks.lol/lb/premium592/index.m3u8
 
 ----Sky Sport 6----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySport6.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Sky_Sport_Bundesliga_6_HD_Logo_2016.png"  group-title="4. SEPAK BOLA", Sky Sport 6
+#EXTINF:-1 tvg-id="SkySport6.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Sky_Sport_Bundesliga_6_HD_Logo_2016.png"  group-title="SEPAK BOLA", Sky Sport 6
 https://webudit.cdnhks.lol/lb/premium593/index.m3u8
 
 ----Sky Sport 7----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySport7.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Sky_Sport_Bundesliga_7_HD_Logo_2016.png"  group-title="4. SEPAK BOLA", Sky Sport 7
+#EXTINF:-1 tvg-id="SkySport7.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Sky_Sport_Bundesliga_7_HD_Logo_2016.png"  group-title="SEPAK BOLA", Sky Sport 7
 https://webudit.cdnhks.lol/lb/premium594/index.m3u8
 
 ----Sky Sport 8----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySport8.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6sykBUFSS7AimQoZS0pcxLWbCpMvcdJRxsw&usqp=CAU"  group-title="4. SEPAK BOLA", Sky Sport 8
+#EXTINF:-1 tvg-id="SkySport8.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6sykBUFSS7AimQoZS0pcxLWbCpMvcdJRxsw&usqp=CAU"  group-title="SEPAK BOLA", Sky Sport 8
 https://webudit.cdnhks.lol/lb/premium595/index.m3u8
 
 ----Sky Sport 9----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySport9.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_Sport_Bundesliga_9_HD_Logo_2016.png"  group-title="4. SEPAK BOLA", Sky Sport 9
+#EXTINF:-1 tvg-id="SkySport9.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_Sport_Bundesliga_9_HD_Logo_2016.png"  group-title="SEPAK BOLA", Sky Sport 9
 https://webudit.cdnhks.lol/lb/premium596/index.m3u8
 
 ----Sky Sports Premier League----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="4. SEPAK BOLA", Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="SEPAK BOLA", Sky Sports Premier League
 https://webudit.cdnhks.lol/lb/premium130/index.m3u8
 
 ----Sky Sports Football----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="4. SEPAK BOLA", Sky Sports Football
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="SEPAK BOLA", Sky Sports Football
 https://webudit.cdnhks.lol/lb/premium35/index.m3u8
 
 ----Sky Sports Main Event----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="4. SEPAK BOLA", Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="SEPAK BOLA", Sky Sports Main Event
 https://webudit.cdnhks.lol/lb/premium38/index.m3u8
 
 ----Sky Sports Action----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="4. SEPAK BOLA", Sky Sports Action
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="SEPAK BOLA", Sky Sports Action
 https://webudit.cdnhks.lol/lb/premium37/index.m3u8
 
 ----Sky Sports Golf----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="4. SEPAK BOLA", Sky Sports Golf
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="SEPAK BOLA", Sky Sports Golf
 https://webudit.cdnhks.lol/lb/premium70/index.m3u8
 
 ----Sky Sports Mix----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="4. SEPAK BOLA", Sky Sports Mix
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="SEPAK BOLA", Sky Sports Mix
 https://webudit.cdnhks.lol/lb/premium449/index.m3u8
 
 ----Sky Sports F1----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="4. SEPAK BOLA" , Sky Sports F1
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="SEPAK BOLA" , Sky Sports F1
 https://webudit.cdnhks.lol/lb/premium60/index.m3u8
 
 ----Sky Sports Arena----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="4. SEPAK BOLA" , Sky Sports Arena
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="SEPAK BOLA" , Sky Sports Arena
 https://webudit.cdnhks.lol/lb/premium36/index.m3u8
 
 ----Sky Sports Cricket----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="4. SEPAK BOLA" , Sky Sports Cricket
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="SEPAK BOLA" , Sky Sports Cricket
 https://webudit.cdnhks.lol/lb/premium65/index.m3u8
 
 ----Sky Sports Racing----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="4. SEPAK BOLA" , Sky Sports Racing
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="SEPAK BOLA" , Sky Sports Racing
 https://webudit.cdnhks.lol/lb/premium554/index.m3u8
 
 ----Sky Sports Top Event----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="4. SEPAK BOLA" , Sky Sports Top Event
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="SEPAK BOLA" , Sky Sports Top Event
 https://webudit.cdnhks.lol/lb/premium556/index.m3u8
 
 ----Sky Sports Bundesliga----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="4. SEPAK BOLA", Sky Sports Bundesliga
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="SEPAK BOLA", Sky Sports Bundesliga
 https://webudit.cdnhks.lol/lb/premium558/index.m3u8
 
 ----SSC 1----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 group-title="4. SEPAK BOLA" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SSC.png",SSC 1
+#EXTINF:-1 group-title="SEPAK BOLA" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SSC.png",SSC 1
 https://webudit.cdnhks.lol/lb/premium614/index.m3u8
 
 ----SSC 2----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 group-title="4. SEPAK BOLA" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SSC.png",SSC 2
+#EXTINF:-1 group-title="SEPAK BOLA" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SSC.png",SSC 2
 https://webudit.cdnhks.lol/lb/premium615/index.m3u8
 
 ----SSC 3----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 group-title="4. SEPAK BOLA" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SSC.png",SSC 3
+#EXTINF:-1 group-title="SEPAK BOLA" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SSC.png",SSC 3
 https://webudit.cdnhks.lol/lb/premium616/index.m3u8
 
 ----SSC 4----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 group-title="4. SEPAK BOLA" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SSC.png",SSC 4
+#EXTINF:-1 group-title="SEPAK BOLA" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SSC.png",SSC 4
 https://webudit.cdnhks.lol/lb/premium617/index.m3u8
 
 ----SSC 5----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 group-title="4. SEPAK BOLA" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SSC.png",SSC 5
+#EXTINF:-1 group-title="SEPAK BOLA" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SSC.png",SSC 5
 https://webudit.cdnhks.lol/lb/premium618/index.m3u8
 
 
@@ -920,519 +920,519 @@ https://webudit.cdnhks.lol/lb/premium618/index.m3u8
 
 
 ------------------------------------
-			5. FILM
+			FILM
 ------------------------------------
 
 ----Celestial Movies----
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5726nmxM-oTCBiKMLzve_f4sUN5YdLpCKrg&usqp=CAU" group-title="5. FILM", Celestial Movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5726nmxM-oTCBiKMLzve_f4sUN5YdLpCKrg&usqp=CAU" group-title="FILM", Celestial Movies
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165065
 
 ----Celestial Clasic Movies----
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2tbZe1KAOHbwkFzav1rGRhvPS7D4yAZ1UGw&usqp=CAU" group-title="5. FILM", Celestial Clasic Movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2tbZe1KAOHbwkFzav1rGRhvPS7D4yAZ1UGw&usqp=CAU" group-title="FILM", Celestial Clasic Movies
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
 http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 
 ----Etv Bioskop----
-#EXTINF:-1 group-title="5. FILM", Etv Bioskop
+#EXTINF:-1 group-title="FILM", Etv Bioskop
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298526
 
 ----Etv Bioskop 02----
-#EXTINF:-1 group-title="5. FILM", Etv Bioskop 02
+#EXTINF:-1 group-title="FILM", Etv Bioskop 02
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298527
 
 ----Etv Bioskop 03----
-#EXTINF:-1 group-title="5. FILM", Etv Bioskop 03
+#EXTINF:-1 group-title="FILM", Etv Bioskop 03
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298528
 
 ----Etv Bioskop 04----
-#EXTINF:-1 group-title="5. FILM", Etv Bioskop 04
+#EXTINF:-1 group-title="FILM", Etv Bioskop 04
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298529
 
 ----Bioskop Indonesia----
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="5. FILM", Bioskop Indonesia
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="FILM", Bioskop Indonesia
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264801
 
 ----TVN----
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png" group-title="5. FILM", TVN
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png" group-title="FILM", TVN
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197965
 
 ----TVN Movies----
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png" group-title="5. FILM", TVN Movies
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png" group-title="FILM", TVN Movies
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/157596
 
 ----HBO----
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo-home-box-office9772.jpg" group-title="5. FILM", HBO
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo-home-box-office9772.jpg" group-title="FILM", HBO
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197972
 
 ----HBO Family----
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png" group-title="5. FILM", HBO Family
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png" group-title="FILM", HBO Family
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197055
 
 ----HBO Hits----
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBV8EcYwRYQaVXIBoqInQAYRIj_DgfboUswMLC_GoYgpf9uep5mcSDSGagw7Fl0qZgoQA&usqp=CAU" group-title="5. FILM", HBO Hits
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBV8EcYwRYQaVXIBoqInQAYRIj_DgfboUswMLC_GoYgpf9uep5mcSDSGagw7Fl0qZgoQA&usqp=CAU" group-title="FILM", HBO Hits
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/196480
 
 ----HBO Signature----
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="5. FILM", HBO Signature
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="FILM", HBO Signature
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/221948
 
 ----FLIK----
-#EXTINF:-1 tvg-logo="" group-title="5. FILM", FLIK
+#EXTINF:-1 tvg-logo="" group-title="FILM", FLIK
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165095
 
 ----FMN----
-#EXTINF:-1 tvg-logo="" group-title="5. FILM", FMN
+#EXTINF:-1 tvg-logo="" group-title="FILM", FMN
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165057
 
 ----Fox Crime----
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef0e5e0250f0cc3e2bac80acdf3f841d.png" group-title="5. FILM", Fox Crime
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef0e5e0250f0cc3e2bac80acdf3f841d.png" group-title="FILM", Fox Crime
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165076
 
 ---- Galaxy----
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" group-title="5. FILM", Galaxy
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" group-title="FILM", Galaxy
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264773
 
 ----Galaxy Premium----
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="5. FILM", Galaxy Premium
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="FILM", Galaxy Premium
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264774
 
 ----GEM----
-#EXTINF:-1 tvg-logo="" group-title="5. FILM", GEM
+#EXTINF:-1 tvg-logo="" group-title="FILM", GEM
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298533
 
 ----K+----
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QYR53ti.png" group-title="5. FILM", K+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QYR53ti.png" group-title="FILM", K+
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197969
 
 ----Sony One----
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_164.png" group-title="5. FILM", Sony One
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_164.png" group-title="FILM", Sony One
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165077
 
 ----Zee Bioskop----
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png" group-title="5. FILM", Zee Bioskop
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png" group-title="FILM", Zee Bioskop
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157584
 
 ----Thrill----
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="5. FILM", Thrill
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="FILM", Thrill
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157580
 
 ----KIX----
-#EXTINF:-1 tvg-logo="" group-title="5. FILM", KIX
+#EXTINF:-1 tvg-logo="" group-title="FILM", KIX
 https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 ----AXN----
-#EXTINF:-1 tvg-logo="" group-title="5. FILM", AXN
+#EXTINF:-1 tvg-logo="" group-title="FILM", AXN
 https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 
 
 ------------------------------------
-			6. ISLAMI 
+			ISLAMI 
 ------------------------------------
 
 ----Rodja TV----
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JWbm5qy/logo-rodjatv.png" group-title="6. ISLAMI", Rodja TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JWbm5qy/logo-rodjatv.png" group-title="ISLAMI", Rodja TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
 
 ----TV Mu----
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png" group-title="6. ISLAMI", TV Mu
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png" group-title="ISLAMI", TV Mu
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/196459
 
 ----TV 9 Nusantara----
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="6. ISLAMI", TV 9 Nusantara
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="ISLAMI", TV 9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 ----MADINAH TV----
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png" group-title="6. ISLAMI", MADINAH TV
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png" group-title="ISLAMI", MADINAH TV
 https://edge.taghtia.com/sa/6.m3u8
 
 ----Madina Live----
-#EXTINF: -1 tvg-logo="https://hamariweb.com/pakistan-tv-channels/images/ChannelsHome/133.jpg" group-title="6. ISLAMI", Madina Live
+#EXTINF: -1 tvg-logo="https://hamariweb.com/pakistan-tv-channels/images/ChannelsHome/133.jpg" group-title="ISLAMI", Madina Live
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 ----MTA TV----
-#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13" group-title="6. ISLAMI", MTA TV
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13" group-title="ISLAMI", MTA TV
 https://ythls.onrender.com/channel/UCIrj7gqiu8uUfgMitYFzkNg.m3u8
 
 ----Tawaf TV----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="6. ISLAMI", Tawaf TV
+#EXTINF:-1 tvg-logo="" group-title="ISLAMI", Tawaf TV
 https://anevia114.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 ----Muslim TV----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="MuslimTV.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOKVi9w4GShzFxC-ISRwtAYzvNI3KyZyfw6Q&usqp=CAU" group-title="6. ISLAMI", Muslim TV
+#EXTINF:0 tvg-id="MuslimTV.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOKVi9w4GShzFxC-ISRwtAYzvNI3KyZyfw6Q&usqp=CAU" group-title="ISLAMI", Muslim TV
 https://anevia114.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 ----Makkah TV----
-#EXTINF:-1 tvg-logo="" group-title="6. ISLAMI", Makkah TV
+#EXTINF:-1 tvg-logo="" group-title="ISLAMI", Makkah TV
 https://edge.taghtia.com/sa/7.m3u8
 ##http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 
 ----MEDS TV Aceh----
-#EXTINF:-1 tvg-logo="" group-title="6. ISLAMI", MEDS TV Aceh
+#EXTINF:-1 tvg-logo="" group-title="ISLAMI", MEDS TV Aceh
 https://h1.intechmedia.net/intech/ch23.m3u8
 
 ----Hijrah TV----
-#EXTINF:-1 tvg-logo="" group-title="6. ISLAMI", Hijrah TV
+#EXTINF:-1 tvg-logo="" group-title="ISLAMI", Hijrah TV
 https://h1.intechmedia.net/intech/ch8.m3u8
 
 ----Khazanah----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-#EXTINF:-1 tvg-logo="" group-title="6. ISLAMI", Khazanah
+#EXTINF:-1 tvg-logo="" group-title="ISLAMI", Khazanah
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
 ----Wesel TV----
-#EXTINF:-1 tvg-logo="" group-title="6. ISLAMI" ,Wesal TV
+#EXTINF:-1 tvg-logo="" group-title="ISLAMI" ,Wesal TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 ----MQTV----
-#EXTINF:-1 tvg-logo="" group-title="6. ISLAMI", MQTV
+#EXTINF:-1 tvg-logo="" group-title="ISLAMI", MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 
 
 ------------------------------------
-			7. PENGETAHUAN
+			PENGETAHUAN
 ------------------------------------
 
 ----Nat Geo Wild----
-#EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", Nat Geo Wild
+#EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", Nat Geo Wild
 ##https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 ----Discovery Asia HD----
-#EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", Discovery Asia HD
+#EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", Discovery Asia HD
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197968
 
 ----National Geographic----
-#EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", National Geographic
+#EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", National Geographic
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 ----Discovery Channel HD----
-#EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", Discovery Channel HD
+#EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", Discovery Channel HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
 
 ----Animal Planet----
-#EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", Animal Planet
+#EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", Animal Planet
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/157532
 
 ----BBC Earth----
-#EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", BBC Earth
+#EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", BBC Earth
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 
 
 ------------------------------------
-			8. RADIO 
+			RADIO 
 ------------------------------------
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/pramborsfm.png" group-title="8. RADIO", Prambors FM
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/pramborsfm.png" group-title="RADIO", Prambors FM
 https://23743.live.streamtheworld.com/PRAMBORS_FM.mp3
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/radiogentara.png" group-title="8. RADIO", Radio Gentara
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/radiogentara.png" group-title="RADIO", Radio Gentara
 https://s1.gntr.net/radio/8080/gentara128
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/dmi.png" group-title="8. RADIO", DMI
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/dmi.png" group-title="RADIO", DMI
 https://radione.top:8000/dmi
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/radiosolopos.png" group-title="8. RADIO",Radio Solopos
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/radiosolopos.png" group-title="RADIO",Radio Solopos
 https://radio.solopos.com:8002/stream
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mtafm.png" group-title="8. RADIO",MTA FM
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mtafm.png" group-title="RADIO",MTA FM
 http://103.129.223.201:1079/;
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/persadafm.png" group-title="8. RADIO",Persada FM
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/persadafm.png" group-title="RADIO",Persada FM
 http://103.129.223.201:1079/;
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/nasionalfm.png" group-title="8. RADIO",Nasional FM
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/nasionalfm.png" group-title="RADIO",Nasional FM
 https://d2kziuzkf9oizb.cloudfront.net/rd005/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/pilihanfm.png" group-title="8. RADIO",Pilihan FM
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/pilihanfm.png" group-title="RADIO",Pilihan FM
 https://d2kziuzkf9oizb.cloudfront.net/rd003/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/pelangifm.png" group-title="8. RADIO",Pelangi FM
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/pelangifm.png" group-title="RADIO",Pelangi FM
 https://d2kziuzkf9oizb.cloudfront.net/rd001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/harmonifm.png" group-title="8. RADIO",Harmoni FM
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/harmonifm.png" group-title="RADIO",Harmoni FM
 https://d2kziuzkf9oizb.cloudfront.net/rd002/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/nurislamfm.png" group-title="8. RADIO",Nur Islam FM
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/nurislamfm.png" group-title="RADIO",Nur Islam FM
 https://d2kziuzkf9oizb.cloudfront.net/rd004/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/musica.png" group-title="8. RADIO",Musica Studios
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/musica.png" group-title="RADIO",Musica Studios
 https://ythls.onrender.com/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/aquarius.png" group-title="8. RADIO",Aquarius Musikindo
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/aquarius.png" group-title="RADIO",Aquarius Musikindo
 https://ythls.onrender.com/channel/UCpJRmMTfdv0iPbnjo6qBw_g.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/buletinfm.png" group-title="8. RADIO",Buletin FM
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/buletinfm.png" group-title="RADIO",Buletin FM
 https://ythls.onrender.com/channel/UCIAAIRr8ASmDvwOk6Agfvmw.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/flyfm.png" group-title="8. RADIO",Fly FM
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/flyfm.png" group-title="RADIO",Fly FM
 https://ythls.onrender.com/channel/UCEpTWSFqICafylnJ0tdQpeA.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/suriafm.png" group-title="8. RADIO",Suria FM
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/suriafm.png" group-title="RADIO",Suria FM
 https://ythls.onrender.com/channel/UCjDM2C3nXPGD_cGDyrrBT6w.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/hotfm.png" group-title="8. RADIO",Hot FM
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/hotfm.png" group-title="RADIO",Hot FM
 https://ythls.onrender.com/channel/UCFV_yPFxPbbmrYJ9J6zJglA.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/eramuzik.png" group-title="8. RADIO",ERA Muzik
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/eramuzik.png" group-title="RADIO",ERA Muzik
 https://ythls.onrender.com/channel/UCNq5APn4lVabRaYCnTxiNIg.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/8fm.png" group-title="8. RADIO",8FM
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/8fm.png" group-title="RADIO",8FM
 https://ythls.onrender.com/channel/UCXKqVoc7khb8cg3ugfrih4g.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/molekfm.png" group-title="8. RADIO",Molek FM
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/molekfm.png" group-title="RADIO",Molek FM
 https://ythls.onrender.com/channel/UCkmwGg4oN_Ik4QBx8SqCYJA.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/sinarfm.png" group-title="8. RADIO",Sinar FM
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/sinarfm.png" group-title="RADIO",Sinar FM
 https://ythls.onrender.com/channel/UCt4ZHf2zhAzkq3iI5tG0yFg.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="8. RADIO",Smart FM Jakarta
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="RADIO",Smart FM Jakarta
 https://cast2.my-control-panel.com/proxy/radioso3/stream
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="8. RADIO",Smart FM Surabaya
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="RADIO",Smart FM Surabaya
 https://cast3.asurahosting.com/proxy/radios23/stream
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="8. RADIO",Smart FM Medan
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="RADIO",Smart FM Medan
 https://cast2.my-control-panel.com/proxy/radios11/stream
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="8. RADIO",Smart FM Balikpapan
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="RADIO",Smart FM Balikpapan
 https://cast3.asurahosting.com/proxy/radios32/stream
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="8. RADIO",Smart FM Banjarmasin
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="RADIO",Smart FM Banjarmasin
 https://cast2.my-control-panel.com/proxy/radios15/stream
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="8. RADIO",Smart FM Palembang
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="RADIO",Smart FM Palembang
 https://cast3.asurahosting.com/proxy/radios22/stream
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="8. RADIO",Smart FM Makassar
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="RADIO",Smart FM Makassar
 https://cast2.my-control-panel.com/proxy/radios13/stream
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="8. RADIO",Smart FM Manado
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="RADIO",Smart FM Manado
 https://cast2.my-control-panel.com/proxy/radios14/stream
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="8. RADIO",Smart FM Pekanbaru
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="RADIO",Smart FM Pekanbaru
 https://cast3.asurahosting.com/proxy/radios27/stream
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="8. RADIO",Smart FM Yogyakarta
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="RADIO",Smart FM Yogyakarta
 https://cast3.asurahosting.com/proxy/radios31/stream
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo_ClassyFM.png" group-title="8. RADIO",Classy FM Padang
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo_ClassyFM.png" group-title="RADIO",Classy FM Padang
 http://stream.classyfm.co.id:1034/stream/1/
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-WwI-dA1eGKyVYShhzZnx3p-Y3YzO9mE1zg&usqp=CAU" group-title="8. RADIO",Jiz FM Yogyakarta
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-WwI-dA1eGKyVYShhzZnx3p-Y3YzO9mE1zg&usqp=CAU" group-title="RADIO",Jiz FM Yogyakarta
 http://jgj.jogjastreamers.com:8000/jisstereo?s=24485
 
-#EXTINF:0 tvg-logo="https://sushifm.co.id/wp-content/uploads/2020/12/sushi-99-1-fm-e1609165157693.png" group-title="8. RADIO",Sushi FM Padang
+#EXTINF:0 tvg-logo="https://sushifm.co.id/wp-content/uploads/2020/12/sushi-99-1-fm-e1609165157693.png" group-title="RADIO",Sushi FM Padang
 https://stream2.jejestreaming.com:9200/stream
 
-#EXTINF:0 tvg-logo="https://elmitra95fm.com/wp-content/uploads/2022/12/logo-elmitra-min.png" group-title="8. RADIO",Elmitra FM Sukabumi
+#EXTINF:0 tvg-logo="https://elmitra95fm.com/wp-content/uploads/2022/12/logo-elmitra-min.png" group-title="RADIO",Elmitra FM Sukabumi
 http://streaming.hostgila.com:6777/;stream.nsv
 
-#EXTINF:0 tvg-logo="https://radioswarasemarangfm.co.id/wp-content/uploads/2019/04/logo-png.png" group-title="8. RADIO",Swara FM Semarang
+#EXTINF:0 tvg-logo="https://radioswarasemarangfm.co.id/wp-content/uploads/2019/04/logo-png.png" group-title="RADIO",Swara FM Semarang
 https://server.radioimeldafm.co.id/radio/8010/swarasemarang
 
-#EXTINF:0 tvg-logo="https://radioswarasemarangfm.co.id/wp-content/uploads/2019/04/logo-png.png" group-title="8. RADIO",Swara FM Tanggerang
+#EXTINF:0 tvg-logo="https://radioswarasemarangfm.co.id/wp-content/uploads/2019/04/logo-png.png" group-title="RADIO",Swara FM Tanggerang
 https://rl.tangerank.my.id/swara
 
-#EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s140318/images/logog.png?t=1675632232000" group-title="8. RADIO",Imelda FM
+#EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s140318/images/logog.png?t=1675632232000" group-title="RADIO",Imelda FM
 https://server.radioimeldafm.co.id:8030/imeldafm
 
-#EXTINF:0 tvg-logo="https://gajahmadafm.co.id/wp-content/themes/gahajmada/img/logo.png" group-title="8. RADIO",Gajahmada FM
+#EXTINF:0 tvg-logo="https://gajahmadafm.co.id/wp-content/themes/gahajmada/img/logo.png" group-title="RADIO",Gajahmada FM
 https://server.radioimeldafm.co.id:8040/gajahmadafm
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Logo-sonora.png" group-title="8. RADIO",Sonora FM Bandung
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Logo-sonora.png" group-title="RADIO",Sonora FM Bandung
 https://cast1.my-control-panel.com/proxy/radios17/stream
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8NHFKnwpjbluz27zStoHYQbmdsPGYJYO-w&usqp=CAU" group-title="8. RADIO",Swaragama FM
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8NHFKnwpjbluz27zStoHYQbmdsPGYJYO-w&usqp=CAU" group-title="RADIO",Swaragama FM
 http://jgj.jogjastreamers.com:8000/swaragama456789?s=22282
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCZs5aucFDMi-ac7UFpEmFhS6-qCUR0Jejag&usqp=CAU" group-title="8. RADIO",Radio Cakra Bandung
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCZs5aucFDMi-ac7UFpEmFhS6-qCUR0Jejag&usqp=CAU" group-title="RADIO",Radio Cakra Bandung
 https://stream-057.zeno.fm/yoengdcdzyauv?zs=ER-A13H-TuuY-DZ4mBThEw
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj9utLVrYtemz36L4TrSQFb4Gxg395MWvXdA&usqp=CAU" group-title="8. RADIO",B Radio Bandung
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj9utLVrYtemz36L4TrSQFb4Gxg395MWvXdA&usqp=CAU" group-title="RADIO",B Radio Bandung
 https://n08.rcs.revma.com/9s8q27svceuvv?rj-ttl=5&rj-tok=AAABiB2lxpAANsjsXvF8AVGC_A
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-AOvoRZb1lWTHh0iksAmFy60LpqebPjhJ2Q&usqp=CAU" group-title="8. RADIO",Dahlia FM
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-AOvoRZb1lWTHh0iksAmFy60LpqebPjhJ2Q&usqp=CAU" group-title="RADIO",Dahlia FM
 https://svara-stream.radioddns.net:8443/bandung_dahliafm
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6jgIiOzxzKkLVSE4ITbspWTSXkAYwpVwG_Q&usqp=CAU" group-title="8. RADIO",Baiturrahman FM
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6jgIiOzxzKkLVSE4ITbspWTSXkAYwpVwG_Q&usqp=CAU" group-title="RADIO",Baiturrahman FM
 https://s7.alhastream.com/radio/8060/radio
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoa2-q-5DIyR775uuu2XVW75hFmPrvterhyQ&usqp=CAU" group-title="8. RADIO",Suara Surabaya FM
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoa2-q-5DIyR775uuu2XVW75hFmPrvterhyQ&usqp=CAU" group-title="RADIO",Suara Surabaya FM
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLTRI1_MBUWGJuyMPblUI-JrKcfhFZRTYgOw&usqp=CAU" group-title="8. RADIO",RRI PRO 1 Banda Aceh FM
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLTRI1_MBUWGJuyMPblUI-JrKcfhFZRTYgOw&usqp=CAU" group-title="RADIO",RRI PRO 1 Banda Aceh FM
 https://stream-node2.rri.co.id/streaming/14/9214/rribandaacehpro1.mp3
 
-#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7056.jpg" group-title="8. RADIO",Cosmopolitan FM
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7056.jpg" group-title="RADIO",Cosmopolitan FM
 http://n02.radiojar.com/u7d8heq3bnzuv
 
-#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png" group-title="8. RADIO",V RADIO
+#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png" group-title="RADIO",V RADIO
 http://202.147.199.100:8000/;stream.nsv
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/VDOHWd0.png" group-title="8. RADIO",Hitz FM
+#EXTINF:0 tvg-logo="https://i.imgur.com/VDOHWd0.png" group-title="RADIO",Hitz FM
 https://s2.radio.co/s6929cb202/listen
 
-#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7054.jpg" group-title="8. RADIO",Brava FM
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7054.jpg" group-title="RADIO",Brava FM
 http://n07.radiojar.com/5k7t0rq3bnzuv.mp3?1613997585=&rj-tok=AAABd8nJ38EAguSD-Yi56JrhPA&rj-ttl=5
 
-#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7053.jpg" group-title="8. RADIO",Hard Rock FM
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7053.jpg" group-title="RADIO",Hard Rock FM
 http://n09.radiojar.com/7csmg90fuqruv.mp3?1619243440=&rj-tok=AAABeQJ3Ru4AgeQosVWIZQa5rg&rj-ttl=5
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/vOliZ6Z.png" group-title="8. RADIO",Hard Rock FM Bandung
+#EXTINF:0 tvg-logo="https://i.imgur.com/vOliZ6Z.png" group-title="RADIO",Hard Rock FM Bandung
 http://stream.radiojar.com/fnex9bkswk8uv
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/MmFTrZK.png" group-title="8. RADIO",Hard Rock FM Surabaya
+#EXTINF:0 tvg-logo="https://i.imgur.com/MmFTrZK.png" group-title="RADIO",Hard Rock FM Surabaya
 http://stream.radiojar.com/yg8ne2v80k8uv
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/BwULFUI.png" group-title="8. RADIO",Hard Rock FM Bali
+#EXTINF:0 tvg-logo="https://i.imgur.com/BwULFUI.png" group-title="RADIO",Hard Rock FM Bali
 http://stream.radiojar.com/9k28wsbu5k8uv
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="8. RADIO",Heartline Bali
+#EXTINF:0 tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="RADIO",Heartline Bali
 http://202.129.186.43:7028/stream
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="8. RADIO",Heartline Jakarta
+#EXTINF:0 tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="RADIO",Heartline Jakarta
 https://svara-stream.radioddns.net:8443/karawaci_heartline_stereo?ver=635710
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/dpADolC.png" group-title="8. RADIO",MNC Trijaya FM Jakarta
+#EXTINF:0 tvg-logo="https://i.imgur.com/dpADolC.png" group-title="RADIO",MNC Trijaya FM Jakarta
 http://202.147.199.101:8000/;
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Crxg4DR.png" group-title="8. RADIO",Motion Radio Jakarta
+#EXTINF:0 tvg-logo="https://i.imgur.com/Crxg4DR.png" group-title="RADIO",Motion Radio Jakarta
 https://streamingv2.shoutcast.com/motion-jakarta
 
-#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7130.jpg" group-title="8. RADIO",Female FM
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7130.jpg" group-title="RADIO",Female FM
 http://onlineradiobox.com/json/id/female/play
 
-#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7092.jpg" group-title="8. RADIO",Delta FM
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7092.jpg" group-title="RADIO",Delta FM
 https://stream.cloudmu.id/listen/delta/stream?icy=http
 
-#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7091.jpg" group-title="8. RADIO",Bahana FM
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7091.jpg" group-title="RADIO",Bahana FM
 http://stream.bahanafm.co.id:8100/;
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Xs4j9YI.png" group-title="8. RADIO",EBS FM
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xs4j9YI.png" group-title="RADIO",EBS FM
 http://streaming.suzanafm.com:8100/;stream.nsv
 
-#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7169.jpg" group-title="8. RADIO",Elgangga FM
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7169.jpg" group-title="RADIO",Elgangga FM
 http://onlineradiobox.com/json/id/sushi/play
 
-#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7216.jpg" group-title="8. RADIO",Geronimo FM
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7216.jpg" group-title="RADIO",Geronimo FM
 http://live2.indostreamserver.com:8018/;
 
-#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7284.jpg" group-title="8. RADIO",Gajah Mada FM
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7284.jpg" group-title="RADIO",Gajah Mada FM
 https://server.radioimeldafm.co.id/radio/8020/gajahmadafm
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/zj6og3B.png" group-title="8. RADIO",OZ Radio Jakarta
+#EXTINF:0 tvg-logo="https://i.imgur.com/zj6og3B.png" group-title="RADIO",OZ Radio Jakarta
 https://s3.vinhostmedia.com:10995/;stream/1
 
-#EXTINF:0 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="8. RADIO",Gen FM
+#EXTINF:0 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="RADIO",Gen FM
 http://103.246.184.62:1935/noice_genfm/genfm/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.dropbox.com/s/fqdznsunlxtcgzs/JAKFM.png?dl=1" group-title="8. RADIO",JAK FM
+#EXTINF:0 tvg-logo="https://www.dropbox.com/s/fqdznsunlxtcgzs/JAKFM.png?dl=1" group-title="RADIO",JAK FM
 http://103.246.184.62:1935/noice_jakfm/jakfm/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="8. RADIO",Gen FM SBY
+#EXTINF:0 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="RADIO",Gen FM SBY
 http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/chunklist_w742138711.m3u8
 
-#EXTINF:0 tvg-logo="https://www.dropbox.com/s/ehy1c45c2l8z543/MOSTRADIO.png?dl=1" group-title="8. RADIO",MOST RADIO
+#EXTINF:0 tvg-logo="https://www.dropbox.com/s/ehy1c45c2l8z543/MOSTRADIO.png?dl=1" group-title="RADIO",MOST RADIO
 http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="8. RADIO",MUSTANG
+#EXTINF:0 tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="RADIO",MUSTANG
 http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/1XVJfE5.png" group-title="8. RADIO",Magic 89.9
+#EXTINF:0 tvg-logo="https://i.imgur.com/1XVJfE5.png" group-title="RADIO",Magic 89.9
 https://stream.zeno.fm/fw1368t3vc9uv
 
-#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/91316.v14.png" group-title="8. RADIO",SLOW FM
+#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/91316.v14.png" group-title="RADIO",SLOW FM
 http://onlineradiobox.com/json/id/slow/play
 
-#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/106040.v5.png" group-title="8. RADIO",KIS ROCK
+#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/106040.v5.png" group-title="RADIO",KIS ROCK
 http://onlineradiobox.com/json/id/kisrock/play
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_Kis951FM_%282017%29.png" group-title="8. RADIO",Kis 95.1 FM 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_Kis951FM_%282017%29.png" group-title="RADIO",Kis 95.1 FM 
 http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYKtCMioZdG3g7GQQL_YVc-e3LSBXfz6EMQ&usqp=CAU" group-title="8. RADIO",Trax FM Palembang
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYKtCMioZdG3g7GQQL_YVc-e3LSBXfz6EMQ&usqp=CAU" group-title="RADIO",Trax FM Palembang
 http://stream.radiojar.com/qv4muvhswk8uv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ009zQpV4GKnwKcjkE381GtYYld1O8U_lIpA&usqp=CAU" group-title="8. RADIO",Female Radio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ009zQpV4GKnwKcjkE381GtYYld1O8U_lIpA&usqp=CAU" group-title="RADIO",Female Radio
 https://stream.cloudmu.id/listen/female/stream?icy=http
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c1/HARDROCK-FM-JAKARTA.png" group-title="8. RADIO",Hard Rock 87.6 Jakarta
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c1/HARDROCK-FM-JAKARTA.png" group-title="RADIO",Hard Rock 87.6 Jakarta
 https://stream.radiojar.com/7csmg90fuqruv.mp3?1678353316
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjvY3KWSjBKTGq0CPTSrZj2zEe0VgjLkh77w&usqp=CAU" group-title="8. RADIO",Motion 97.5 Jakarta
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjvY3KWSjBKTGq0CPTSrZj2zEe0VgjLkh77w&usqp=CAU" group-title="RADIO",Motion 97.5 Jakarta
 https://cast1.my-control-panel.com/proxy/radioso2/stream
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnMIW7HTQVxFmcSEZp_VfKbSKO4PvTjclOfg&usqp=CAU" group-title="8. RADIO",KKFI 90.1 FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnMIW7HTQVxFmcSEZp_VfKbSKO4PvTjclOfg&usqp=CAU" group-title="RADIO",KKFI 90.1 FM
 https://nustream.pacificaservice.org:9000/kkfi_128
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnT9NNzC-UNXSpfX5-A_zvrlqVwaANsnCGZQ&usqp=CAU" group-title="8. RADIO",Mentari FM Solo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnT9NNzC-UNXSpfX5-A_zvrlqVwaANsnCGZQ&usqp=CAU" group-title="RADIO",Mentari FM Solo
 https://i.klikhost.com/9122/;stream.mp3
 
-#EXTINF:0 tvg-logo="https://www.bensradio.com/wp-content/uploads/2020/10/LOGO-BENS-RADIO-PNG-600x600.png" group-title="8. RADIO",Bens Radio
+#EXTINF:0 tvg-logo="https://www.bensradio.com/wp-content/uploads/2020/10/LOGO-BENS-RADIO-PNG-600x600.png" group-title="RADIO",Bens Radio
 #https://stream-38.zeno.fm/hn8f3ey0rxhvv?zs=rh4s0LFURqGLueRczZl4mg
 https://stream.zeno.fm/tw9a0f0g0c9uv
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Indika_fm_2016.png" group-title="8. RADIO",Indika FM
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Indika_fm_2016.png" group-title="RADIO",Indika FM
 https://s2.radio.co/sf58a82d7d/listen
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/bGvJ6py.png" group-title="8. RADIO",Hitz FM
+#EXTINF:0 tvg-logo="https://i.imgur.com/bGvJ6py.png" group-title="RADIO",Hitz FM
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/w9WCFqr.png" group-title="8. RADIO",Hot FM
+#EXTINF:0 tvg-logo="https://i.imgur.com/w9WCFqr.png" group-title="RADIO",Hot FM
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
 
-#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-title="8. RADIO",Prambors
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-title="RADIO",Prambors
 https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
 
-#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7184.jpg" group-title="8. RADIO",Ardan FM
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7184.jpg" group-title="RADIO",Ardan FM
 http://listento.ardanradio.com:1059/;
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/u09ERA9.png" group-title="8. RADIO",Phoenix Radio Bali
+#EXTINF:0 tvg-logo="https://i.imgur.com/u09ERA9.png" group-title="RADIO",Phoenix Radio Bali
 https://live.phoenixradiobali.com:8250/phoenixradio
 
-#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7188.jpg" group-title="8. RADIO",MGTRADIO
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7188.jpg" group-title="RADIO",MGTRADIO
 http://stream.radbdg.net:8000/mgtradio.mp3
 
-#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7166.jpg" group-title="8. RADIO",Elshinta FM
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7166.jpg" group-title="RADIO",Elshinta FM
 https://stream-ssl.arenastreaming.com:8000/jakarta
 
-#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7057.jpg" group-title="8. RADIO",I Radio
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7057.jpg" group-title="RADIO",I Radio
 http://stream.radiojar.com/4ywdgup3bnzuv
 
-#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7055.jpg" group-title="8. RADIO",Trax FM
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7055.jpg" group-title="RADIO",Trax FM
 https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ec/Rodja756am.png" group-title="8. RADIO",Radio Rodja
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ec/Rodja756am.png" group-title="RADIO",Radio Rodja
 https://radioislamindonesia.com/rodja.mp3
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Nn86Vde50U7qmZmlwhTZ4Fqkoy9UdDr-aQ&usqp=CAU" group-title="8. RADIO",SOLOPOS FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Nn86Vde50U7qmZmlwhTZ4Fqkoy9UdDr-aQ&usqp=CAU" group-title="RADIO",SOLOPOS FM
 http://jgj.jogjastreamers.com:8000/soloposstereo?s=26329
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="8. RADIO",EBS - Surabaya
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="RADIO",EBS - Surabaya
 http://streaming.suzanafm.com:8100/;stream.nsv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="8. RADIO",TRAX DKI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="RADIO",TRAX DKI
 http://stream.radiojar.com/rrqf78p3bnzuv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="8. RADIO",HITZ BANDUNG
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="RADIO",HITZ BANDUNG
 http://hits.unikom.ac.id:9996/stream/1/
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="8. RADIO", Hitz
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="RADIO", Hitz
 https://github.com/AqFad2811/RadioYTLive/raw/main/Hitz.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="8. RADIO", I-RADIO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="RADIO", I-RADIO
 http://stream.radiojar.com/4ywdgup3bnzuv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="8. RADIO",Hitz FM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="RADIO",Hitz FM
 http://astro1.rastream.com/hitz
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="8. RADIO",RRI Pro 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="RADIO",RRI Pro 1
 https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
 
 
