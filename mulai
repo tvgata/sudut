@@ -6,7 +6,7 @@
 
 --------------- [ LIVE EVENT ] ----------------
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Friendly%20Match.png" group-title="[ LIVE EVENT ]", Monastir vs Al Nassr [02.00] - 01/08/23 - Arab Club Champions Cup
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/live%20event.png" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Friendly%20Match.png" group-title="[ LIVE EVENT ]", Monastir vs Al Nassr [02.00] - 01/08/23 - Arab Club Champions Cup
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1002796&extension=ts&play_token=jeb4ojj84Z
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -57,7 +57,7 @@ https://webudit.cdnhks.lol/lb/premium291/index.m3u8
 ------------------------------------
 
 ----RCTI----
-#EXTINF:-1 tvg-id="rcti.id" group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png", Rcti
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/indonesia.png" tvg-id="rcti.id" group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png", Rcti
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png", Rcti (*)
@@ -262,7 +262,7 @@ http://37.49.230.161:8080/3f6d5b2f/4b60123137/298524
 ------------------------------------
 
 ----CNBC Indonesia----
-#EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650" group-title="BERITA", CNBC Indonesia
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/berita.png" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650" group-title="BERITA", CNBC Indonesia
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165062
 
 ----CNN Indonesia----
@@ -304,7 +304,7 @@ https://anevia114.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 ------------------------------------
 
 ----Champions TV 1----
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="OLAHRAGA",Champions TV 1
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/olahraga.png" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="OLAHRAGA",Champions TV 1
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298512
 
 ----Champions TV 2----
@@ -463,7 +463,7 @@ https://hls.pokertvfa.live/hls/stream.m3u8
 ------------------------------------
 
 ----ABU DHABI SPORT 1----
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/Sepakbola.jpg" tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="SEPAK BOLA", ABU DHABI SPORT 1
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/sepak%20bola.png" tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="SEPAK BOLA", ABU DHABI SPORT 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
 ----ABU DHABI SPORT 2----
@@ -924,7 +924,7 @@ https://webudit.cdnhks.lol/lb/premium618/index.m3u8
 ------------------------------------
 
 ----Celestial Movies----
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5726nmxM-oTCBiKMLzve_f4sUN5YdLpCKrg&usqp=CAU" group-title="FILM", Celestial Movies
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/film.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5726nmxM-oTCBiKMLzve_f4sUN5YdLpCKrg&usqp=CAU" group-title="FILM", Celestial Movies
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165065
 
 ----Celestial Clasic Movies----
@@ -1031,7 +1031,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 ------------------------------------
 
 ----Rodja TV----
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JWbm5qy/logo-rodjatv.png" group-title="ISLAMI", Rodja TV
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/islami.png" tvg-logo="https://i.postimg.cc/3JWbm5qy/logo-rodjatv.png" group-title="ISLAMI", Rodja TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
 
 ----TV Mu----
@@ -1100,7 +1100,7 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 ------------------------------------
 
 ----Nat Geo Wild----
-#EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", Nat Geo Wild
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/pengetahuan.png" tvg-logo="" group-title="PENGETAHUAN", Nat Geo Wild
 ##https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 ----Discovery Asia HD----
@@ -1129,7 +1129,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 			RADIO 
 ------------------------------------
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/pramborsfm.png" group-title="RADIO", Prambors FM
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/radio.png" tvg-logo="https://iptv.urfan.web.id/logo/pramborsfm.png" group-title="RADIO", Prambors FM
 https://23743.live.streamtheworld.com/PRAMBORS_FM.mp3
 
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/radiogentara.png" group-title="RADIO", Radio Gentara
