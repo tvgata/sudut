@@ -1108,7 +1108,7 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197968
 
 ----National Geographic----
-#EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", National Geographic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Knowledge/National%20Geographic.png" group-title="PENGETAHUAN", National Geographic
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 ----Discovery Channel HD----
@@ -1116,7 +1116,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChanne
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
 
 ----Animal Planet----
-#EXTINF:-1 tvg-logo="" group-title="PENGETAHUAN", Animal Planet
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Knowledge/Animal%20Planet.png" group-title="PENGETAHUAN", Animal Planet
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/157532
 
 ----BBC Earth----
