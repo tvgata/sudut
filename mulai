@@ -7,6 +7,9 @@
 --------------- [ LIVE EVENT ] ----------------
 
 
+---------------------------------
+		MOTO GP
+---------------------------------
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -14,51 +17,64 @@
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd?token_zulkarnaien66
 
 
+---------------------------------
+		BADMINTON
+---------------------------------
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/live%20event.png"  tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/MotoGP.png" group-title="[ BADMINTON ]",MOTOGP Inggris
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd?token_zulkarnaien66
+
+#EXTINF:-1 tvg-id="inews.id" group-title="[ BADMINTON ]" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png", INews
+http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+
 
 ---------------------------------
-		BOLA SEPAK
+		SEPAKBOLA
 ---------------------------------
 
 ----beIN Sports English----
-#EXTINF:-1 tvg-logo="" group-title="[ BOLA SEPAK ]", beIN Sports English
+#EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", beIN Sports English
 http://new-pro.tv:8080/99622282/etbVXafU6f/219142
 
 ----beIN Sports Premium 1----
-#EXTINF:-1 tvg-logo="" group-title="[ BOLA SEPAK ]", beIN Sports Premium 1
+#EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", beIN Sports Premium 1
 
 ----Arena Sport 1P----
-#EXTINF:-1 tvg-logo="" group-title="[ BOLA SEPAK ]", Arena Sport 1P
+#EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", Arena Sport 1P
 http://new-pro.tv:8080/99622282/etbVXafU6f/116138
 
 ----DAZN----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/DAZN.png" group-title="[ BOLA SEPAK ]",DAZN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/DAZN.png" group-title="[ SEPAKBOLA ]",DAZN
 http://62.182.85.148:25443/live/4354355265/6545879898/66046.ts
 
 ----SPORT TV1----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTINF:0 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Sport%20TV1.png" group-title="[ BOLA SEPAK ]", SPORT TV1
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/2560px-Logo_SportTV.svg.png" group-title="[ SEPAKBOLA ]",Sport TV1
 https://webudit.cdnhks.lol/lb/premium49/index.m3u8
 
 ----SPORT TV2----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTINF:0 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Sport%20TV2.png" group-title="[ BOLA SEPAK ]", SPORT TV2
+#EXTINF:0 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Sport%20TV2.png" group-title="[ SEPAKBOLA ]", SPORT TV2
 https://webudit.cdnhks.lol/lb/premium74/index.m3u8
 
 ----SPORT TV6----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTINF:0 tvg-id="sporttv6.pt" tvg-name="SPORT TV 6" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Sport%20TV6.png" group-title="[ BOLA SEPAK ]", SPORT TV6
+#EXTINF:0 tvg-id="sporttv6.pt" tvg-name="SPORT TV 6" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Sport%20TV6.png" group-title="[ SEPAKBOLA ]", SPORT TV6
 https://webudit.cdnhks.lol/lb/premium291/index.m3u8
 
 ----Astro Supersport4----
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="[ BOLA SEPAK ]", Astro Supersport4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="[ SEPAKBOLA ]", Astro Supersport4
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558
 
 ----Sony Ten 2----
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 2" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SONY%20SportsTen2%20HD.png" group-title="[ BOLA SEPAK ]", Sony Ten 2
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 2" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SONY%20SportsTen2%20HD.png" group-title="[ SEPAKBOLA ]", Sony Ten 2
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=156010&extension=ts&play_token=JF4iBmMrpl
+
 
 
 ------------------------------------
