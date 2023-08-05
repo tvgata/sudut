@@ -6,41 +6,11 @@
 
 --------------- [ LIVE EVENT ] ----------------
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/live%20event.png" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Friendly%20Match.png" group-title="[ LIVE EVENT ]", Monastir vs Al Nassr [02.00] - 01/08/23 - Arab Club Champions Cup
-#batas#http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1002796&extension=ts&play_token=jeb4ojj84Z
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Friendly%20Match.png" group-title="[ LIVE EVENT ]", Monastir vs Al Nassr [02.00] - 01/08/23 - Arab Club Champions Cup
-#batas#https://webudit.cdnhks.lol/lb/premium614/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Friendly%20Match.png" group-title="[ LIVE EVENT ]", PSG vs Inter Milan [17.00] - 01/08/23 - Friendly Match
-#batas#http://45.12.1.14:80/7JvIck488/meAqNw5218/15001
-#batas#http://103.180.119.90:9911/stream/channelid/666061261?profile=pass
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Friendly%20Match.png" group-title="[ LIVE EVENT ]", PSG vs Inter Milan [17.00] - 01/08/23 - Friendly Match
-#batas#https://webudit.cdnhks.lol/lb/premium291/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/BWF.png" group-title="[ LIVE EVENT ]",[Court 1] Japan Open 2023
-#batas#https://newanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/BWF.png" group-title="[ LIVE EVENT ]",[Court 3] Japan Open 2023
-#batas#https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Friendly%20Match.png" group-title="[ LIVE EVENT ]", Milan vs Barcelona [10.00] - 02/08/23 - Friendly Match
-#batas#http://103.166.27.2:800/play/a01c
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/MotoGP.png" group-title="[ MOTOGP ]",MOTOGP Inggris
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/live%20event.png"  tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/MotoGP.png" group-title="[ MOTOGP ]",MOTOGP Inggris
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd?token_zulkarnaien66
 
 
@@ -60,6 +30,16 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/219142
 #EXTINF:-1 tvg-logo="" group-title="[ BOLA SEPAK ]", Arena Sport 1P
 http://new-pro.tv:8080/99622282/etbVXafU6f/116138
 
+----DAZN----
+#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/DAZN.de.png" group-title="[ BOLA SEPAK ]",DAZN
+http://62.182.85.148:25443/live/4354355265/6545879898/66046.ts
+
+----SPORT TV1----
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTINF:0 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Sport%20TV1.png" group-title="[ BOLA SEPAK ]", SPORT TV1
+https://webudit.cdnhks.lol/lb/premium49/index.m3u8
+
 ----SPORT TV2----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -71,6 +51,14 @@ https://webudit.cdnhks.lol/lb/premium74/index.m3u8
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTINF:0 tvg-id="sporttv6.pt" tvg-name="SPORT TV 6" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Sport%20TV6.png" group-title="[ BOLA SEPAK ]", SPORT TV6
 https://webudit.cdnhks.lol/lb/premium291/index.m3u8
+
+----Astro Supersport4----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="[ BOLA SEPAK ]", Astro Supersport4
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558
+
+----Sony Ten 2----
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 2" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SONY%20SportsTen2%20HD.png" group-title="[ BOLA SEPAK ]", Sony Ten 2
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=156010&extension=ts&play_token=JF4iBmMrpl
 
 
 ------------------------------------
