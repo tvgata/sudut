@@ -42,7 +42,7 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/219142
 #EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", beIN Sports Premium 1
 
 ----Arena Sport 1P----
-#EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", Arena Sport 1P
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Arena%20Sport1.png" group-title="[ SEPAKBOLA ]", Arena Sport 1P
 http://new-pro.tv:8080/99622282/etbVXafU6f/116138
 
 ----DAZN----
