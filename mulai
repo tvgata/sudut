@@ -31,7 +31,7 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/219142
 http://new-pro.tv:8080/99622282/etbVXafU6f/116138
 
 ----DAZN----
-#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/DAZN.de.png" group-title="[ BOLA SEPAK ]",DAZN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/DAZN.png" group-title="[ BOLA SEPAK ]",DAZN
 http://62.182.85.148:25443/live/4354355265/6545879898/66046.ts
 
 ----SPORT TV1----
