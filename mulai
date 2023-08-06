@@ -21,13 +21,11 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298571
 		BADMINTON
 ---------------------------------
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/live%20event.png"  tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/MotoGP.png" group-title="[ BADMINTON ]",Spotv 2
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd?token_zulkarnaien66
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298571
 
 #EXTINF:-1 tvg-id="inews.id" group-title="[ BADMINTON ]" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png", INews
-http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/157579
 
 
 ---------------------------------
