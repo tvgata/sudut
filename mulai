@@ -17,10 +17,10 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/162502
 #EXTINF:-1 group-title="[ MOTOGP ]" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SPOTV2.png", Spotv 2
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298571
 
-#EXTINF:-1 group-title="[ MOTOGP ]" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/PPTV%2036.png", Sky Sport MotoGP (IT)
+#EXTINF:-1 group-title="[ MOTOGP ]" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Sky%20Sport%20MotoGP.png", Sky Sport MotoGP (IT)
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/9880
 
-#EXTINF:-1 group-title="[ MOTOGP ]" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/PPTV%2036.png", Sky Sport MotoGP (ES)
+#EXTINF:-1 group-title="[ MOTOGP ]" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Sky%20Sport%20MotoGP.png", Sky Sport MotoGP (ES)
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/281492
 
 #EXTINF:-1 group-title="[ MOTOGP ]" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/ESPN.png", ESPN (MX)
@@ -34,6 +34,11 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/6273
 
 #EXTINF:-1 group-title="[ MOTOGP ]" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/PPTV%2036.png", PPTV 36 (TH)
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/281639
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTINF:0 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Sport%20TV4.png" group-title="[ MOTOGP ]", SPORT TV4
+https://webudit.cdnhks.lol/lb/premium289/index.m3u8
 
 
 ---------------------------------
