@@ -14,7 +14,7 @@
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/live%20event.png" group-title="[ MOTOGP ]" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png", Trans 7
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/162502
 
-#EXTINF:-1 group-title="[ MOTOGP ]" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png", Spotv 2
+#EXTINF:-1 group-title="[ MOTOGP ]" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SPOTV2.png", Spotv 2
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298571
 
 #EXTINF:-1 group-title="[ MOTOGP ]" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/PPTV%2036.png", Sky Sport MotoGP (IT)
@@ -40,7 +40,7 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/281639
 		BADMINTON
 ---------------------------------
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/live%20event.png"  tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/MotoGP.png" group-title="[ BADMINTON ]",Spotv 2
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/live%20event.png"  tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SPOTV2.png" group-title="[ BADMINTON ]",Spotv 2
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298571
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png" group-title="[ BADMINTON ]", INews
