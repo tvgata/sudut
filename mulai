@@ -99,7 +99,7 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/157558
 
 ----Sony Ten 2----
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 2" tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SONY%20SportsTen2%20HD.png" group-title="[ SEPAKBOLA ]", Sony Ten 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SONY%20SportsTen2%20HD.png" group-title="[ SEPAKBOLA ]", Sony Ten 2
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=156010&extension=ts&play_token=JF4iBmMrpl
 
 #EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", ELEVEN SPORTS 1 (BE)
@@ -108,16 +108,16 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/36420
 #EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", Nova Sport 1 (CZ)
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/279611
 
-#EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", V Sport Premium (SE)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/V%20Sport%20Premium.png" group-title="[ SEPAKBOLA ]", V Sport Premium (SE)
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/6275
 
-#EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", DAZN 1 (IT)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/DAZN.png" group-title="[ SEPAKBOLA ]", DAZN 1 (IT)
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/79220
 
 #EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", beIN Sports Premium 1 (QA)
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/109
 
-#EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", DAZN 2 (ES)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/DAZN.png" group-title="[ SEPAKBOLA ]", DAZN 2 (ES)
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/64712
 
 #EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", itv 1 (UK)
