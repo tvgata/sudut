@@ -122,13 +122,13 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/109
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/DAZN.png" group-title="[ SEPAKBOLA ]", DAZN 2 (ES)
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/64712
 
-#EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", itv 1 (UK)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/itv%201.png" group-title="[ SEPAKBOLA ]", itv 1 (UK)
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/296931
 
 #EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", MOVISTAR LaLiga (ES)
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/1141
 
-#EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", ESPN (US)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/ESPN.png" group-title="[ SEPAKBOLA ]", ESPN (US)
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/747
 
 #EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", DAZN LaLiga (ES)
