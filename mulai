@@ -107,7 +107,7 @@ http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=156010&e
 #EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", ELEVEN SPORTS 1 (BE)
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/36420
 
-#EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", Nova Sport 1 (CZ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/nova%20Sport1.png" group-title="[ SEPAKBOLA ]", Nova Sport 1 (CZ)
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/279611
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/V%20Sport%20Premium.png" group-title="[ SEPAKBOLA ]", V Sport Premium (SE)
@@ -125,7 +125,7 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/64712
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/itv%201.png" group-title="[ SEPAKBOLA ]", itv 1 (UK)
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/296931
 
-#EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", MOVISTAR LaLiga (ES)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/MOVISTAR%20LaLiga.png" group-title="[ SEPAKBOLA ]", MOVISTAR LaLiga (ES)
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/1141
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/ESPN.png" group-title="[ SEPAKBOLA ]", ESPN (US)
