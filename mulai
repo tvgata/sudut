@@ -153,7 +153,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png", Net (**)
-http://103.180.119.90:9911/stream/channelid/666061261?profile=pass
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/80292
 
 
 ----SCTV----
@@ -170,7 +170,7 @@ http://103.152.118.53:80/play/esceteve/index.m3u8
 http://103.166.27.2:800/play/a016
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png", Indosiar (*)
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/162138
 
 
 ----TVOne----
@@ -218,7 +218,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 
 ----JTV----
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="INDONESIA", Jtv
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165091
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/165091
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="INDONESIA", Jtv (*)
 http://103.166.27.2:800/play/a01s
@@ -240,7 +240,7 @@ http://103.166.27.2:800/play/a017
 
 ----TVRI----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="INDONESIA", Tvri
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162504
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/162504
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="INDONESIA", Tvri (*)
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
@@ -290,7 +290,7 @@ http://37.49.230.161:8080/3f6d5b2f/4b60123137/298524
 
 ----CNBC Indonesia----
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/berita.png" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650" group-title="BERITA", CNBC Indonesia
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165062
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/165062
 
 ----CNN Indonesia----
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/640px-Logo_of_CNN_Indonesia.svg.png" group-title="BERITA", CNN Indonesia
@@ -304,7 +304,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 ----Berita Satu news----
 #EXTINF:-1 tvg-logo="https://dev.firstmedia.com:8443/files/images/d/new-logo/channels/11-NEWS/Berita%20Satu%20SD-FirstMedia-Chl-1.jpg" group-title="BERITA", Berita Satu news
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/287421
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/287421
 
 ----Berita Satu World----
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3wBsPmSp34BKSo9RXB-1xoPZlp5B81mCTaMQYPwUPI6KO-YHQZBGRgOfb1xepXRlvdFc&usqp=CAU" group-title="BERITA", Berita Satu World
@@ -316,7 +316,7 @@ http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/166399
 
 ----MNC News----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png" group-title="BERITA", MNC News
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165058
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/165058
 
 ----IDX----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -364,7 +364,7 @@ http://37.49.230.161:8080/3f6d5b2f/4b60123137/298506
 
 ----Fight Sport----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="OLAHRAGA", Fight Sport
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298531
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298531
 
 ----SportStars----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -413,11 +413,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd?to
 
 ----Usee Sport 1----
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Usee%20Sports.png" group-title="OLAHRAGA", Usee Sport 1
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298577
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298577
 
 ----Usee Sport 2----
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Usee%20Sports2.png" group-title="OLAHRAGA", Usee Sport 2
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298578
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298578
 
 ----Golf----
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/CNBC%20GOLF.png" group-title="OLAHRAGA", Golf
@@ -942,7 +942,7 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/178389
 
 ----Celestial Movies----
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Group/film.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5726nmxM-oTCBiKMLzve_f4sUN5YdLpCKrg&usqp=CAU" group-title="FILM", Celestial Movies
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165065
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/165065
 
 ----Celestial Clasic Movies----
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2tbZe1KAOHbwkFzav1rGRhvPS7D4yAZ1UGw&usqp=CAU" group-title="FILM", Celestial Clasic Movies
@@ -951,55 +951,55 @@ http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 
 ----Etv Bioskop----
 #EXTINF:-1 group-title="FILM", Etv Bioskop
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298526
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298526
 
 ----Etv Bioskop 02----
 #EXTINF:-1 group-title="FILM", Etv Bioskop 02
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298527
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298527
 
 ----Etv Bioskop 03----
 #EXTINF:-1 group-title="FILM", Etv Bioskop 03
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298528
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298528
 
 ----Etv Bioskop 04----
 #EXTINF:-1 group-title="FILM", Etv Bioskop 04
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298529
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298529
 
 ----Bioskop Indonesia----
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="FILM", Bioskop Indonesia
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264801
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/264801
 
 ----TVN----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png" group-title="FILM", TVN
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197965
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/197965
 
 ----TVN Movies----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png" group-title="FILM", TVN Movies
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/157596
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/157596
 
 ----HBO----
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo-home-box-office9772.jpg" group-title="FILM", HBO
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197972
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/197972
 
 ----HBO Family----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png" group-title="FILM", HBO Family
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197055
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/197055
 
 ----HBO Hits----
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBV8EcYwRYQaVXIBoqInQAYRIj_DgfboUswMLC_GoYgpf9uep5mcSDSGagw7Fl0qZgoQA&usqp=CAU" group-title="FILM", HBO Hits
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/196480
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/196480
 
 ----HBO Signature----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="FILM", HBO Signature
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/221948
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/221948
 
 ----FLIK----
 #EXTINF:-1 tvg-logo="" group-title="FILM", FLIK
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165095
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/165095
 
 ----FMN----
 #EXTINF:-1 tvg-logo="" group-title="FILM", FMN
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165057
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/165057
 
 ----Fox Crime----
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef0e5e0250f0cc3e2bac80acdf3f841d.png" group-title="FILM", Fox Crime
@@ -1007,31 +1007,31 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165076
 
 ---- Galaxy----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" group-title="FILM", Galaxy
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264773
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/264773
 
 ----Galaxy Premium----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="FILM", Galaxy Premium
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264774
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/264774
 
 ----GEM----
 #EXTINF:-1 tvg-logo="" group-title="FILM", GEM
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298533
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298533
 
 ----K+----
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QYR53ti.png" group-title="FILM", K+
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197969
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/197969
 
 ----Sony One----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_164.png" group-title="FILM", Sony One
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165077
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/165077
 
 ----Zee Bioskop----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png" group-title="FILM", Zee Bioskop
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157584
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/157584
 
 ----Thrill----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="FILM", Thrill
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157580
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/157580
 
 ----KIX----
 #EXTINF:-1 tvg-logo="" group-title="FILM", KIX
@@ -1053,7 +1053,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45
 
 ----TV Mu----
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png" group-title="ISLAMI", TV Mu
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/196459
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/196459
 
 ----TV 9 Nusantara----
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="ISLAMI", TV 9 Nusantara
@@ -1122,7 +1122,7 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 ----Discovery Asia HD----
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Knowledge/Discovery%20Asia.png" group-title="PENGETAHUAN", Discovery Asia HD
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197968
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/197968
 
 ----National Geographic----
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Knowledge/National%20Geographic.png" group-title="PENGETAHUAN", National Geographic
@@ -1134,7 +1134,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
 
 ----Animal Planet----
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Knowledge/Animal%20Planet.png" group-title="PENGETAHUAN", Animal Planet
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/157532
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/157532
 
 ----BBC Earth----
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Knowledge/BBC%20Earth.png" group-title="PENGETAHUAN", BBC Earth
