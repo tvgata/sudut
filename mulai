@@ -134,8 +134,9 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/747
 #EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", DAZN LaLiga (ES)
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/297787
 
-#EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", Setanta Sports 2 (UKR)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Setanta%20Sports2.png" group-title="[ SEPAKBOLA ]", Setanta Sports 2 (UKR)
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/299609
+
 
 ------------------------------------
             INDONESIA 
