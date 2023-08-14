@@ -63,7 +63,8 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/157579
 
 ----beIN Sports English----
 #EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", beIN Sports English
-http://new-pro.tv:8080/99622282/etbVXafU6f/219142
+https://edge02.odtv.az/o4/beinsport/playlist.m3u8
+##http://new-pro.tv:8080/99622282/etbVXafU6f/219142
 
 ----Arena Sport 1P----
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Arena%20Sport1.png" group-title="[ SEPAKBOLA ]", Arena Sport 1P
@@ -117,7 +118,9 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/6275
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/79220
 
 #EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", beIN Sports Premium 1 (QA)
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/109
+http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6131/index.m3u8 
+##http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/109
+##http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/109
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/DAZN.png" group-title="[ SEPAKBOLA ]", DAZN 2 (ES)
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/64712
@@ -134,8 +137,16 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/747
 #EXTINF:-1 tvg-logo="" group-title="[ SEPAKBOLA ]", DAZN LaLiga (ES)
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/297787
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Setanta%20Sports1.png" group-title="[ SEPAKBOLA ]", Setanta Sports 1 (UKR)
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/299608
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Setanta%20Sports2.png" group-title="[ SEPAKBOLA ]", Setanta Sports 2 (UKR)
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/299609
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/299609
+##http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/299609
+
+----beIN Sports 3 (ID)----
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS1.png" group-title="[ SEPAKBOLA ]", beIN Sports 3 (ID)
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298506
 
 #EXTINF:-1  tvg-logo="" group-title="[ SEPAKBOLA ]",OPTUS SPORTS1_live_only
 http://shareext@connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1032471&extension=ts&play_optussport1
