@@ -560,28 +560,28 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298531
 ----SportStars----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars.png" group-title="OLAHRAGA", SportStars
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6q4C6qnK/SportStars.png" group-title="OLAHRAGA", SportStars
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd?token_zulkarnaien66
 
 ----SportStars 2----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars2.png" group-title="OLAHRAGA", SportStars 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jCVPDT47/SportStars2.png" group-title="OLAHRAGA", SportStars 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd?token_zulkarnaien66
 
 ----SportStars 3----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars3.png" group-title="OLAHRAGA", SportStars 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PWntP3x/SportStars3.png" group-title="OLAHRAGA", SportStars 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd?token_zulkarnaien66
 
 ----SportStars 4----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/SportStars4.png" group-title="OLAHRAGA", SportStars 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1vYKccz/SportStars4.png" group-title="OLAHRAGA", SportStars 4
 http://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 ----Soccer Channel----
@@ -593,25 +593,25 @@ https://nxanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 ----SpoTV----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="OLAHRAGA", SpoTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZntrtqV/SPOTV.png" group-title="OLAHRAGA", SpoTV
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd?token_zulkarnaien66
 
 ----SpoTV 2----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-id="spotv2.kr" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="OLAHRAGA", SpoTV 2
+#EXTINF:-1 tvg-id="spotv2.kr" tvg-logo="https://i.postimg.cc/BvZYS56G/SPOTV2.png" group-title="OLAHRAGA", SpoTV 2
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd?token_zulkarnaien66
 
 ----Usee Sport 1----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Usee%20Sports.png" group-title="OLAHRAGA", Usee Sport 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTr6JVC5/Usee_Sports.png" group-title="OLAHRAGA", Usee Sport 1
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298577
 
 ----Usee Sport 2----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Usee%20Sports2.png" group-title="OLAHRAGA", Usee Sport 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKyd13fS/Usee_Sports2.png" group-title="OLAHRAGA", Usee Sport 2
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298578
 
 ----Golf----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/CNBC%20GOLF.png" group-title="OLAHRAGA", Golf
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWCGYbGC/CNBC-GOLF.png" group-title="OLAHRAGA", Golf
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298534
 
 ----NBA TV----
@@ -645,11 +645,11 @@ http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857f48ecd2017f5ea03c5313e9/7a84b24e750f43d49799c533c6b9c709.png" group-title="OLAHRAGA",Horizon Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wHpDw8B/Horizon-Sports.png" group-title="OLAHRAGA",Horizon Sports
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856b6088c3016b87d55f480b52/manifest.mpd
 
 ----REDBULL TV----
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="OLAHRAGA", RedBull TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VksPsqMB/Red-Bull-TV.png" group-title="OLAHRAGA", RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 ----Canal Motor----
@@ -662,15 +662,15 @@ https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 ##https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68578b331d80178b5acf1fd0a55/manifest.mpd
 
 ----Billiard TV----
-#EXTINF:-1 tvg-logo="https://images.prismic.io/atmosphere-marketing/372f3f16-2a2d-401b-ba32-08e6f8e01693_Billiards+-+Channel+Logo.png" group-title="OLAHRAGA", Billiard TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTTSZmvB/Billiards-TV.png" group-title="OLAHRAGA", Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
 ----World Poker Tour----
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AF1ON8u.png" group-title="OLAHRAGA", World Poker Tour
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzP1yJxQ/World-Poker-Tour.png" group-title="OLAHRAGA", World Poker Tour
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 ----Poker TV----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/Poker%20TV.png" tvg-name="Poker TV" group-title="OLAHRAGA", Poker TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4XcC7TM/Poker-TV.png" tvg-name="Poker TV" group-title="OLAHRAGA", Poker TV
 https://hls.pokertvfa.live/hls/stream.m3u8
 
 
@@ -709,15 +709,15 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157557
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558
 
 ----beIN Sports 1----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS1.png" group-title="SEPAK BOLA", beIN Sports 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wDhBHXR/be-IN-SPORTS1.png" group-title="SEPAK BOLA", beIN Sports 1
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/15204.ts
 
 ----beIN Sports 2----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS2.png" group-title="SEPAK BOLA", beIN Sports 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wT09x2x6/be-IN-SPORTS2.png" group-title="SEPAK BOLA", beIN Sports 2
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/15203.ts
 
 ----beIN Sports 3----
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/sudut/main/Logo/Sports/beIN%20SPORTS3.png" group-title="SEPAK BOLA", beIN Sports 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkndrMjb/be-IN-SPORTS3.png" group-title="SEPAK BOLA", beIN Sports 3
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/83080.ts
 
 ----BEIN SPORTS PREMIUM 1 AR----
